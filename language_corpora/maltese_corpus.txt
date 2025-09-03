@@ -1,0 +1,776 @@
+Ir-Rinaxximent huwa perjodu fl-istorja Ewropea li jimmarka t-tranżizzjoni mill-Medju Evu għall-modernità u li jkopri s-sekli 15 u 16, ikkaratterizzati minn sforz biex jitqanqlu u jiġu superati l-ideat u l-kisbiet tal-antikità klassika. Seħħ wara l-Kriżi tal-Medju Evu Aħħari u kien assoċjat ma' tibdil soċjali kbir. Minbarra l-perjodizzazzjoni standard, proponenti ta' "Rinaxximent twil" isostnu li beda fis-seklu 14 u ntemm fis-seklu 17.
+Il-fehma tradizzjonali tiffoka iktar fuq l-aspetti moderni bikrin tar-Rinaxximent u targumenta li kien tbegħid mill-imgħoddi, iżda bosta storiċi llum jiffukaw iktar fuq l-aspetti Medjevali tiegħu u jargumentaw li kien estensjoni tal-Medju Evu. Madankollu, fil-bidu tal-perjodu – ir-Rinaxximent Bikri tas-seklu 15 u l-Proto-Rinaxximent Taljan tal-ħabta tal-1250 jew l-1300 – jirkbu b'konsiderevoli fuq xulxin mal-Medju Evu Aħħari, datat konvenzjonalment għall-ħabta tal-1250-1500, u l-Medju Evu stess kien perjodu twil mimli bidliet gradwali, bħall-epoka moderna; u bħala perjodu ta' tranżizzjoni bejn iż-żewġ perjodi, ir-Rinaxximent għandu similaritajiet mat-tnejn li huma, speċjalment mas-subperjodi aħħarin u bikrin tagħhom.
+
+Il-bażi intellettwali tar-Rinaxximent kienet il-verżjoni tiegħu tal-umaniżmu, li oriġina mill-kunċett Ruman ta' humanitas u l-iskoperta mill-ġdid tal-filosofija Griega klassika, bħal dik ta' Protagora, li qal li "l-bniedem huwa l-kejl ta' kollox". Dan il-ħsieb ġdid ġie manifestat fl-arti, fl-arkitettura, fil-politika, fix-xjenza u fil-letteratura. Eżempji bikrin kienu l-iżvilupp tal-perspettiva fil-pittura biż-żejt u l-għarfien imqanqal ta' kif jiġi prodott il-konkos. Għalkemm l-invenzjoni tat-tipa mobbli tal-metall ħaffet it-tixrid tal-ideat mill-aħħar tas-seklu 15, il-bidliet tar-Rinaxximent ma kinux uniformi madwar l-Ewropa: l-ewwel traċċi feġġew fl-Italja saħansitra fl-aħħar tas-seklu 13, b'mod partikolari l-kitbiet ta' Dante u l-pitturi ta' Giotto.
+Bħala moviment kulturali, ir-Rinaxximent kien jinkorpora t-tkattir tal-letteratura Latina u vernakulari, l-ewwel nett permezz tal-apprendiment fis-seklu 14 ibbażat fuq sorsi klassiċi, li l-kontemporanji akkreditaw lil Petrarka; l-iżvilupp tal-perspettiva lineari u tekniki oħra li jwasslu għal realtà iktar naturali fil-pittura; u r-riforma edukattiva gradwali iżda mifruxa. Fil-politika, ir-Rinaxximent ikkontribwiet għall-iżvilupp tad-drawwiet u tal-konvenzjonijiet tad-diplomazija, u fix-xjenza għal iktar dipendenza fuq l-osservazzjoni u r-raġunament intuwittiv. Għalkemm fir-Rinaxximent seħħew rivoluzzjonijiet f'bosta oqsma intellettwali u xjentifiċi soċjali, kif ukoll l-introduzzjoni tas-sistema bankarja moderna u l-qasam tal-kontabilità, x'aktarx li huwa magħruf l-iktar għall-iżviluppi artistiċi u l-kontributi tiegħu minn artisti famużi bħal Leonardo da Vinci u Michelangelo, li ispiraw it-terminu "raġel Rinaxximentali".
+
+Ir-Rinaxximent beda f'Firenze, wieħed mill-bosta stati tal-Italja. Ġew proposti diversi teoriji dwar l-oriġini u l-karatteristiċi tiegħu, b'enfasi fuq varjetà ta' fatturi, inkluż il-karatteristiċi soċjali u ċiviċi ta' Firenze ta' dak iż-żmien: l-istruttura politika, il-patrunaġġ tal-familja dominanti, il-Medici, u l-migrazzjoni tal-istudjużi Griegi u tat-testi tagħhom lejn l-Italja wara l-waqgħa ta' Kostantinopli f'idejn it-Torok Ottomani. Ċentri ewlenin oħra kienu Venezja, Genoa, Milan, Ruma matul il-Papat Rinaxximentali, u Napli. Mill-Italja, ir-Rinaxximent infirex mal-Ewropa kollha, l-ewwel lejn l-Ungerija (fis-sekli 14 u 15) u lejn Franza, Spanja, il-Portugall, il-Fjandri, l-artijiet Ġermaniżi, il-Polonja, ir-Renju Unit, l-Irlanda u lil hinn.
+Ir-Rinaxximent għandu storjografija twila u kumplessa, u skont ix-xettiċiżmu ġenerali ta' perjodizzazzjonijiet diskreti, kien hemm ħafna dibattiti fost l-istoriċi b'reazzjoni għall-glorifikazzjoni tar-"Rinaxximent" fis-seklu 19 u ta' eroj kulturali individwali bħala "rġiel Rinaxximentali", u ddubitaw dwar l-utilità tar-Rinaxximent bħala terminu u bħala referenza storika. Xi osservaturi ddubitaw jekk ir-Rinaxximent kienx "avvanz" kulturali mill-Medju Evu, u minflok rawh bħala perjodu ta' pessimiżmu u nostalġija għall-antikità klassika, filwaqt li l-istoriċi soċjali u ekonomiċi, speċjalment tal-longue durée, minflok iffukaw fuq il-kontinwità bejn iż-żewġ eri, li huma interkonnessi, kif josserva Panofsky, "minn elf rabta".
+It-terminu rinascita ("twelid mill-ġdid") tfaċċa għall-ewwel darba fil-Ħajjiet tal-Artisti ta' Giorgio Vasari (għall-ħabta tal-1550), li nbidel f'"Rinaxximent" fis-snin 30 tas-seklu 19. It-terminu ġie estiż ukoll għal movimenti storiċi u kulturali oħra, bħar-Rinaxximent Karolinġju (is-sekli 8 u 9), ir-Rinaxximent Ottonjan (is-sekli 10 u 11), u r-Rinaxximent tas-seklu 12.
+
+
+== Sorsi ġenerali ==
+Burckhardt, Jacob, The Civilization of the Renaissance in Italy (1860).
+Cartledge, Bryan (2011). The Will to Survive: A History of Hungary. C. Hurst & Co. ISBN 978-1849041126.
+E. Kovács, Péter (1990). Matthias Corvinus (in Hungarian). Officina Nova. ISBN 9637835490.
+Engel, Pál (2001). The Realm of St Stephen: A History of Medieval Hungary, 895–1526. I.B. Tauris Publishers. ISBN 1860640613.
+Hendrix, Scott E. (2013). "Astrological forecasting and the Turkish menace in the Renaissance Balkans" (PDF). Anthropology. Universitatis Miskolciensis. 13 (2): 57–72. ISSN 1452-7243.
+Klaniczay, Tibor (1992). "The age of Matthias Corvinus". In Porter, Roy; Teich, Mikuláš (eds.). The Renaissance in National Context. Cambridge University Press. pp. 164–179. ISBN 0521369703.
+Kubinyi, András (2008). Matthias Rex. Balassi Kiadó. ISBN 978-9635067671.
+Reynolds, L. D.; Wilson, Nigel (1974). Scribes and Scholars: A Guide to the Transmission of Greek and Latin Literature. Oxford: Clarendon Press. ISBN 978-0199686339. OL 26919731M.
+Tanner, Marcus (2009). The Raven King: Matthias Corvinus and the Fate of his Lost Library. Yale University Press. ISBN 978-0300158281.
+
+
+== Iktar qari ==
+Cronin, Vincent (1969), The Flowering of the Renaissance, ISBN 0712698841.
+Cronin, Vincent (1992), The Renaissance, ISBN 0002154110.
+Campbell, Gordon. The Oxford Dictionary of the Renaissance. (2003). 862 pp.
+Davis, Robert C. Renaissance People: Lives that Shaped the Modern Age. (2011). ISBN 978-1606060780.
+Ergang, Robert (1967), The Renaissance, ISBN 0442023197.
+Ferguson, Wallace K. (1962), [Europe in Transition, 1300–1500], ISBN 0049400088.
+Fisher, Celia. Flowers of the Renaissance. (2011). ISBN 978-1606060629.
+Fletcher, Stella. The Longman Companion to Renaissance Europe, 1390–1530. (2000). 347 pp.
+Grendler, Paul F., ed. The Renaissance: An Encyclopedia for Students. (2003). 970 pp.
+Hale, John. The Civilization of Europe in the Renaissance. (1994). 648 pp.
+Hall, Bert S. Weapons and Warfare in Renaissance Europe: Gunpowder, Technology, and Tactics (2001).
+Hattaway, Michael, ed. A Companion to English Renaissance Literature and Culture. (2000). 747 pp.
+Jensen, De Lamar (1992), Renaissance Europe, ISBN 0395889472.
+Johnson, Paul. The Renaissance: A Short History. (2000). 197 pp.
+Keene, Bryan C. Gardens of the Renaissance. (2013). ISBN 978-1606061435.
+King, Margaret L. Women of the Renaissance (1991).
+Kristeller, Paul Oskar, and Michael Mooney. Renaissance Thought and its Sources (1979).
+Nauert, Charles G. Historical Dictionary of the Renaissance. (2004). 541 pp.
+Patrick, James A., ed. Renaissance and Reformation (5 vol 2007), 1584 pages; comprehensive encyclopedia.
+Plumb, J.H. The Italian Renaissance (2001).
+Paoletti, John T. and Gary M. Radke. Art in Renaissance Italy (4th ed. 2011).
+Potter, G.R. ed. The New Cambridge Modern History: Volume 1: The Renaissance, 1493–1520 (1957).
+Robin, Diana; Larsen, Anne R.; and Levin, Carole, eds. Encyclopedia of Women in the Renaissance: Italy, France, and England (2007) 459 pp.
+Rowse, A.L. The Elizabethan Renaissance: The Life of the Society (2000).
+Ruggiero, Guido. The Renaissance in Italy: A Social and Cultural History of the Rinascimento (Cambridge University Press, 2015). 648 pp.
+Rundle, David, ed. The Hutchinson Encyclopedia of the Renaissance. (1999). 434 pp.
+Turner, Richard N. Renaissance Florence (2005).
+Ward, A. The Cambridge Modern History. Vol 1: The Renaissance (1902); older essays by scholars; emphasis on politics.
+
+
+== Storjografija ==
+Bouwsma, William J. "The Renaissance and the drama of Western history." American Historical Review (1979): 1–15.
+Caferro, William. Contesting the Renaissance (2010).
+Ferguson, Wallace K. "The Interpretation of the Renaissance: Suggestions for a Synthesis." Journal of the History of Ideas (1951): 483–495.
+Ferguson, Wallace K. "Recent trends in the economic historiography of the Renaissance." Studies in the Renaissance (1960): 7–26.
+Ferguson, Wallace Klippert. The Renaissance in historical thought (AMS Press, 1981).
+Grendler, Paul F. "The Future of Sixteenth Century Studies: Renaissance and Reformation Scholarship in the Next Forty Years", Sixteenth Century Journal Spring 2009, Vol. 40 Issue 1, pp. 182.
+Murray, Stuart A.P. The Library: An Illustrated History. American Library Association, Chicago, 2012.
+Ruggiero, Guido, ed. A Companion to the Worlds of the Renaissance. (2002). 561 pp.
+Starn, Randolph. "A Postmodern Renaissance?" Renaissance Quarterly 2007 60(1): 1–24 in Project MUSE.
+Summit, Jennifer. "Renaissance Humanism and the Future of the Humanities". Literature Compass (2012) 9#10 pp: 665–678.
+Trivellato, Francesca. "Renaissance Italy and the Muslim Mediterranean in Recent Historical Work", Journal of Modern History (March 2010), 82#1 pp: 127–155.
+Woolfson, Jonathan, ed. Palgrave advances in Renaissance historiography (Palgrave Macmillan, 2005).
+
+
+== Sorsi primarji ==
+Bartlett, Kenneth, ed. The Civilization of the Italian Renaissance: A Sourcebook (2nd ed., 2011).
+Ross, James Bruce, and Mary M. McLaughlin, eds. The Portable Renaissance Reader (1977).
+
+
+== Referenzi ==
+
+Għal użi oħra, ara Ewropa (diżambigwazzjoni)
+
+F'sens ġeoloġiku u ġeografiku, l-Ewropa hija peniżola; il-parti tal-punent tal-Ewrasja. Xorta hija meqjusa bħala kontinent għal motivi kulturali. L-Ewropa hija kontinent żgħir b'10,400,000 km² (l-Awstralja biss hija iżgħar minnha) imma għandha 799,000,000 abitant (statistiċi tal-2003) li jqiegħduha fit-tielet post fil-lista ta' kontinenti l-iktar popolati (wara l-Asja u l-Afrika); bejn wieħed u ieħor fl-Ewropa tinsab persuna minn kull tmienja tal-popolazzjoni mondjali.
+L-Ewropa influwenzat b'mod notevoli l-istorja u l-kultura tad-dinja ċivilizzata. Andreas Kaplan jiddefinixxi l-Ewropa bħala l-akbar diversità kulturali fl-iżgħar distanzi ġeografiċi. Il-pożizzjoni ċentrali tal-Ewropa, kuntrarju għall-kontinenti l-oħra, kif ukoll il-preżenza tal-baħar, dejjem iffavorixxew il-komunikazzjoni bejn il-popli tad-diversi reġjuni u l-migrazzjoni lejn ir-reġjuni l-oħra tad-dinja. Il-klima xejn kiefra li tinsab fil-parti l-kbira tal-kontinent, għenet ukoll biex dan il-kontinent jiġi abitat b'mod dens.
+Il-baħar jifforma l-parti l-kbira tal-konfini naturali tal-Ewropa. Fit-Tramuntana hemm il-Baħar Artiku, fil-Punent l-Oċean Atlantiku, fin-Nofsinhar il-Mediterran, il-Baħar l-Iswed, u l-Kawkasu, fil-Lvant il-Baħar Kaspju, il-katina muntanjuża tal-Urali u x-xmara Ural.
+
+
+== L-oriġini tal-isem "Ewropa" ==
+L-isem "Ewropa" ġej mil-lingwa Griega (bil-Grieg: Ευρώπη) li tfisser "għajnejn kbar" u kienet personaġġ tal-mitoloġija Griega. Ewropa kienet bint Aġenor, re ta' Tiru, fejn din kienet belt antika fil-Kananija u kolonja Griega. Żeus, li sar iħobbha ddeċieda li jisraqha u ttrasforma ruħu f'barri abjad. Waqt li kienet qed tiġbor il-fjuri max-xatt tal-baħar, Ewropa rat il-barri li kien qed jersaq lejha. Kienet daqxejn beżgħana imma l-barri niżel għarkubbtejh u Ewropa kkalmat. Meta rat li kien iħalliha toqgħod tmellsu, Ewropa telgħet fuq dahar il-barri u dan wassalha sa Kreta. Żeus reġa' sar alla u wrielha mħabbtu. Huma kellhom tlett itfal: Minosse, Sarpedon u Radamantu. Minosse sar re ta' Kreta u twieldet iċ-ċivilità ta' Kreta li kienet il-benniena taċ-ċivilità Ewropea.
+
+
+== Twelid tal-Ewropa u tal-Ewropej ==
+Fl-epoka Griega u Rumana, l-Ewropa kien terminu ġeografiku indefenit, art fit-Tramuntana tal-Mediterran li ħadd ma kien jaf il-konfini Nordiċi tagħha. Fir-rikostruzzjoni tal-ġeografiku Grieg Ekateu ta' Miletu, l-art kienet tikkonsisti minn żewġ kontinenti maqsumin mill-Mediterran, iċ-ċentru tad-dinja: minn naħa l-Ewropa kienet tikkonfina mat-Tramuntana, u minn naħa l-oħra l-Asja, fejn kienet tinkludi wkoll l-Eġittu u l-Libja.
+Rari ħafna kienu l-awturi Latini jiċċitaw it-termini "Ewropa" u "Ewropej". L-ewwel li uża l-aġġettiv "Ewropew" b'tifsira aktarx waħda rilevanti hu fis-seklu 8 mill-patri Isidoro Pacensis, biex jindika li s-suldati taħt il-gwida ta' Karlu Martell, kienu għadhom kemm iġġieldu fi Poitiers. Il-battalja kienet tat valur simboliku kbir: l-Oċċident Kristjan idealment rappreżentat mill-Ewropa, li kienet waqqfet l-espansjoni Għarbija; u b'hekk Isidoro għamel użu tal-aġġettiv "Ewropew" biex jattribwixxi identità kollettiva għas-suldati li kienu waqqfu l-invażuri Musulmani.
+L-Ewropa, għall-ewwel darba, saret politika konkreta u reali bl-imperatur Karlu Manju. Fit-tmiem tat-tmien seklu u l-bidu tad-disa' seklu, wara tmiem ta' madwar tletin sena ta' gwerra kontra l-Lombardi, l-Avari, is-Sassoni u s-Slavi, twieldet entità ġdida fejn ingħaqdu l-qawwa antika ta' Ruma, l-awtorità spirtwali tal-Papa u l-qawwa tal-poplu Ġermaniż. Karlu ffonda l-Ewropa, li b'espressjoni ġeografika saret Imperu kbir li juża l-istess munita, li adotta il-Latin bħala l-lingwa uffiċjali tal-kitba u li għandha reliġjon waħda.
+
+
+== Ġeografija ==
+Biex tapprofondixxi, ara l-artiklu:  Ġeografija tal-Ewropa.
+
+Ġeografikament, l-Ewropa hi parti tas-superkontinent tal-Ewrasja.
+Il-konfini fuq il-Lvant tal-kontinent jibdew mill-muntanji Urali fir-Russja, fejn ikomplu max-xmara Ural u d-depressjoni ta' Kuma-Manych fin-Nofsinhar, li jisseparah mill-Asja. Din il-linja ta' demarkazzjoni kienet definita miz-Zar tar-Russja mill-1730 minn bażi ta' xogħlijiet ġeografiċi tal-Ġermaniż Philip Johan von Strahlenberg. Madankollu, mhux kulħadd jaċċetta din il-konvenzjoni: b'hekk, aktar mix-xmara Ural, anki l-Emba tista' tintuża bħala konfini, u l-quċċati tal-Kawkasu jistgħu jissostitwixxu lix-xmajjar ta' Kuma u Manych.
+Il-Baħar l-Iswed, il-Bosforu, il-Baħar ta' Marmara u d-Dardanelli jikkonkludu l-konfini mal-Asja. Il-Baħar Mediterran fin-Nofsinhar jissepara l-Ewropa mill-Afrika, waqt li fil-Punent il-konfini hu mill-Oċean Atlantiku, fejn jinkludi lill-Islanda. Għadu mhux konkluż id-dibattitu fuq fejn qiegħed iċ-ċentru ġeografiku tal-Ewropa.
+Dawn il-fruntieri fuq il-Lvant tal-Ewropa huma biss politiċi, ekonomiċi u kulturi, imma mhux ġeografiċi. B'hekk kien hemm il-bidu ta' diversi interpretazzjonijiet dwar il-konfini Ewropej u allura fuq it-territorju li l-Ewropa hi magħmula minn, fejn jiġu esklużi u inklużi pajjiżi sħaħ. Kważi kull pajjiż Ewropew jagħmlu parti tal-Kunsill tal-Ewropa, barra l-Belarus, il-Vatikan, il-Każakistan u l-Kosovo.
+L-idea tal-kontinent Ewropew, però, mhijiex aċċettata universalment. Xi żoni ġeografiċi barra mill-Ewropa jiġu riferti mal-kontinent Ewroasjatiku jew jaraw lill-Ewropa bħala sottokontinent, billi mhux kompletament ċirkondat mill-baħar, fejn hu definit aktar bħala żona kulturali milli ġeografika. Fil-passat, din is-sottodiviżjoni kienet mħarsa bħala waħda valida minħabba l-fatt li jissepara t-territorju tal-Kristjani minn dawk non-Kristjani.
+
+
+== Pajjiżi fl-Ewropa ==
+
+
+== Referenzi ==
+
+1 Parti mill-pajjiż tinsab fl-Asja.
+2 Ġeografikament fl-Asja, imma kkunsidrat Ewropew għal raġunijiet storiċi u kulturali.
+
+Prixtina hija l-belt kapitali tal-Kosovo. Il-belt għandha popolazzjoni ta' 204,721 ruħ (sal-2016).
+Pristina jew Prishtina (ir-Renju Unit: / ˈpriːʃtɪnə, prɪʃˈtiːnə /, [2] US: / ˈprɪʃtɪnə, -nɑː /; [3] [4] Albaniż: Prishtina jew Prishtinë [pɾiʃˈtinə] (Dwar dan il-lista tal-ħoss); Serb: Пришин , rumanizzata: Priština) hija l-kapitali u l-akbar belt tal-Kosovo. [a] Il-belt għandha maġġoranza ta 'popolazzjoni Albaniża, flimkien ma' komunitajiet iżgħar oħra. B'popolazzjoni muniċipali ta' 204.721 abitant (2016), Pristina hija t-tieni l-akbar belt fid-dinja b'popolazzjoni predominantement li titkellem bl-Albaniż, wara l-kapitali ta' l-Albanija, Tirana.   Fi ħdan is-Serbja, din kienet l-akbar 4 waħda. Ġeografikament, tinsab fil-parti tal-Grigal tal-Kosovo viċin il-muntanji Goljak.
+Matul l-Età tal-Paleolitiċi, dak li issa huwa l-qasam ta ’Pristina kien imdawwar mill-kultura Vinča. Kien id-dar għal diversi persuni Illyriani u Rumani fiż-żminijiet klassiċi. Ir-Re Bardyllis ġab diversi tribujiet flimkien fl-inħawi ta' Pristina fis-seklu 4 QK, li stabbilixxa r-Renju tad-Dardanja.<ref">[1], The Cambridge ancient history: The fourth century B.C. Volume 6 of The Cambridge ancient history, Iorwerth Eiddon Stephen Edwards, Authors: D. M. Lewis, John Boardman, Editors: D. M. Lewis, John Boardman, Edition 2, Publisher: Cambridge University Press, 1994.</ref>
+Il-wirt tal-era klassika għadu evidenti fil-belt, irrappreżentata mill-belt antika ta ’Ulpiana, li kienet ikkunsidrata bħala waħda mill-iktar bliet Rumani importanti fil-peniżola tal-Balkani. Bejn il-5 u s-seklu 9 iż-żona kienet parti mill-Imperu Biżantin. Fin-nofs tas-seklu 9 ġie ċedut għall-Ewwel Imperu Bulgaru. Fil-bidu tas-seklu 11, din taqa 'taħt il-ħakma Biżantina u ġiet inkluża fil-provinċja ġdida msejħa Bulgarija. Bejn l-aħħar tal-11 u nofs is-seklu 13 ġie ċedut bosta drabi lit-Tieni Imperu Bulgaru.
+Fil-Medju Evu tard, Pristina kienet belt importanti fis-Serbja Medjevali u wkoll il-propjetà rjali ta' Stefan Milutin, Stefan Uroš III, Stefan Dušan, Stefan Uroš V u Vuk Branković.  Wara l-konkwista Ottomana tal-Balkani, Pristina sar ċentru importanti tal-minjieri u tal-kummerċ minħabba l-pożizzjoni strateġika tiegħu qrib il-belt minjiera rikka ta 'Novo Brdo. Il-belt kienet magħrufa għall-fieri u oġġetti kummerċjali tagħha, bħalma huma l-ġlud tal-mogħoż u x-xagħar tal-mogħża kif ukoll il-porvli. 
+L-ewwel moskea fi Pristina nbniet fl-aħħar tas-seklu 14 waqt li kienet taħt il-ħakma Serba.  
+Pristina hija l-iktar junction tat-trasport importanti tal-Kosovo, għall-ajru, għall-ferrovija, u għat-toroq. L-ajruport internazzjonali ta ’Pristina huwa l-akbar ajruport tal-pajjiż u fost l-akbar fir-reġjun. Firxa ta 'awtostradi u awtostradi, bħalma huma l-R6, l-R7 u l-R7.1, jirradjaw il-belt u jgħaqqduha ma' l-Albanija u l-Maċedonja ta-Fuq.
+Pristina huwa wkoll l-iktar ċentru ekonomiku, finanzjarju, politiku u kummerċjali essenzjali tal-Kosovo l-aktar minħabba l-pożizzjoni sinifikanti tiegħu fiċ-ċentru tal-pajjiż. Hija s-sede tal-poter tal-Gvern tal-Kosovo, ir-residenzi għall-ħidma tal-President u l-Prim Ministru tal-Kosovo u tal-Parlament tal-Kosovo.
+
+
+== Referenzi ==
+
+Euarchontoglires huwa superordni ta' mammiferi plaċentati bbażat fuq analiżi ta' sekwenzi ġenetiċi molekulari u fuq dati preżenti/assenti ta' retrotranspożji. Dan is-superordni qiegħed klassifikat, fil-klassi Mammalia, fis-sottoklassi Theria u  fl-infraklassi Eutheria. 
+Euarchontoglires jiġbor fih żewġ kladi u sitt ordnijiet. Dan is-superordni flimkien ma' tliet superordnijiet oħra Afrotheria, Laurasiatheria, u Xenarthra, jiffurmaw l-infraklassi Eutheria.
+L-Euarchontoglires probabbilment infired mis-superordni Laurasiatheria bejn 85 u 95 miljun sena ilu matul il-Kretaċju. Din l-ipoteżi hija sostnuta kemm minn fossili kif ukoll minn evidenza molekulari.
+
+
+== Organizzazzjoni ==
+
+
+== Klassifikazzjoni ==
+Klassi Mammalia
+Sottoklassi Theria
+Infraklassi Eutheria
+Superordni Euarchontoglires
+Klad Glires
+Ordni Lagomorpha
+Ordni Rodentia
+Klad Euarchonta
+Ordni Scandentia
+Ordni Dermoptera
+Ordni Plesiadapiformes (estint)
+Ordni Primates
+
+
+== Sinonimi ==
+"Supraprimates" huwa sinonimu jew l-istess bħal, u jirreferi, għas-superordni Euarchontoglires.
+
+
+== Referenzi ==
+William J. Murphy, Eduardo Eizirik, Mark S. Springer et al. (14 December 2001). "Resolution of the Early Placental Mammal Radiation Using Bayesian Phylogenetics". Science 294 (5550): 2348-2351.
+Kriegs, Jan Ole, Gennady Churakov, Martin Kiefmann, Ursula Jordan, Juergen Brosius, Juergen Schmitz (2006). "Retroposed Elements as Archives for the Evolutionary History of Placental Mammals". PLoS Biol 4 (4): e91.
+F. S. Szalay, M. J. Novacek, M. C. McKenna, Eds., Mammal Phylogeny: Placentals (Springer-Verlag, New York, 1993).
+W. W. de Jong, Trends Ecol. Evol. 13, 270 (1998).
+P. J. Waddell, N. Okada, M. Hasegawa, Syst. Biol. 48, 1 (1999).
+A. G. Kluge, Syst. Zool. 38, 7 (1989).
+M. J. Sanderson, A. Purvis, C. Henze, Trends Ecol. Evol. 13, 105 (1998).
+A. Purvis, Philos. Trans. R. Soc. London Ser. B 348, 405 (1995).
+O. R. P. Bininda-Emonds, J. L. Gittleman, A. Purvis, Biol. Rev. 74, 143 (1999).
+In cases of more than one MP solution, a strict consensus tree can serve to summarize the agreement among these alternatives (8, 32).
+O. R. P. Bininda-Emonds, M. J. Sanderson, Syst. Biol., in press.
+A. Graybeal, Syst. Biol. 47, 9 (1998).
+A. Mitchell, C. Mitter, J. C. Regier, Syst. Biol. 49, 202 (2000).
+G. G. Simpson, Bull. Am. Mus. Nat. Hist. 85, 1 (1945) [ISI].
+M. C. McKenna, S. K. Bell, Classification of Mammals Above the Species Level (Columbia Univ. Press, New York, 1997).
+J. Shoshani and M. C. McKenna, Mol. Phylogenet. Evol. 9, 572 (1998).
+F.-G. R. Liu and M. M. Miyamoto, Syst. Biol. 48, 54 (1999).
+J. Gatesy, M. Milinkovitch, V. Waddell, M. Stanhope, Syst. Biol. 48, 6 (1999).
+M. Nikaido, A. P. Rooney, N. Okada, Proc. Natl. Acad. Sci. U.S.A. 96, 10261 (1999).
+M. J. Stanhope, et al., Mol. Phylogenet. Evol. 9, 501 (1998).
+M. J. Stanhope, et al., Proc. Natl. Acad. Sci. U.S.A. 95, 9967 (1998).
+The other representative of Afrosoricida (Tenrecidae) was excluded from the molecular analysis because of its extensive missing data (only 100 scored binary characters for this partition).
+E. C. Teeling, et al., Nature 403, 188 (2000).
+S. J. O'Brien et al., Science 286, 463 (1999).
+P. J. Waddell, Y. Cao, J. Hauf, M. Hasegawa, Syst. Biol. 48, 31 (1999).
+M. S. Springer, H. M. Amrine, A. Burk, M. J. Stanhope, Syst. Biol. 48, 65 (1999).
+O. R. P. Bininda-Emonds, Mol. Phylogenet. Evol. 16, 113 (2000).
+D. L. Swofford, PAUP*: Phylogenetic Analysis Using Parsimony (* and Other Methods), version 4 (Sinauer, Sunderland, MA, 1998).
+B. R. Baum, Taxon 41, 3 (1992).
+M. A. Ragan, Mol. Phylogenet. Evol. 1, 53 (1992).
+A. Purvis, Syst. Biol. 44, 251 (1995).
+D. E. Wilson, D. M. Reeder, Eds., Mammal Species of the World: A Taxonomic and Geographic Reference (Smithsonian Institution Press, Washington, DC, 1993).
+K. Bremer, Evolution 42, 795 (1988)
+
+
+== Ħoloq esterni ==
+Placental mammal diversification and the Cretaceous-Tertiary boundary
+Molecular and Morphological Supertrees for Eutherian (Placental) Mammals
+
+Il-politika (mill-Grieg: Πολιτικά, politiká, jiġifieri "l-affarijiet tal-bliet") hija sett ta' attivitajiet assoċjati mat-teħid tad-deċiżjonijiet fi gruppi, jew forom oħra ta' relazzjonijiet tal-poter bejn l-individwi, bħad-distribuzzjoni tar-riżorsi jew l-istatus. Il-fergħa tax-xjenza soċjali li tistudja l-politika u l-gvern tissejjaħ xjenza politika.
+It-terminu jista' jintuża b'mod pożittiv fil-kuntest ta' "soluzzjoni politika", jiġifieri s-sejbien ta' kompromess mingħajr l-użu tal-vjolenza, jew b'mod deskrittiv bħala "l-arti jew ix-xjenza tal-governanza", iżda spiss ikollha konnotazzjoni negattiva. Pereżempju, l-abolizzjonista Wendell Phillips iddikjara li "aħna ma nilagħbux il-logħba tal-politika; it-tneħħija tal-jasar għalina mhix ċajta". Il-kunċett ġie definit b'diversi modi, u approċċi differenti għandhom fehmiet li jvarjaw b'mod fundamentali dwar jekk għandhiex tintuża b'mod estensiv jew limitat, empirikament jew normattivament, u jekk il-kunflitt jew il-kooperazzjoni humiex iktar essenzjali għaliha.
+Fil-politika jintużaw sensiela ta' metodi, fosthom il-promozzjoni tal-fehmiet politiċi individwali fost in-nies, in-negozjar ma' suġġetti politiċi oħra, it-tfassil tal-liġijiet, u l-eżerċitar tal-forza, inkluż il-gwerra kontra l-avversarji jew l-għedewwa. Il-politika tiġi eżerċitata f'firxa wiesgħa ta' livelli soċjali, mill-klans u t-tribujiet tas-soċjetajiet tradizzjonali, għall-gvernijiet lokali moderni, il-kumpaniji u l-istituzzjonijiet, sal-istati sovrani u l-livell internazzjonali. Fin-nazzjonijiet moderni, in-nies spiss jiffurmaw partiti politiċi biex jirrappreżentaw l-ideat tagħhom. Il-membri ta' partit sikwit jaqblu li jieħdu l-istess pożizzjoni fuq ħafna kwistjonijiet u jaqblu li jappoġġaw l-istess bidliet fil-liġi u l-istess mexxejja. Elezzjoni s-soltu tkun kompetizzjoni bejn partiti differenti.
+Sistema politika hija qafas li jiddefinixxi metodi politiċi aċċettabbli fi ħdan soċjetà. L-istorja tal-ħsieb politiku tmur lura sa żmien il-qedem, b'xogħlijiet kruċjali bħar-Repubblika ta' Platun u l-Politika ta' Aristotli fil-Punent, u l-manuskritti politiċi ta' Konfuċju u l-Arthashastra u ċ-Chanakya Niti ta' Chanakya fil-Lvant.
+
+
+== Etimoloġija ==
+
+It-terminu "politika" joriġina mix-xogħol Klassiku ta' Aristotli msejjaħ Politiká, li introduċa t-terminu Grieg politiká (Πολιτικά, jiġifieri "l-affarijiet tal-bliet"). F'nofs is-seklu 15, il-komponiment ta' Aristotli ġie tradott bħala Polettiques bl-Ingliż Modern Bikri, li mbagħad saret Politics bl-Ingliż Modern attwali, jiġifieri politika.
+It-terminu politika jirreferi għall-kunċett ġenerali jew inkella għal qasam partikolari ta' politika fis-singular, li fil-plural jiġi politiki. Din it-tieni tifsira dehret għall-ewwel darba fl-Ingliż fl-1430 bis-singular politic, li oriġinat mill-Franċiż Nofsani politique—li min-naħa tagħha oriġinat minn politicus, li kienet Latinizzazzjoni tal-Grieg πολιτικός (politikos) minn πολίτης (polites, jiġifieri "ċittadin") u πόλις (polis, jiġifieri "belt").
+
+
+=== Definizzjonijiet ===
+Fil-fehma ta' Harold Lasswell, il-politika hija dwar "min jieħu xiex, meta u kif".
+Għal David Easton, il-politika għandha x'taqsam mal-"allokazzjoni awtoritattiva tal-valuri għal soċjetà".
+Għal Vladimir Lenin, "il-politika hija l-iktar espressjoni kkonċentrata tax-xjenza ekonomika".
+Bernard Crick argumenta li l-"politika hija forma distintiva ta' governanza fejn in-nies jiġbdu ħabel wieħed flimkien permezz ta' proċeduri istituzzjonalizzati biex isibu tarf id-differenzi, jikkonċiljaw l-interessi u l-valuri differenti, u jfasslu politiki pubbliċi għall-ġid komuni".
+Skont Adrian Leftwich:
+Il-Politika tinkludi l-attivitajiet kollha ta' kooperazzjoni, ta' negozjar u ta' kunflitt fi ħdan is-soċjetajiet u bejniethom, fejn in-nies jagħmlu ħilithom biex jorganizzaw l-użu, il-produzzjoni jew id-distribuzzjoni tar-riżorsi umani, tar-riżorsi naturali jew ta' riżorsi oħrajn fil-produzzjoni u fil-produzzjoni mill-ġdid tal-ħajja bijoloġika u soċjali tagħhom.
+
+
+== Approċċi ==
+Hemm diversi modi kif l-approċċ għall-politika ġie miġbur f'kunċett.
+
+
+=== Approċċ estensiv u limitat ===
+Adrian Leftwich iddistingwa l-fehmiet politiċi abbażi ta' kemm hija estensiva jew limitata l-perċezzjoni tagħhom dwar x'jaqa' taħt l-ambitu "politiku". L-approċċ estensiv iqis il-politika bħala preżenti fl-isfera tar-relazzjonijiet soċjali umani, filwaqt li l-approċċ limitat jirrestrinġiha għal ċerti kuntesti biss. Pereżempju, b'approċċ iktar restrittiv, il-politika tista' titqies primarjament bħala governanza, filwaqt li perspettiva femminista tista' targumenta li siti li tradizzjonalment ġew ikkunsidrati li mhumiex politiċi, tabilħaqq għandhom jitqiesu bħala politiċi wkoll. Dan il-ħsieb tal-aħħar huwa inkorporat fl-islogan li "dak li huwa personali huwa politiku", li jmur kontra d-distinzjoni bejn kwistjonijiet privati u pubbliċi. Minflok, il-politika tista' tiġi definita mill-użu tal-poter, kif argumenta Robert A. Dahl.
+
+
+=== Moraliżmu u realiżmu ===
+Xi perspettivi dwar il-politika jħarsu lejha empirikament bħala eżerċizzju tal-poter, filwaqt li oħrajn iħarsu lejha bħala funzjoni soċjali b'bażi normattiva. Din id-distinzjoni ġiet spjegata bħala d-differenza bejn il-moraliżmu politiku u r-realiżmu politiku. Għall-moralisti, il-politika għandha rabta sfiqa mal-etika, u fl-estrem tagħha hija parti mill-ħsieb utopiku. Pereżempju, skont Hannah Arendt, il-fehma ta' Aristotli kienet li "biex xi ħaġa tkun politika…kienet tfisser li kollox kien jiġi deċiż bil-kliem u bil-persważjoni u mhux bil-vjolenza"; filwaqt li skont Bernard Crick "il-politika hija l-mod li bih is-soċjetajiet ħielsa jiġu ggvernati. Il-politika hija l-politika u forom oħra ta' governanza huma xi ħaġa oħra". B'kuntrast ma' dan, għar-realisti, irrappreżentati minn nies bħal Niccolò Machiavelli, Thomas Hobbes, u Harold Lasswell, il-politika hija bbażata fuq l-użu tal-poter, ikunu xi jkunu l-finijiet.
+
+
+=== Kunflitt u kooperazzjoni ===
+L-agoniżmu jargumenta li l-politika essenzjalment hija l-kunflitt bejn interessi f'kunflitt ma' xulxin. Ix-xjenzat politiku Elmer Schattschneider argumenta li "l-għerq tal-politika hija l-lingwa universali tal-kunflitt", filwaqt li għal Carl Schmitt l-essenza tal-politika hija d-distinzjoni bejn "ħabib" u "avversarju". Dan huwa f'kuntrast dirett mal-fehmiet iktar kooperattivi tal-politika ta' Aristotli u Crick. Madankollu, fehma iktar imħallta bejn dawn l-estremi tingħata mix-xjenzat politiku Irlandiż Michael Laver, li nnota li:Il-politika għandha x'taqsam mat-taħlita karatteristika tal-kunflitt u tal-kooperazzjoni li tista' tinstab spiss fl-interazzjonijiet umani. Il-gwerra hija kunflitt pur. L-imħabba ta' vera hija kooperazzjoni pura. Il-politika hija taħlita tat-tnejn.
+
+
+== Ara wkoll ==
+Politiku
+Politika ta' Malta
+
+
+== Referenzi ==
+
+Fil-bijoloġija, speċi hija unità bażika tal-bijodiversità. Fil-Klassifikazzjoni xjentifika, speċi tingħata isem b'żewġ partijiet, bil-Latin. L-ewwel parti huwa l-Ġeneru bl-ewwel ittra kapitalizzata u t-tieni parti eżatt wara miktuba kollha b'ittri żgħar.
+Eżempju: il-Bniedem jagħmel parti mil-Ġeneru Homo u l-isem ta' l-ispeċi huwa Homo sapiens.  L-isem ta' l-ispeċi huwa magħmul dejjem miż-2 partijiet u jissejjaħ isem binominali jew il-binominal u mhux mit-tieni parti biss (li tissejjaħ l-epitet speċifiku, għall-pjanti, jew l-isem speċifiku, għall-annimali).  Il-binominal, li wara ħafna kien ġie formalizzat fil-kodiċi bijoloġiċi tan-nomenklatura, kien introdott bħala xi ħaġa standard minn Carolus Linnaeus fl-1700 u b'hekk irrisulta li xi drabi jissejjaħ in-"Nomenklatura Linnaeusjana". Dak iż-żmien, it-Teorija bijoloġika kienet tgħid li l-ispeċi jirrapreżentaw atti ta' kreazjoni indipendentement minn Alla u b'hekk kienu kkunsidrati objettivament reali u immutabli.
+Bl-avvent tat-teorija ta' l-evoluzjoni, il-kunċett ta' Speċi fil-bijoloġija għadda minn bidla kbira, madankollu qatt ma ntlaħaq kunsens fuq id-definizjoni tal-kelma.  L-aktar definizjoni komunement użata ta' Speċi hija dik ta' Ernst Mayr.  Din id-definizjoni imsemmija bħala l-kunċett ta' speċi bijoloġika jew il-kunċett ta' speċi isolata tgħid; l-ispeċi huma "gruppi ta' popolazjonijiet naturali li attwalment jew potenzjalment jirriproduċu bejniethom li huma riproduttivament isolati minn gruppi oħra ta' dan it-tip".  Madankollu, ħafna aktar kunċetti ta' Speċi huma użati (ara Definizjonijiet ta' Speċi hawn taħt).
+L-isem xjentifiku ta' speċi propjament irid jinkiteb italizzat. Meta wieħed irid jirreferi għal speċi li mhijiex magħrufha dan għandu jsir billi juża l-abbrevjazjoni "sp." fis-singular jew "spp." fil-plural fil-post fejn jinkiteb it-tieni parti tal-isem tal-ispeċi jew kif jissejjaħ ukoll l-isem speċifiku jew l-epitet speċifiku.
+
+
+== Definizjonijiet ta' Speċi ==
+Speċi hija popolazjoni riproduttivament iżolata li taqsam set ta' ġeni u niċċa komuni. Din id-definizjoni tiddefinixxi Speċi riproduttivament, ġenetikament, u ekoloġikament...
+Id-definizjoni ta' Speċi hawn fuq li parti minnha hija ta' Ernst Mayr, hija ftit idejalistika. Din tassumi riproduzjoni sesswali, u b'hekk tħalli barra mhux definiti klassi kbira ta' organiżmi li jirriproduċu asesswalment. Il-bijoloġisti ta' spiss ma jkunux jafu do not know whetherjekk 2 gruppi ta' organiżmi morfoloġikament simili humiex "potenzjalment" kapaċi jirriproduċu. Aktar minn hekk hemm ikkunsidrata il-varjazjoni ta' b'liema grad ta' suċċess għandha l-ibridazjoni kemm naturali kif ukoll taħt kundizzjoni sperimentali jew inkella b'liema grad ta' suċċess uħud mil-organiżmi jużaw ir-riproduzjoni sesswali bejniethom biex jipproduċu. B'hekk, jeżistu numru ta' definizjonijiet bi ħsieb ta' Speċi:
+
+Speċi Tipoloġika
+Grupp ta' organiżmi f'liema l-individwi huma membri ta' l-ispeċi jekk huma konformi biżżejjed ma' certu kriterji fissi.  Il-qalba tal-varjazjonijiet jew fenotipi fl-eżemplarijiet (ie: dnieb twal u qosra) jiddiferenzjaw l-ispeċi.  Dan il-metodu klassiku gie użat biex ikunu determinati l-ispeċi, bħal fil-każ ta' Linnaeus kmieni fit-teorija evoluzjonarja. Madankollu, llum il-ġurnata nafu li fenotipi differenti ma jfissrux li għandhom iwasslu dejjem għal speċi differenti (eż. Drosophila b'4 gwejnaħ imwieled għand omm b'2 gwejnaħ ma jfissirx li huma speċi differenti minn xulxin). Speċi imsemmija b'dan il-mod jissejħu morfospeċi.
+Speċi Morfoloġika
+Popolazjoni jew grupp ta' poplazjonijiet li huma mofoloġikament differenti minn popolazjonijiet oħra. Pereżempju, wieħed jista jaraf bejn tiġieġq u papra għax għandhom il-forma tal-munqar w is-saqajn visibilment differenti. L-ispeċi ġew definiti b'dan il-mod minn ħafna qabel ma' l-istorja bdiet tiġi miktuba. Dan il-kunċett ta' speċi huwa kritikat ħafna għax dati ġenetiċi reċenti urew li popolazjonijiet ġenetikament 'il bogħod jisgħtu jkunu mofoloġikament simili filwaqt li popolazjonijiet b'differenzi morfoloġiċi kbar xi kultant jisgħtu jkunu relatati fil-qrib. Wieħed ma jridx jinsa, li l-biċċa l-kbira tal-ispeċi magħrufa ġew deskritti biss morfoloġikament u b'hekk fil-futur mhux 'il bogħod wieħed jista jistenna bidliet kbar.
+Speċi Bijoloġika / Iżolata
+Set ta' popolazjonijiet li attwalment jew potenzjalment jipproduċu bejniethom. Ġeneralment fix-xogħolijiet tax-xjentisti din hija l-aktar formulazjoni utli b'eżempji ta' Taksa ogħlja bħal mammiferi, ħut, u għasafar, iżda bla sens għal organiżmi li ma jirriproduċux sesswalment. Din ma tiddistingwixx bejn il-possibilita tejoretika ta' riproduzjoni fil-popolazjoni biss w il-possibilita ta' taħlit attwali ta' ġeni bejn il-popolazjonijiet u b'hekk mhijiex pratikabli f'sitwazjonijiet ta' popolazjonijiet allopatriċi (jew f'popolazjonijiet ġeografikament iżolati). Ir-risultati ta' riproduzjoni sperimentali f'kundizjonijiet artifiċjali jistgħu bħal ma jistgħux jirriflettu x'jista jiġri li kieku l-istess organiżmi jiltaqgħu fis-selvaġġ u b'hekk huwa diffiċli biex wieħed jgħid jekk dawn ir-risultati humiex referenzi tajba għal-popolazjonijiet naturali.
+Speċi b'għarfien ta' sieħeb
+Grupp ta' organiżmi li huma magħrufa li jarfu lil xulxin bħal sieħeb jew sieħba potenzjali. Bħal kunċett tal-ispeċi iżolata hawn fuq dan japplika għal organiżmi li jipproduċu sesswalment.  Biss b'differenza mill-kunċett tal-ispeċi iżolata, dan jiffoka speċifikament fuq iżolazjoni riproduttiva qabel it-tagħmir.
+Speċi Filoġenetika / Evoluzjonarja / Darwinjana
+Grupp ta' organiżmi li għandhom l'istess antenat; linjaġġ li jżomm l-integrita b'rispett għal linjaġġi oħra kemm minn żmien għal ieħor u spazju. f'ċertu punt tal-progress ta' dan il-grupp stess, uħud mil-membri jinbidlu u jinfirdu minn wieħed għal ieħor: meta din il-bidla u firda tkun ċara biżżejjed iż-2 popolazjonijiet jibdew jitqiesu speċi separati.
+Microspeċi
+Speċi li tirriproduċi mingħajr meiosis jew fertilizazjoniion b'hekk kull ġenerazjoni tkun ġenetikament identika jew l'istess għal dik ta' qabel.
+Fil-prattika, dawn id-definizjonijiet ħafna drabi jaqblu ħafna bejniethom, u d-differenzi bejniethom magħmula ħafn' aktar mil-emfasi milli mil-kontradizjonijiet. Mhux minn ta' linqas, s'issa 'l ebda kunċett ta' Speċi li ġie propost ma kien totalment objettiv, jew li jista jiġi applikat fil-każi kollha mingħajr ma jkun hemm bżonn għal ġudizju. Bil-ħajja kumplessa kif inhi, uħud argumentaw li definizjoni totalment objettiva għat-tipi kollha tal-ħajja hija pratikament impossibli, w il-bijoloġisti għandhom jużaw l-aktar definizjoni prattika. Għal-biċċa l-kbira tal-vertebrati, huwa il-kunċett tal-iSpeċi bijoloġika, u sa ċertu punt (jew għal skopijiet differenti) il-kunċett tal-iSpeċi filoġenetika. Ħafna sottospeċi tal-kunċett tal-iSpeċi bijoloġika, huma ikkunsidrati Speċi bil-kunċett tal-iSpeċi filoġenetika; id-differenzi bejn  il-kunċett tal-iSpeċi bijoloġika w  il-kunċett tal-iSpeċi filoġenetika tista tiġborhom f'din is-sentenza  il-kunċett tal-iSpeċi bijoloġika  jiddefinixxi Speċi b'konsegwenza ta' manifest ta' storja evoluzjonarja, waqt li l-kunċett tal-iSpeċi filoġenetika jiddefinixxi Speċi b'konsegwenza ta' manifest  ta' potenzjal evoluzjonarju. B'hekk Speċi b'kunċett tal-iSpeċi filoġenetika tinħoloq meta linjaġġ evoluzjonarju jibda jinfired, waqt li Speċi b'kunċett tal-iSpeċi bijoloġika tinħoloq meta il-firda tal-linjaġġ evoluzjonarju tkun kompluta.
+
+
+== L-Importanza tal-Klassifikazjoni fil-Bijoloġija ==
+L-ideja ta' l-iSpeċi għandha storja twijla. l-iSpeċi huwa wieħed mill-aktar Taksa jew livelli importanti fil-klassifikazjoni għal ħafna raġunijiet:
+
+Ħafna drabi jikkorispondi għal dak li n-nies jittrattaw bħala it-tipi differenti ta' organiżmi bażiċi - eż.Kelb huwa speċi, Qattus huwa speċi oħra.
+Nomenklatura Binominali (jew Nomenklatura Trinominali) standard, li x-xjentisti jirreferu b'hija għal organiżmi.
+Huwa l-uniku livell tassonomiku li għandu kontenut imperjali, fis-sens li meta wieħed jista jkun assertiv u li jista jgħid li 2 annimali huma speċi differenti hija xi ħaġa li turi aktar l'uniċiċita dwar dawn l-organiżmi minn xi ħaġa klassifikatorja.
+Wara użu għal-eluf ta' snien il-kunċett baqa ċentrali għal bijoloġija u għal suġġetti relatati, biss, f'uħud mid-drabi jibqa wkoll definit ħażin u kontroversjali.
+
+
+== Ħoloq Esterni ==
+https://web.archive.org/web/20160613040040/http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/S/Speciation.html
+2003-12-31, ScienceDaily: Working On The 'Porsche Of Its Time': New Model For Species Determination Offered Quote: "...two species of dinosaur that are members of the same genera varied from each other by just 2.2%. Translation of the percentage into an actual number results in an average of just three skeletal differences out of the total 338 bones in the body. Amazingly, 58% of these differences occurred in the skull alone. "This is a lot less variation than I'd expected", said Novak..."
+2003-08-08, ScienceDaily: Cross-species Mating May Be Evolutionarily Important And Lead To Rapid Change, Say Indiana University Researchers Quote: "...the sudden mixing of closely related species may occasionally provide the energy to impel rapid evolutionary change..."
+2004-01-09 ScienceDaily: Mayo Researchers Observe Genetic Fusion Of Human, Animal Cells; May Help Explain Origin Of AIDS Quote: "...The researchers have discovered conditions in which pig cells and human cells can fuse together in the body to yield hybrid cells that contain genetic material from both species... "What we found was completely unexpected", says Jeffrey Platt, M.D."
+2000-09-18, ScienceDaily: Scientists Unravel Ancient Evolutionary History Of Photosynthesis Quote: "...gene-swapping was common among ancient bacteria early in evolution..."
+Stanford Encyclopedia of Philosophy entry
+Barcoding of species
+
+Ir-Rabat [ɪrˈrɐbɐt] huwa wieħed mill-aktar lokalitajiet storiċi ta' importanza f'Malta. Fi żmien ir-Rumani, hawn kien jagħmel parti mill-belt kapitali ta' Malta, Melita, li kienet tinkludi l-Imdina. Fi żmien ir-Rumani is-swar tal-belt kienu jaslu sa ħdejn, fejn illum hemm il-knisja tal-parroċċa tar-Rabat, iddedikata lil San Pawl. Fl-istess żmien, barra s-swar tħaffru bosta katakombi. Taħt bosta mit-toroq tar-Rabat hemm mħaffra numru kbir ta' katakombi kif ukoll partijiet mis-swar li xi darba kienu jduru mal-belt kapitali, Melita. 
+Biż-żmien, ir-Rabat spiċċa qiesu s-subborg tal-Imdina, jew aħjar estensjoni 'l barra mill-belt difiża mis-swar. F'dan iż-żmien Ruman, u Ruman Tardiv, bdew jitħaffru bosta katakombi li kollha kien barra s-swar. Fil-fatt,il-katakombi kollha jinsabu lil hinn mill-knisja parrokkjali ta' San Pawl. L-eqreb katakombi huma dawk li jagħmlu parti mill-Grotta ta' San Pawl.
+
+
+== Introduzzjoni Storika ==
+Pożizzjoni   
+Ir-Rabat hi belt fir-reġjun tat-nofs ta’Malta, b’popolazzjoni ta’ 11,497 (Marzu 2014) ruħ. Ir-Rabat flimkien mal-Imdina jinsab fuq l-aktar parti għolja tal-gżejjer Maltin. Din il-belt tmiss min-naħa mal-Imdina waqt li fuq in-naħat l-oħra testendi naħa minnhom lejn Ħad-Dingli u l-Imtarfa u naħa oħra lejn il-Buskett u lejn bosta widien ta' madwar dik l-għolja. Il-Kunsill Lokali tar-Rabat huwa wkoll l-amministratur tal-Baħrija. L-Imtarfa li kienet tagħmel mar-Rabat kellha l-Kunsill Lokali tagħha, f'Diċembru tal-1999, bl-Att XXI, emenda għall-Att tal-Kunsill Lokali tal-1993 (Att XV) sar amministrat separatament mill-Kunsill Lokali tiegħu. Fir-Rabat tinsab s-sede tan- Nunzjatura Appostolika tas-Santa Sede għar-Repubblika ta’Malta.      
+Postijiet ta’ Interess miftuħa għall-pubbliku   
+
+Il-Grotta ta’ San Pawl, (tagħmel mal-Kollġjata ta’ San Pawl). Dħul mill-Mużew Wignacourt
+Il-Mużew tal-Parroċċa (Wignacourt)
+Il-Katakombi ta’ San Pawl (Heritage Malta)
+Il-Katakombi ta’ Sant’Agata, il-Kripta u l-Mużew (MSSP)
+Il-Katakombi ta’ San Katald (jaqa' taħt il-Mużew Wignacourt)
+Id-Domus Romana  (Heritage Malta)
+Casa Bernard (Dar privata mżejna b’bosta għamara u pitturi, eċċ., li wieħed jista’ jżur b’appuntament)
+
+Monasteri
+
+Tal-Agostinjani
+Tad-Dumnikani
+Tal-Karmelitani  (Il-Lunzjata)
+Tal-Franġiskani Minuri  
+Tal-Franġiskani Konventwali
+
+Knejjes
+
+San Pawl  (Bażilika Kolleġjata - il-Parroċċa) u l-Oratorju San Pubbliju
+San Franġisk (Franġiskani Konventwali)
+Madonna ta’ Ġieżu (Franġiskani Minuri)
+San Mark (Agostinjani)
+Madonna tal-Għar (Dumnikani)
+Sant’Agata
+San Bastjan
+
+Kappelli 
+
+San Bartilmew - Miftuħa u fiha s-Sagrament
+San Katald - Miftuħa għal pubbliku bil-katakombi taħtha
+Ta' Casha (Għeriexem)
+Madonna tal-Virtu
+Tas-Settifika
+It-twelid ta' Ġesù (Ta' Xerri)
+
+ Postijiet oħra ta’ interess
+Howard Gardens u s-Salib tad-Dejma
+Monument tal-Gwerra u Monument ta' Pawlu Xuereb, kittieb u politiku
+Chadwick Lakes / Wied Qlejjgħa
+Niċċa ta’ San Pawl, (Is-Saqqajja)
+It-Tribuna tal-Gran Mastru
+Il-Każin tal-Banda L’Isle Adam
+Il-Każin tal-Banda, Konti Ruġġieru
+Il-Buskett
+Il-Palazz tal-Verdala (Residenza uffiċjali tal-President ta' Malta)
+Ċimiterju u Kappella Santa Margerita
+
+Żoni urbani u fil-kampanja li jaqgħu taħt l-istess Kunsill Lokali
+Il-Landrijiet - Għajn Qajjet - Kunċizzjoni - Fomm ir-Riħ - Miġra il-Ferħa -Tas-Salvatur - Tas-Salib - id-Dwejra - in-Nadur - Bieb ir-Ruwa - Il-Lunzjata - Baħrija - Għemieri -Għajn Klieb - Il-Ħemżija - Misraħ Suffara - Mtaħleb- Nigret - Nigret tal-Ħarruba - Ras ir-Raħheb - Rdum tal-Lunzjata  Rdum tal-Vigarju - Ħal-Bajjada  - Santa Katarina - Saqqajja  - Ta' Busugrilla - Ta' Cassia - Ta' Fantin - Ta' Gerżuma -Ta' Lawrenti - Ta' Manduca - Ta' Namura - Ta' Sirena - Tal-Infetti -Tabja - Tal-Forok - Tal-Marġa  
+Biblijografija
+Pauline Dingli, Rabat - Discover Historic Treasures, Mystic Legends, Culture and Folklore. 2007.
+Pauline Dingli, Rabat - Mdina. Best Print. 2009.
+
+
+== Sport ==
+Ir-Rabat għandu l-klabb tal-futbol tiegħu stess bl-isem Rabat Ajax F.C. Ir-Rabat rebħu l-Premier League Malti darbtejn (1984–85 Maltese Premier League u 1985–86 Maltese Premier League), u t-Tazza Maltija darba fl-1986.
+
+
+== Ġemellaġġ ==
+ Tarquinia (Italja).
+
+
+== Ħoloq esterni ==
+L-Informazzjoni ġiet miġbura minn Rabatmalta.com 
+Ingħaqdu magħna fuq facebook billi tagħfsu hawn.
+
+Il-Kapitali Ewropea tal-Kultura hija belt magħżula mill-Unjoni Ewropea (UE) għal perjodu ta' sena li matulha jiġu organizzati numru ta' avvenimenti kulturali. Huma ħafna l-bliet li sfruttaw dan iż-żmien sabiex ikebbsu l-patrimonju kulturali tagħhom biex b'hekk jerġgħu jtellgħu l-profil tagħhom fuq skala internazzjonali.
+Għas-sena 2020, Galway u Rijeka huma l-bliet magħżula għal dan it-titlu.
+
+
+== Storja ==
+
+L-idea tal-Belt Ewropea tal-Kultura tnediet nhar il-13 ta' Ġunju 1985 mill-Kunsill tal-Unjoni Ewropea fuq inizzjativa ta' Melina Mercouri, li kienet tkopri l-inkarigu ta' Ministru tal-Kultura fil-gvern Grieg, bħala mezz biex jingħaqdu ċ-ċittadini Ewropej. L-ewwel belt magħżula filfatt kienet Ateni fl-1985. Minn dak iż-żmien, l-inizjattiva kellha iktar suċċess u l-impatt kulturali u soċjo-ekonomiku kiber grazzi għan-numru ta' viżitaturi li żaru l-bliet magħżula. Oriġinarjament, it-titlu ta' dan l-avveniment kien il-Belt Ewropea tal-Kultura, sakemm dan inbidel matul il-presidenza Ġermaniża tal-1999.
+Sal-2004, il-kandidati kienu jiġu magħżula fuq bażi intergovernattiv fejn l-istati membri jagħżlu b'mod unanimu l-bliet l-iktar adattati biex itellgħu l-avveniment u l-Kummissjoni Ewropea tiggarantixxi sussidju għall-bliet magħżula kull sena. Mill-2005, l-istituzzjonijiet Ewropej bdew jieħdu sehem fil-proċedura tal-għażla.
+Skont studju mħarreġ mill-Kummissjoni fl-2004, dawn wera li l-għażla tal-Kapitali Ewropea tal-Kultura sservi ta' katalist għall-iżvilupp kulturali u t-trasformazzjoni tal-belt. B'hekk, il-benefiċċji soċjo-ekonomiċi u l-impatt fuq il-belt magħżula huma kkunsidrati fl-għażla tal-ibliet.
+
+
+== Lista ==
+
+
+== Referenzi ==
+
+
+== Ħoloq esterni ==
+
+(EN)  Sit uffiċjali
+
+Iċ-Ċina ( ˈtʃaɪnə ),uffiċjalment ir-Repubblika Popolari taċ-Ċina (RPĊ), hi stat sovran li Tinsabu fl-Asja tal-Lvant. Il-pajjiż huwa l-aktar popolat tad-dinja, b' popolazzjoni ta' aktar minn 1.35 biljun. Ir-RPĊ hija stat Stat partit-singolari rregolata mill-Partit Komunist, bis-sede tal-gvern fil-belt kapitali ta' Bejġing. Hija teżerċita ġurisdizzjoni fuq aktar minn 22 provinċji, ħamsa reġjuni awtonomi, erba' muniċipalitajiet ikkontrollati diretti (Bejġing, Tianjin, Shanghai, u Chongqing), u żewġ reġjuni amministrattivi speċjali awto-governanti (Ħong Kong u Makaw). Ir-RPĊ issostni wkoll lit-Tajwan – li hija kkontrollata mir-Repubblika taċ-Ċina (RTĊ), entità politika separata – li hija t-23 provinċja, talba kontroversjali minħabba l-kumpless status politiku tat-Tajwan u l-Gwerra Ċivili Ċiniża mhux solvuta.
+Fruntieri totali taċ-Ċina: 22,457 km, pajjiżi tal-fruntiera (14): Afganistan 91 km; Bhutan 477 km; Burma 2,129 km; Indja 2,659 km; Każakstan 1,765 km; Korea ta' Fuq 1,352 km; Kirgiżistan 1,063 km; Laos 475 km; Mongolja 4,630 km; Nepal 1,389 km; Pakistan 438 km; Ir-Russja (il-grigal) 4,133 km u r-Russja (il-majjistral) 46 km; Taġikistan 477 km; Vjetnam 1,297 km.
+Iċ-Ċina hija t-tieni l-aktar pajjiż popolat fid-dinja minn Awwissu 2022. Qabel dik id-data iċ-Ċina kienet l-ewwel pajjiż l-aktar popolat fid-dinja.
+
+
+== Referenzi ==
+
+L-Ewropa tal-Lvant hija reġjun tal-kontinent Ewropew bejn bejn l-Ewropa tal-Punent u l-Asja. Ma hemm l-ebda definizzjoni konsistenti dwar iż-żona preċiża li jkopri dan ir-reġjun, parzjalment għaliex it-terminu għandu firxa wiesgħa ta’ konnotazzjonijiet ġeopolitiċi, ġeografiċi, etniċi, kulturali, u soċjoekonomiċi. Ir-Russja, li tinsab ukoll fil-Ewropa tal-Lvant, hija l-ikbar pajjiż tal-Ewropa u l-iktar wieħed popolat; bejn wieħed u ieħor tirrappreżenta 40 % tal-massa tal-art totali tal-kontinent, b’iktar minn 15 % tal-popolazzjoni totali tagħha.
+Skont iċ-Ċentru għat-Teknoloġiji Edukattivi fl-Università tal-Ġiżwiti ta’ Wheeling, fl-Istati Uniti, hemm “definizzjonijiet tal-Ewropa tal-Lvant kważi daqs kemm hemm studjużi tar-reġjun”. Dokument relatat tan-Nazzjonijiet Uniti jżid li “kull valutazzjonit ta’ identitajiet spazjali hija essenzjalment kostrutt soċjali u kulturali”.
+Definizzjoni partikolari tiddeskrivi l-Ewropa tal-Lvant bħala entità kulturali: ir-reġjun fl-Ewropa b’karatteristiċi prinċipali li jikkonsistu minn influwenzi kulturali Slavi, Griegi, Biżantini, Ortodossi tal-Lvant u anke Ottomani. Definizzjoni oħra nħolqot matul il-Gwerra Bierda u ntużat daqslikieku sinonimu tat-terminu “Blokk tal-Lvant”. Definizzjoni simili ssemmi l-istati Ewropej li qabel kienu Komunisti ’l barra mill-Unjoni Sovjetika bħala l-Ewropa tal-Lvant. Tali definizzjonijiet spiss jitqiesu antikwati, iżda xi drabi jintużaw għal skopijiet statistiċi.
+
+
+== Definizzjonijiet ==
+
+Illum il-ġurnata jeżistu diversi definizzjonijiet tal-Ewropa tal-Lvant iżda spiss ikollhom nuqqas ta’ preċiżjoni, ikunu ġenerali wisq, jew ikunu antikwati. Dawn id-definizzjonijiet jiġu dibattuti b’mod trasversali fost il-kulturi u fost l-esperti, anke fost ix-xjentisti politiċi, peress li t-terminu għandu firxa wiesgħa ta’ konnotazzjonijiet ġeopolitiċi, ġeografiċi, kulturali u soċjoekonomiċi. It-terminu “Ewropa tal-Lvant” ġie deskritt bħala “mċajpar”, peress li l-idea stess tal-Ewropa tal-Lvant qed tevolvi b’mod kostanti. Is-solidifikazzjoni tal-idea ta’ “Ewropa tal-Lvant” tmur lura l-iktar għall-perjodu tal-Illuminazzjoni (Franċiża).
+
+
+=== Geografiċi ===
+Filwaqt li l-konfini ġeografiċi tal-Lvant tal-Ewropa huma definiti sew, il-konfini bejn l-Ewropa tal-Lvant u tal-Punent mhijiex ġeografika iżda storika, reliġjuża u kulturali, għaldaqstant iktar għadma iebsa biex tiġi ddeżinjata.
+Il-Muntanji tal-Ural, ix-xmara Ural, u l-Muntanji tal-Kawkasu huma l-fruntiera ġeografika tal-art tat-tarf tal-Lvant tal-Ewropa. Pereżempju l-Każakistan, li jinsab l-iktar fl-Asja Ċentrali bl-iktar partijiet tal-Punent tiegħu jinsabu fix-xmara Ural, jikkondividi parti mal-Ewropa tal-Lvant.
+Madankollu, fil-Punent, il-konfini storiċi u kulturali tal-Ewropa tal-Lvant x’aktarx li jkunu soġġetti għal trikkib u, l-iktar ħaġa importanti, għaddew minn fluttwazzjonijiet storiċi, li jfisser li huwa pjuttost diffiċli li jkun hemm definizzjoni preċiża tal-konfini ġeografiċi tal-Punent tar-reġjun tal-Ewropa tal-Lvant (kif ukoll taċ-ċentru ġeografiku tal-Ewropa).
+
+
+=== Reliġjużi ===
+
+Ix-xiżma bejn il-Lvant u l-Punent (li bdiet fis-seklu 11 u tippersisti fil-preżent) qasmet il-Kristjaneżmu fl-Ewropa (konsegwentement fid-dinja) fi tnejn: il-Kristjaneżmu tal-Punent u l-Kristjaneżmu tal-Lvant.
+L-Ewropa tal-Punent skont dan il-puntdivista hija magħmula minn pajjiżi bi knejjes Protestanti u Kattoliċi Rumani dominanti (inkluż pajjiżi tal-Ewropa Ċentrali bħall-Kroazja, is-Slovenja, l-Awstrija, iċ-Ċekja, il-Ġermanja, l-Ungerija, il-Polonja u s-Slovakkja).
+L-Ewropa tal-Lvant hija magħmula minn knejjes Ortodossi dominanti, bħal pereżempju l-Armenja, il-Belarussja, il-Bulgarija, Ċipru, il-Georgia, il-Greċja, il-Moldova, il-Montenegro, il-Maċedonja ta’ Fuq, ir-Rumanija, ir-Russja, is-Serbja u l-Ukrajna. Il-Knisja Ortodossa tal-Lvant kellha rwol prominenti fl-istorja u l-kultura tal-Ewropa tal-Lvant u tax-Xlokk.
+Xiżma hija d-diviżjoni tat-twemmin u tat-teoloġija tal-istess nisel, li issa huma maqsuma fil-knejjes tal-Lvant (Ortodossi) u tal-Punent (Kattoliċi Rumani mis-seklu 11 kif ukoll Protestanti mis-seklu 16). Din id-diviżjoni ddominat l-Ewropa għal sekli sħaħ, għad-differenza tad-diviżjoni tal-Gwerra Bierda li damet biss erba’ deċennji.
+Mix-Xiżma l-Kbira tal-1054, l-Ewropa ġiet diviża bejn il-knejjes Kattoliċi Rumani u Protestanti fil-Punent, u l-knejjes Kristjani Ortodossi tal-Lvant (ħafna drabi msejħa Ortodossi Griegi bi żball) fil-Lvant. Minħabba din il-qasma reliġjuża, il-knejjes Ortodossi tal-Lvant spiss jiġu assoċjati mal-Ewropa tal-Lvant. Madankollu, qasma ta’ dan it-tip spiss tkun problematika; pereżempju, il-Greċja għandha maġġoranza kbira Ortodossa, iżda qajla tiġi inkluża fl-Ewropa tal-Lvant, għal varjetà ta’ raġunijiet, u l-iktar waħda prominenti hi li l-istorja tal-Greċja, fil-biċċa l-kbira tagħha, kienet iktar influwenzata minn kulturi u kuntatti Mediterranji.
+
+
+=== Gwerra Bierda ===
+Il-waqgħa tal-Purtiera tal-Ħadid temmet id-diviżjoni bejn il-Lvant u l-Punent fl-Ewropa ta’ żmien il-Gwerra Bierda, iżda dan il-kunċett ġeopolitiku xi kultant jintuża għal referenza ta’ malajr mill-mezzi tax-xandir. Definizzjoni oħra li ntużat matul il-Gwerra Bierda li damet 40 sena bejn l-1947 u l-1989, kienet bejn wieħed u ieħor sinonima mat-termini l-Blokk tal-Lvant u l-Patt ta’ Varsavja. Definizzjoni simili ssemmi l-istati Ewropej eks Komunisti ’l barra mill-Unjoni Sovjetika bħala l-Ewropa tal-Lvant.
+L-istoriċi u x-xjentisti soċjali ġeneralment iqisu li tali definizzjonijiet huma kemxejn antikwati jew ma japplikawx iżjed.
+
+
+=== EuroVoc ===
+
+EuroVoc, teżawru multilingwi ġestit mill-Uffiċċju tal-Pubblikazzjonijiet tal-Unjoni Ewropea, għandu entrati bi “23 lingwa tal-UE” (il-Bulgaru, il-Kroat, iċ-Ċek, id-Daniż, l-Olandiż, l-Ingliż, l-Estonu, il-Finlandiż, il-Franċiż, il-Ġermaniż, il-Grieg, l-Ungeriż, it-Taljan, il-Litwan, il-Latvjan, il-Malti, il-Pollakk, il-Portugiż, ir-Rumen, is-Slovakk, is-Sloven, l-Ispanjol u l-Iżvediż), kif ukoll bil-lingwi tal-pajjiżi kandidati (l-Albaniż, il-Maċedonu u s-Serbjan). Minn dawn il-lingwi, dawk bil-korsiv huma kklassifikati bħala l-Ewropa Ċentrali u tal-Lvant f’dan is-sors.
+
+
+=== Żviluppi kontemporanji ===
+
+
+==== Stati Baltiċi ====
+L-UNESCO, il-EuroVoc, in-National Geographic Society, il-Kumitat għall-Kooperazzjoni Internazzjonali fir-Riċerka Nazzjonali fid-Demografija, u t-Teżawru STW għax-Xjenza Ekonomika jpoġġu l-Istati Baltiċi fl-Ewropa tat-Tramuntana, filwaqt li l-World Factbook tas-CIA jpoġġi r-reġjun fl-Ewropa tal-Lvant b’assimilazzjoni b’saħħitha mal-Ewropa tat-Tramuntana. Dawn huma t-tmien membri tal-forum tal-kooperazzjoni reġjonali Nordika-Baltika msejħa l-Grupp ta’ Visegrád. Il-Forum tal-Ġejjieni tat-Tramuntana, il-Bank tal-Investiment Nordiku, il-Grupp tal-Battalja Nordiku, il-forum tal-kooperazzjoni reġjonali Nordika-Baltika u l-Lega Anseatika l-Ġdida huma eżempji oħra ta’ kooperazzjoni Ewropea tat-Tramuntana li jinkludu t-tliet pajjiżi b’mod kollettiv bħala l-Istati Baltiċi:
+
+l-Estonja,
+il-Latvja, kif ukoll
+il-Litwanja.
+
+
+==== Kawkasu ====
+Tliet nazzjonijiet tal-Kawkasu huma inklużi f’definizzjonijiet jew l-ġrajjiet storiċi tal-Ewropa tal-Lvant. Dawn jinsabu fiż-żona ta’ tranżizzjoni tal-Ewropa tal-Lvant u l-Asja tal-Punent. Huma jipparteċipaw fil-programm tas-Sħubija tal-Lvant tal-Unjoni Ewropea, fl-Assemblea Parlamentari tal-Euronest, u huma membri tal-Kunsill tal-Ewropa, li jispeċifikaw li t-tliet pajjiżi għandhom konnessjonijiet politiċi u kulturali mal-Ewropa. F’Jannar 2002, il-Parlament Ewropew indika li l-Armenja u l-Georgia jaf jidħlu fl-UE fil-futur. Madankollu, il-Georgia attwalment hija l-unika nazzjon tal-Kawkasu li qed ifittex attivament li jikseb is-sħubija fl-UE u fin-NATO. It-tliet nazzjonijiet ikkonċernati huma:
+
+l-Armenja,
+l-Ażerbajġan, kif ukoll
+il-Georgia.
+Fir-reġjun tal-Kawkasu hemm tliet Repubbliki indipendenti de facto, b’rikonoxximent limitat. Dawn it-tliet stati jipparteċipaw fil-Komunità għad-Demokrazija u d-Drittijiet tan-Nazzjonijiet u huma:
+
+ir-Repubblika tal-Abkażja,
+ir-Repubblika ta’ Artsakh (jew ta’ Nagorno-Karabakh), kif ukoll
+l-Ossezja tan-Nofsinhar.
+
+
+==== Stati Eks Sovjetiċi ====
+Xi repubbliċi Ewropej tal-Eks Unjoni Sovjetika jitqiesu bħala parti mill-Ewropa tal-Lvant:
+
+il-Belarussja,
+il-Moldova (is-soltu tiġi raggruppata mal-istati mhux Baltiċi post-Sovjetiċi iżda xi drabi titqies bħala parti mill-Ewropa tax-Xlokk),
+ir-Russja (ir-Russja Ewropea),
+l-Ukrajna.
+Fost l-istati kontroversjali hemm:
+
+it-Transnistria.
+
+
+==== Ewropa Ċentrali ====
+It-terminu Ewropa Ċentrali sikwit jintuża mill-istoriċi biex jirreferu għall-istati li qabel kien jiffurmaw parti mill-Imperu Ruman Sagru, mill-Imperu Awstro-Ungariku, u l-porzjon tal-Punent tal-Commonwealth Pollakk-Litwan.
+Għalhekk, f’xi sorsi tal-mezzi tax-xandir, it-terminu Ewropa Ċentrali jista’ parzjalment ikollu trikkib mat-terminu Ewropa tal-Lvant ta’ żmien il-Gwerra Bierda. Il-pajjiżi li ġejjin jiġu rreferuti bħala tal-Ewropa Ċentrali minn xi kummentaturi, minkejja li oħrajn għadhom jikkunsidrawhom bħala tal-Ewropa tal-Lvant:
+
+l-Awstrija,
+iċ-Ċekja,
+il-Kroazja (tiġi inkluża wkoll kemm fl-Ewropa Ċentrali kif ukoll tax-Xlokk),
+l-Ungerija,
+il-Polonja,
+ir-Rumanija (tiġi inkluża wkoll kemm fl-Ewropa Ċentrali kif ukoll tax-Xlokk),
+is-Serbja (tiġi inkluża l-iktar fl-Ewropa tax-Xlokk iżda xi drabi fl-Ewropa Ċentrali),
+is-Slovakkja,
+is-Slovenja (tiġi inkluża l-iktar fl-Ewropa Ċentrali iżda xi drabi wkoll fl-Ewropa tax-Xlokk).
+
+
+==== Ewropa tax-Xlokk ====
+Xi pajjiżi fl-Ewropa tax-Xlokk jistgħu jitqiesu bħala parti mill-Ewropa tal-Lvant. Xi drabi wħud minnhom, allavolja qajla tiġri, jistgħu jiġu kkaratterizzati bħala pajjiżi li jiffurmaw parti mill-Ewropa tan-Nofsinhar, u oħrajn jistgħu jiġu inklużi wkoll fl-Ewropa Ċentrali.
+Għalhekk, f’xi sorsi tal-mezzi tax-xandir, it-terminu Ewropa tax-Xlokk jista’ parzjalment ikollu trikkib mat-terminu Ewropa tal-Lvant ta’ żmien il-Gwerra Bierda. Il-pajjiżi li ġejjin jiġu rreferuti bħala tal-Ewropa tax-Xlokk minn xi kummentaturi, minkejja li oħrajn għadhom jikkunsidrawhom bħala tal-Ewropa tal-Lvant:.
+
+l-Albanija,
+il-Bożnija-Ħerzegovina,
+il-Bulgarija,
+il-Kroazja (tiġi inkluża wkoll kemm fl-Ewropa Ċentrali kif ukoll tax-Xlokk),
+il-Greċja,
+il-Moldova (is-soltu tiġi raggruppata mal-istati mhux Baltiċi post-Sovjetiċi iżda xi drabi titqies bħala parti mill-Ewropa tax-Xlokk)
+il-Montenegro,
+il-Maċedonja ta’ Fuq,
+ir-Rumanija (tiġi inkluża wkoll kemm fl-Ewropa Ċentrali kif ukoll tax-Xlokk),
+is-Serbja (tiġi inkluża l-iktar fl-Ewropa tax-Xlokk iżda xi drabi fl-Ewropa Ċentrali),
+is-Slovenja (tiġi inkluża l-iktar fl-Ewropa Ċentrali iżda xi drabi wkoll fl-Ewropa tax-Xlokk),
+it-Turkija (ir-reġjun tat-Traċja tal-Lvant biss, fil-Punent tal-Istretti Torok; dan jikkostitwixxi inqas minn 3 % tal-massa tal-art tal-pajjiż iżda jinkludi 14 % tal-popolazzjoni totali).
+Fost l-Istati parzjalment rikonoxxuti hemm:
+
+il-Kosovo.
+
+
+== Referenzi ==
+
+Ir-Rinaxximent huwa perjodu fl-istorja Ewropea li jimmarka t-tranżizzjoni mill-Medju Evu għall-modernità u li jkopri s-sekli 15 u 16, ikkaratterizzati minn sforz biex jitqanqlu u jiġu superati l-ideat u l-kisbiet tal-antikità klassika. Seħħ wara l-Kriżi tal-Medju Evu Aħħari u kien assoċjat ma' tibdil soċjali kbir. Minbarra l-perjodizzazzjoni standard, proponenti ta' "Rinaxximent twil" isostnu li beda fis-seklu 14 u ntemm fis-seklu 17.
+Il-fehma tradizzjonali tiffoka iktar fuq l-aspetti moderni bikrin tar-Rinaxximent u targumenta li kien tbegħid mill-imgħoddi, iżda bosta storiċi llum jiffukaw iktar fuq l-aspetti Medjevali tiegħu u jargumentaw li kien estensjoni tal-Medju Evu. Madankollu, fil-bidu tal-perjodu – ir-Rinaxximent Bikri tas-seklu 15 u l-Proto-Rinaxximent Taljan tal-ħabta tal-1250 jew l-1300 – jirkbu b'konsiderevoli fuq xulxin mal-Medju Evu Aħħari, datat konvenzjonalment għall-ħabta tal-1250-1500, u l-Medju Evu stess kien perjodu twil mimli bidliet gradwali, bħall-epoka moderna; u bħala perjodu ta' tranżizzjoni bejn iż-żewġ perjodi, ir-Rinaxximent għandu similaritajiet mat-tnejn li huma, speċjalment mas-subperjodi aħħarin u bikrin tagħhom.
+
+Il-bażi intellettwali tar-Rinaxximent kienet il-verżjoni tiegħu tal-umaniżmu, li oriġina mill-kunċett Ruman ta' humanitas u l-iskoperta mill-ġdid tal-filosofija Griega klassika, bħal dik ta' Protagora, li qal li "l-bniedem huwa l-kejl ta' kollox". Dan il-ħsieb ġdid ġie manifestat fl-arti, fl-arkitettura, fil-politika, fix-xjenza u fil-letteratura. Eżempji bikrin kienu l-iżvilupp tal-perspettiva fil-pittura biż-żejt u l-għarfien imqanqal ta' kif jiġi prodott il-konkos. Għalkemm l-invenzjoni tat-tipa mobbli tal-metall ħaffet it-tixrid tal-ideat mill-aħħar tas-seklu 15, il-bidliet tar-Rinaxximent ma kinux uniformi madwar l-Ewropa: l-ewwel traċċi feġġew fl-Italja saħansitra fl-aħħar tas-seklu 13, b'mod partikolari l-kitbiet ta' Dante u l-pitturi ta' Giotto.
+Bħala moviment kulturali, ir-Rinaxximent kien jinkorpora t-tkattir tal-letteratura Latina u vernakulari, l-ewwel nett permezz tal-apprendiment fis-seklu 14 ibbażat fuq sorsi klassiċi, li l-kontemporanji akkreditaw lil Petrarka; l-iżvilupp tal-perspettiva lineari u tekniki oħra li jwasslu għal realtà iktar naturali fil-pittura; u r-riforma edukattiva gradwali iżda mifruxa. Fil-politika, ir-Rinaxximent ikkontribwiet għall-iżvilupp tad-drawwiet u tal-konvenzjonijiet tad-diplomazija, u fix-xjenza għal iktar dipendenza fuq l-osservazzjoni u r-raġunament intuwittiv. Għalkemm fir-Rinaxximent seħħew rivoluzzjonijiet f'bosta oqsma intellettwali u xjentifiċi soċjali, kif ukoll l-introduzzjoni tas-sistema bankarja moderna u l-qasam tal-kontabilità, x'aktarx li huwa magħruf l-iktar għall-iżviluppi artistiċi u l-kontributi tiegħu minn artisti famużi bħal Leonardo da Vinci u Michelangelo, li ispiraw it-terminu "raġel Rinaxximentali".
+
+Ir-Rinaxximent beda f'Firenze, wieħed mill-bosta stati tal-Italja. Ġew proposti diversi teoriji dwar l-oriġini u l-karatteristiċi tiegħu, b'enfasi fuq varjetà ta' fatturi, inkluż il-karatteristiċi soċjali u ċiviċi ta' Firenze ta' dak iż-żmien: l-istruttura politika, il-patrunaġġ tal-familja dominanti, il-Medici, u l-migrazzjoni tal-istudjużi Griegi u tat-testi tagħhom lejn l-Italja wara l-waqgħa ta' Kostantinopli f'idejn it-Torok Ottomani. Ċentri ewlenin oħra kienu Venezja, Genoa, Milan, Ruma matul il-Papat Rinaxximentali, u Napli. Mill-Italja, ir-Rinaxximent infirex mal-Ewropa kollha, l-ewwel lejn l-Ungerija (fis-sekli 14 u 15) u lejn Franza, Spanja, il-Portugall, il-Fjandri, l-artijiet Ġermaniżi, il-Polonja, ir-Renju Unit, l-Irlanda u lil hinn.
+Ir-Rinaxximent għandu storjografija twila u kumplessa, u skont ix-xettiċiżmu ġenerali ta' perjodizzazzjonijiet diskreti, kien hemm ħafna dibattiti fost l-istoriċi b'reazzjoni għall-glorifikazzjoni tar-"Rinaxximent" fis-seklu 19 u ta' eroj kulturali individwali bħala "rġiel Rinaxximentali", u ddubitaw dwar l-utilità tar-Rinaxximent bħala terminu u bħala referenza storika. Xi osservaturi ddubitaw jekk ir-Rinaxximent kienx "avvanz" kulturali mill-Medju Evu, u minflok rawh bħala perjodu ta' pessimiżmu u nostalġija għall-antikità klassika, filwaqt li l-istoriċi soċjali u ekonomiċi, speċjalment tal-longue durée, minflok iffukaw fuq il-kontinwità bejn iż-żewġ eri, li huma interkonnessi, kif josserva Panofsky, "minn elf rabta".
+It-terminu rinascita ("twelid mill-ġdid") tfaċċa għall-ewwel darba fil-Ħajjiet tal-Artisti ta' Giorgio Vasari (għall-ħabta tal-1550), li nbidel f'"Rinaxximent" fis-snin 30 tas-seklu 19. It-terminu ġie estiż ukoll għal movimenti storiċi u kulturali oħra, bħar-Rinaxximent Karolinġju (is-sekli 8 u 9), ir-Rinaxximent Ottonjan (is-sekli 10 u 11), u r-Rinaxximent tas-seklu 12.
+
+
+== Sorsi ġenerali ==
+Burckhardt, Jacob, The Civilization of the Renaissance in Italy (1860).
+Cartledge, Bryan (2011). The Will to Survive: A History of Hungary. C. Hurst & Co. ISBN 978-1849041126.
+E. Kovács, Péter (1990). Matthias Corvinus (in Hungarian). Officina Nova. ISBN 9637835490.
+Engel, Pál (2001). The Realm of St Stephen: A History of Medieval Hungary, 895–1526. I.B. Tauris Publishers. ISBN 1860640613.
+Hendrix, Scott E. (2013). "Astrological forecasting and the Turkish menace in the Renaissance Balkans" (PDF). Anthropology. Universitatis Miskolciensis. 13 (2): 57–72. ISSN 1452-7243.
+Klaniczay, Tibor (1992). "The age of Matthias Corvinus". In Porter, Roy; Teich, Mikuláš (eds.). The Renaissance in National Context. Cambridge University Press. pp. 164–179. ISBN 0521369703.
+Kubinyi, András (2008). Matthias Rex. Balassi Kiadó. ISBN 978-9635067671.
+Reynolds, L. D.; Wilson, Nigel (1974). Scribes and Scholars: A Guide to the Transmission of Greek and Latin Literature. Oxford: Clarendon Press. ISBN 978-0199686339. OL 26919731M.
+Tanner, Marcus (2009). The Raven King: Matthias Corvinus and the Fate of his Lost Library. Yale University Press. ISBN 978-0300158281.
+
+
+== Iktar qari ==
+Cronin, Vincent (1969), The Flowering of the Renaissance, ISBN 0712698841.
+Cronin, Vincent (1992), The Renaissance, ISBN 0002154110.
+Campbell, Gordon. The Oxford Dictionary of the Renaissance. (2003). 862 pp.
+Davis, Robert C. Renaissance People: Lives that Shaped the Modern Age. (2011). ISBN 978-1606060780.
+Ergang, Robert (1967), The Renaissance, ISBN 0442023197.
+Ferguson, Wallace K. (1962), [Europe in Transition, 1300–1500], ISBN 0049400088.
+Fisher, Celia. Flowers of the Renaissance. (2011). ISBN 978-1606060629.
+Fletcher, Stella. The Longman Companion to Renaissance Europe, 1390–1530. (2000). 347 pp.
+Grendler, Paul F., ed. The Renaissance: An Encyclopedia for Students. (2003). 970 pp.
+Hale, John. The Civilization of Europe in the Renaissance. (1994). 648 pp.
+Hall, Bert S. Weapons and Warfare in Renaissance Europe: Gunpowder, Technology, and Tactics (2001).
+Hattaway, Michael, ed. A Companion to English Renaissance Literature and Culture. (2000). 747 pp.
+Jensen, De Lamar (1992), Renaissance Europe, ISBN 0395889472.
+Johnson, Paul. The Renaissance: A Short History. (2000). 197 pp.
+Keene, Bryan C. Gardens of the Renaissance. (2013). ISBN 978-1606061435.
+King, Margaret L. Women of the Renaissance (1991).
+Kristeller, Paul Oskar, and Michael Mooney. Renaissance Thought and its Sources (1979).
+Nauert, Charles G. Historical Dictionary of the Renaissance. (2004). 541 pp.
+Patrick, James A., ed. Renaissance and Reformation (5 vol 2007), 1584 pages; comprehensive encyclopedia.
+Plumb, J.H. The Italian Renaissance (2001).
+Paoletti, John T. and Gary M. Radke. Art in Renaissance Italy (4th ed. 2011).
+Potter, G.R. ed. The New Cambridge Modern History: Volume 1: The Renaissance, 1493–1520 (1957).
+Robin, Diana; Larsen, Anne R.; and Levin, Carole, eds. Encyclopedia of Women in the Renaissance: Italy, France, and England (2007) 459 pp.
+Rowse, A.L. The Elizabethan Renaissance: The Life of the Society (2000).
+Ruggiero, Guido. The Renaissance in Italy: A Social and Cultural History of the Rinascimento (Cambridge University Press, 2015). 648 pp.
+Rundle, David, ed. The Hutchinson Encyclopedia of the Renaissance. (1999). 434 pp.
+Turner, Richard N. Renaissance Florence (2005).
+Ward, A. The Cambridge Modern History. Vol 1: The Renaissance (1902); older essays by scholars; emphasis on politics.
+
+
+== Storjografija ==
+Bouwsma, William J. "The Renaissance and the drama of Western history." American Historical Review (1979): 1–15.
+Caferro, William. Contesting the Renaissance (2010).
+Ferguson, Wallace K. "The Interpretation of the Renaissance: Suggestions for a Synthesis." Journal of the History of Ideas (1951): 483–495.
+Ferguson, Wallace K. "Recent trends in the economic historiography of the Renaissance." Studies in the Renaissance (1960): 7–26.
+Ferguson, Wallace Klippert. The Renaissance in historical thought (AMS Press, 1981).
+Grendler, Paul F. "The Future of Sixteenth Century Studies: Renaissance and Reformation Scholarship in the Next Forty Years", Sixteenth Century Journal Spring 2009, Vol. 40 Issue 1, pp. 182.
+Murray, Stuart A.P. The Library: An Illustrated History. American Library Association, Chicago, 2012.
+Ruggiero, Guido, ed. A Companion to the Worlds of the Renaissance. (2002). 561 pp.
+Starn, Randolph. "A Postmodern Renaissance?" Renaissance Quarterly 2007 60(1): 1–24 in Project MUSE.
+Summit, Jennifer. "Renaissance Humanism and the Future of the Humanities". Literature Compass (2012) 9#10 pp: 665–678.
+Trivellato, Francesca. "Renaissance Italy and the Muslim Mediterranean in Recent Historical Work", Journal of Modern History (March 2010), 82#1 pp: 127–155.
+Woolfson, Jonathan, ed. Palgrave advances in Renaissance historiography (Palgrave Macmillan, 2005).
+
+
+== Sorsi primarji ==
+Bartlett, Kenneth, ed. The Civilization of the Italian Renaissance: A Sourcebook (2nd ed., 2011).
+Ross, James Bruce, and Mary M. McLaughlin, eds. The Portable Renaissance Reader (1977).
+
+
+== Referenzi ==
+
+Elaine Feinstein (imwielda Elaine Cooklin; 24 ta’ Ottubru 1930 - 23 ta’ Settembru 2019) kienet poetessa, rumanziera, kittieba ta’ novelli, drammaturga, bijografa u traduttriċi. Hija ngħaqdet mal-Kunsill tar-Royal Society of Literature fl-2007.
+
+
+== Karriera letterarja ==
+Feinstein iżżewġet u kellha tliet subien ma’ żewġha, Arnold Feinstein. Hekk kif qabdet tikteb mill-ġdid, “reġgħet ħadet il-ħajja”. Bdiet iżżomm id-djarji, tgawdi l-proċess tal-qari u tal-kitba tal-poeżija, u tikkomponi xi xogħlijiet biex jgħinuha tagħmel sens minn din l-esperjenza. Hi kkummentat li riedet “propożizzjonijiet sempliċi, linji li ħarġu jkantaw mill-poeżiji bi frażijiet perfetti donnhom linji tal-mużika.” Il-poeżija ta' Marina Tsvetayeva spiratha sabiex tittraduċi xi poeżiji minn tagħha. Dawn il-poeżiji ġew ippubblikati mill-Oxford University Press u Penguin Books fl-1971. Hi rċeviet tliet premijiet għat-traduzzjoni mill-Kunsill tal-Arti. 
+Wara li fl-1980 saret membru tar-Royal Society of Literature, il-kitba saret ix-xogħol primarju tagħha. Fl-1990, irċeviet il-Cholmondeley Award għall-Poeżija u Dottorat Onorarju mill-Università ta’ Leicester. Kultant kienet iżżur ir-Russja biex tagħmel riċerka għall-kotba tagħha, filwaqt li żżur ukoll xi ħbieb, fosthom Yevgeny Yevtushenko. Ix-xogħlijiet tagħha jinkludu erbatax-il rumanz, ħafna radju drammi, drammi televiżivi u ħames bijografiji, fosthom A Captive Lion: The Life of Marina Tsvetaeva (1987) u Pushkin (1998). Ted Hughes: The Life of a Poet (2001) ġie nnominat għall-Marsh Biography Prize, premju li jingħata darbtejn f’sena. Il-bijografija li kitbet fuq Anna Akhmatova, Anna of all the Russias, ħarġet fl-2005 u ġiet tradotta fi tnax-il lingwa Ewropea, inkluż ir-Russu. 
+Meta reċentament, f’intervista ma’ Alma Books, ġiet mistoqsija liema tliet kotba tagħżel li ssalva kieku darha kellha tieħu n-nar, Feinstein irrispondiet, “Kieku nieħu l-iPad.”
+
+
+== Mewt ==
+Elaine Feinstein mietet b’kanċer f’Londra fit-23 ta’ Settembru 2019 fl-età ta’ 88 sena. Warajha ħalliet tliet ulied u sitt neputijiet.
+
+
+== Referenzi ==
+
+Susan Edna Bassnett, FRSL, (imwielda fil-21 ta' Ottubru 1945) hija teorista tat-traduzzjoni u akkademika tal-letteratura komparattiva. Hi serviet bħala Pro-Viċi Kanċillier fl-Università ta' Warwick għal għaxar snin u għallmet fiċ-Ċentru għat-Traduzzjoni u l-Istudji Kulturali Komparattivi ta' hemmhekk, ċentru li ngħalaq fl-2009. Fl-2016 laħqet Professur tal-Letteratura Komparattiva fl-Universitajiet ta' Glasgow u Warwick. Ingħatat l-edukazzjoni tagħha madwar l-Ewropa, u bdiet il-karriera tagħha fl-Italja u għallmet anke f'universitajiet fl-Istati Uniti. Fl-2007, ġiet eletta bħala membru superjuri fis-Soċjetà Rjali tal-Letteratura. 
+
+
+== Ħajja bikrija u edukazzjoni ==
+Bassnett twieldet fil-21 ta' Ottubru 1945. Studjat l-Ingliż u t-Taljan fl-Università ta' Manchester, u fl-1968 iggradwat b'Baċellerat fl-Arti bl-Unuri tal-Ewwel Klassi. Hi studjat għad-Dottorat fil-Franċiż fl-Università ta' Lancaster, li ġie fi tmiemu fl-1975.
+
+
+== Karriera akkademika ==
+Bassnett bdiet il-karriera akkademika tagħha bħala lettriċi fl-Università ta' Ruma bejn l-1968 u l-1972. Imbagħad, irritornat lejn l-Ingilterra fejn kienet ukoll lettriċi fl-Università ta' Lancaster bejn l-1972 u l-1976. Ingħaqdet bħala lettriċi fl-Università ta' Warwick fl-1976, u hemm waqqfet iċ-Ċentru għat-Traduzzjoni u l-Istudji Kulturali Komparattivi fl-1985. Fl-1989 ġiet promossa bħala lettriċi tal-ogħla grad, u fl-1992 inħatret Professur tal-Letteratura Komparattiva. Fl-istess università, serviet bħala Pro-Viċi Kanċillier darbtejn, bejn l-1997 u l-2003, kif ukoll bejn l-2005 u l-2009. Irtirat minn Warwick fl-2016, u ngħatat it-titlu ta' Professur Emeritu. Mill-2015 'l hawn żammet il-pożizzjoni ta' Professur fil-Letteratura Komparattiva fl-Università ta' Glasgow. 
+
+
+== Xogħlijiet Prestiġjużi ==
+Fost il-kotba tagħha li jammontaw għal iżjed minn għoxrin, ħafna saru xogħlijiet importanti fil-qasam tal-kritika letterarja, speċjalment Translation Studies (1980) u Comparative Literature (1993). Ktieb tagħha dwar Ted Hughes ġie ppubblikat fl-2009. Ktieb ieħor editjat minnha huwa Knives and Angels: Women Writers in Latin America (1990). Il-kollaborazzjoni ta' Bassnett ma' diversi intellettwali oħra f'serje ta' proġetti ta' kotba, ġiet milqugħa tajjeb ħafna. Fl-2006, hi koeditjat ma' Peter Bush il-ktieb The Translator as Writer. Barra mix-xogħlijiet akkademiċi tagħha, Bassnett tikteb ukoll il-poeżija, b'numru ta' poeżiji tagħha ppubblikati f'Exchanging Lives: Poems and Translations (2002). 
+
+
+== Nagħtu importanza lit-traduzzjoni ==
+Fix-xogħol tagħha Constructing Cultures: Essays on Literary Translation tal-1988 (miktub ma' André Lefevere), Bassnett issostni li "l-bidla fl-importanza mill-oriġinal għat-traduzzjoni hija riflessa f'diskussjonijiet dwar il-viżibbiltà tat-traduttur. Lawrence Venuti jisħaq li hemm bżonn ta' traduzzjoni ċċentralizzata fuq it-traduttur, u jinsisti li t-traduttur għandu jagħmel ismu viżibbli fit-test". 
+
+
+== Referenzi ==
+
+Theology and Philosophy of Education (TAPE) huwa ġurnal elettroniku xjentifiku internazzjonali għat-teoloġija tal-edukazzjoni u l-filosofija tal-edukazzjoni. Ir-rivista hija ppubblikata mis-Sezzjoni Pedagoġika tal-Akkademja Kristjana Ċeka, u hija ppubblikata darbtejn fis-sena. Ir-rivista twaqqfet fl-20 ta’ Jannar 2022. L-ewwel ħarġa ġiet ippubblikata fil-25 ta’ Mejju 2022. Il-ħolqien tar-rivista TAPE tħabbar uffiċjalment fl-Iskola tal-Filosofija Edukattiva fl-2022 , li, bħala rivista, oriġinaw mill-wirt tal-fundatur tal-Iskola Ċeka tal-Filosofija Edukattiva, Radim Palouš , u l-ewwel mara tal-filosofija Ċeka tal-edukazzjoni, Jaroslava Pešková. TAPE jirrikonoxxi wkoll b'mod espliċitu l-wirt tat-teologu Ċek Josef Zvěřin   u t-Teologie Agapé tiegħu.
+TAPE huwa ġurnal b'aċċess miftuħ (OA, djamanti/platinu). L-għan ewlieni tiegħu huwa li jikkontribwixxi għad-diskussjoni ta 'diversi aspetti tat-teoloġija tal-edukazzjoni u l-filosofija tal-edukazzjoni billi tippubblika testi professjonali eżaminati minn esperti . TAPE joħloq spazju għal diskussjoni dwar kwistjonijiet filosofiċi, teoloġiċi u edukattivi (pedagoġiċi), għal relazzjonijiet reċiproċi u kooperazzjoni possibbli.
+
+
+== Inklużjoni f'Databases ==
+Il-ġurnal TAPE għandu l-ISSN tiegħu stess u huwa inkluż fid-database internazzjonali tal-ġurnali teoloġiċi, fid-database tal-ġurnali onlajn tal-Ewropa Ċentrali u tal-Lvant CEEOL, fid-database OpenArchives, fid-database BASE u fid-database WorldCat.
+
+
+== Ħoloq ==
+
+
+=== Referenzi ===
+
+NAGY, Jakub. New Journal on Theology and Philosophy of Education. Church Reporter, 2022-02-19, roč. 7, čís. 2, s. 5–6. Online. (bl-Ingliż)
+DLOUHÁ, Jana. TAPE – to není páska s již hotovým záznamem, ale nový časopis pro filosofii a teologii výchovy. Envigogika, 2022-08-15, roč. 17, čís. 1. ISSN 1802-3061. DOI: 10.14712/18023061.646. (biċ-Ċek)
+NAGY, Jakub. The half-yearly meeting of the Academic Committee of the Czech Christian Academy in the Emmaus Monastery in Prague. Church Reporter, 2022-07-28, roč. 7, čís. 7, s. 6–7. Online. (bl-Ingliż)
+BLAŠČÍKOVÁ, Andrea; SVOBODOVÁ, Zuzana. Druhý ročník Zimnej školy filozofie výchovy. Náš čas [print] (Univerzita Konštantína Filozofa v Nitre), 2022, roč. 26, čís. 1, s. 32–33.
+NEMEC, Rastislav. Zuzana Svobodová – Andrea Blaščíková: Mezi filosofií a teologií výchovy. Dialog k odkazu Radima Palouše. Studia theologica (Univerzita Palackého v Olomouci), 2022, roč. XXIV, čís. 1, s. 194. Online [cit. 2022-07-11]. ISSN 1212-8570.
+SVOBODOVÁ, Zuzana; BLAŠČÍKOVÁ, Andrea. Mezi filosofií a teologií výchovy: Dialog k odkazu Radima Palouše. Praha : Karolinum, 2021. ISBN 978-80-246-4902-3. S. 132 (s. 7).
+SVOBODOVÁ, Zuzana. Radim Palouš (1924–2015). PAIDEIA: PHILOSOPHICAL E-JOURNAL OF CHARLES UNIVERSITY [online]. (Praha: Univerzita Karlova, Pedagogická fakulta), 2015, roč. 12, čís. 1, s. 1–2. Online [cit. 2022-07-13]. ISSN 1214-8725. (biċ-Ċek)
+SPIŠIAKOVÁ, Mária. Zimná škola filozofie výchovy, ktorá sa konala on-line v dňoch 1. – 5. februára 2021. Studia Aloisiana [online] (Trnavská univerzita, Teologická fakulta), 8. 4. 2021, roč. 12, čís. 1, s. 69. Online [cit. 2022-07-08]. ISSN 1338-0508.
+SVOBODOVÁ, Zuzana. Dialog. Setkání [online] (Biskupství českobudějovické), október 2021, roč. XXXI, s. 9. [cit. 2022-07-08]. ISSN 1212-8074. (biċ-Ċek)
+SVOBODOVÁ . S. 43. ROČ. 2021,, Zuzana; BLAŠČÍKOVÁ, Andrea. Prvý ročník Zimnej školy filozofie výchovy. Náš čas [online] (Univerzita Konštantína Filozofa v Nitre), 2021, roč. 25, čís. 2, s. 43. Online [cit. 2022-07-08].
+SVOBODOVÁ, Zuzana. Theology of Education and Philosophy of Education in Dialogue. Theology and Philosophy of Education [online] (Česká křesťanská akademie, Pedagogická sekce), 2022-05-25, roč. 1, čís. 1, s. 2. [cit. 2022-07-08]. ISSN 2788-1180. DOI: https://doi.org/10.5281/zenodo.6605415. (bl-Ingliż)
+SKALICKÝ, Karel; ŠTĚCH, František. Interview with Professor Karel Skalický about Czech Exile Journal Studie. Theology and Philosophy of Education [online] (Česká křesťanská akademie, Pedagogická sekce), 2022-05-25, roč. 1, čís. 1, s. 5–6. [cit. 2022-07-08]. ISSN 2788-1180. DOI: https://doi.org/10.5281/zenodo.6613943. (bl-Ingliż)
+ZVĚŘINA, Josef. Teologie Agapé. Praha : Vyšehrad, 2003. ISBN 80-7021-432-5. S. 416 (s. 5–6). (biċ-Ċek)
+List of theology journals - WikiMili, The Free Encyclopedia [online]. WikiMili.com, [cit. 2022-08-10]. Online.
+Theology and Philosophy of Education [online]. www.ceeol.com, [cit. 2022-08-10]. Online.
+OAI-PMH Registration Record [online]. www.openarchives.org, [cit. 2022-08-10]. Online.
+BASE (Bielefeld Academic Search Engine): Hit List [online]. www.base-search.net, [cit. 2022-08-10]. Online.
+Theology and philosophy of education: an international journal for perspectives in the theology of education and philosophy of education [online]. WorldCat.org, [cit. 2022-08-19]. Online.
+
+
+=== Letteratura ===
+J. M. Hull, „What is theology of education?" Scottish Journal of Theology 30, no. 1 (1977), s. 3-29.
+R. Palouš, Z. Svobodová, Homo educandus: Filosofické základy teorie výchovy. Praha: Karolinum, 2011. ISBN 978-80-246-1901-9.
+J. Patočka, Filosofie výchovy. In Péče o duši I. Praha: OIKOYMENH, 1996. ISBN 80-86005-24-0, s. 363-440.
+Z. Svobodová, A. Blaščíková, Mezi filosofií a teologií výchovy: Dialog k odkazu Radima Palouše . Praha: Karolinum, 2021. ISBN 978-80-246-4902-3.
+R. N. S. Topping, Happiness and wisdom: Augustine's early theology of education. Washington, DC: Catholic University of America Press, 2012. ISBN 978-0-8132-1973-8.
+J. Zvěřina, Teologie Agapé. Praha: Vyšehrad, 2003. ISBN 80-7021-432-5.
+
+
+=== Artikli relatati ===
+Philosophy of Education
+
+
+== Ħoloq Barranin ==
+Websajt ta' Philosophy and Theology of Education
+Websajt Uffiċċjali ta' Czech Christian Academy
+Websajt ta' Pedagogical Section of the Czech Christian Academy
+Ġurnal fis-CEEOL - Central and European Online Library database
+Ġurnal fl-Europub database
+Ġurnal fil-BASE database - Bielefeld Academic Search Engine
+Informazzjoni fuq il-ġurnal fl-ISSN Portal
+Informazzjoni fil-ġurnal f'Church Reporter 2/2022, p. 5-6
+
+Il-Filosofija f’Malta tirreferi għall-filosofija li għamlu ċittadini Maltin jew ta’ nisel Malti, kemm jekk għexu Malta jew barra minn Malta, kemm jekk kitbu bl-ilsien Malti jew f’xi ilsien barrani. Għalkemm Malta hija biss gżira ċkejkna Ewropea f’nofs il-Baħar Mediterran, għal dawn l-aħħar sitt sekli l-popolazzjoni żgħira tagħha ġiet f’kuntatt mill-qrib ma’ xi wħud mill-movimenti ewlenin politiċi, akkademiċi u intellettwali tal-Ewropa. Il-filosofija kienet waħda mill-oqsma li nġibdu lejha l-akkademiċi u l-intellettwali.
+
+Matul il-biċċa l-kbira tal-istorja tagħha, f’Malta l-filosofija kienet sempliċiment studjata bħala parti mill-kors bażiku istituzzjonali li kien iħejji l-kandidati sabiex isiru saċerdoti Kattoliċi, avukati jew tobba. Kien biss fl-aħħar kwart tas-seklu 20 li l-filosofija bdiet tikseb importanza dejjem akbar għaliha waħedha u għaliha nnifisha Minkejja dan, matul is-snin kien hemm akkademiċi u intellettwali Maltin li spikkaw għall-ħila filosofika tagħhom. Għalkemm kellhom limitazzjonijiet qawwija xi jżommhom lura, xorta waħda taw sehem modest iżda sinifikanti għall-għarfien tal-filosofija u għall-iżvilupp ta’ xi friegħi tagħha.
+Għalkemm il-filosofija kienet mgħallma f’Malta f’bosta istituzzjonijiet ta’ edukazzjoni għolja sa minn nofs is-seklu 16 ’il quddiem, mit-tieni nofs tas-seklu 18 ’il quddiem kienet l-Università ta’ Malta l-istituzzjoni akkademika ewlenija li l-aktar ippromoviet l-attività u r-riċerka filosofika. Illum, l-aktar minħabba aċċess eħfef għall-għejjun ta’ riċerka u wkoll minħabba t-tkabbir u l-firxa tal-mezzi ta’ komunikazzjoni, l-istħarriġ u l-interess filosofiku fil-gżejjer Maltin saru mifruxa aktar, kemm fl-għadd ta’ dawk li jitħajru għalihom u kemm fid-diversità tal-kontenut.
+
+
+== Storja qasira ==
+
+
+=== Iż-Żmien ta’ qabel il-Kavallieri (pre-1530) ===
+Qabel ma waslu Malta l-Kavallieri ta’ San Ġwann fl-ewwel nofs tas-seklu 16, il-gżejjer Maltin kienu art itturufnata bi ftit li xejn siwi politiku. Il-ftit intellettwali li kienu jgħixu hawnhekk kibru fi ħdan jew madwar l-ordnijiet reliġjużi Kattoliċi li kien hemm fil-gżejjer. Ir-rabtiet kulturali kienu l-aktar ma’ Sqallija fil-qrib. Il-filosofija kienet studjata l-aktar, jekk mhux biss, bħala tarġa għat-teoloġija. F’dak iż-żmien, Sqallija kienet ċentru akkademiku, intellettwali u kulturali attiv u famuż. Il-professjonisti kollha kienu jistudjaw hemmhekk u jiggradwaw mill-iskejjel li kien hemm. Kien żmien meta r-Rinaxximent kien fl-aqwa tiegħu. Minkejja li l-Kontra-Riforma kellha sehem qawwi f’kull istituzzjoni akkademika u intellettwali, il-letteratura li ħarġu l-edukaturi ewlenin tar-Riforma, bħal Luteru u Erażmu, kienu fl-idejn u jinqraw minn ħafna.
+
+
+=== Iż-Żmien tal-Kavallieri ta’ San Ġwann (1530–1798) ===
+Il-Kavallieri ta’ San Ġwann għamlu minn Malta darhom fl-1530 u baqgħu sidien sovrani tal-gżejjer Maltin sakemm ġew imkeċċija minn Napuljun fl-1798. Bħala regola, kien jinteressahom mill-edukazzjoni u l-kultura daqskemm kien jinteressahom mill-kampanji militari u l-ġid ekonomiku tagħhom. Minkejja dan, għalkemm kienu jħeġġu l-edukazzjoni għolja billi jagħtu protezzjoni lill-bosta kulleġġi u universitajiet li kienu ġew imwaqqfa (speċjalment mill-ordnijiet reliġjużi Kattoliċi), żammew ukoll ħarsien strett ħafna fuq kull qasam tal-istudju u x-xjenza. Ċertament ma kinux iħobbu jew iridu li l-Inkwiżizzjoni taqbad magħhom, għax dan kien joskurahom mal-Papa f’Ruma.
+
+Għalkemm fil-biċċa l-kbira tal-każijiet il-filosofija kompliet tiġi meqjusa biss bħala l-qaddejja tat-teoloġija, xi intellettwali ħadu l-interess li diskretament jiġbdu x-xogħlijiet tagħhom f’mogħdijiet anqas magħrufa jew mistennija mis-soltu. Minkejja li l-kontribuzzjonijiet filosofiċi ta’ dawn l-għalliema huma affaxxinanti fihom infushom, il-kontroll u r-restrizzjonijiet li kien hemm fuq l-attività intellettwali qajla ħallitilhom fejn jimirħu b’oriġinalità u ħolqien tal-ħsieb.
+F’dan iż-żmien, l-ambjenti intellettwali kienu lkoll parti mill-moviment kbira Skolastiku, fejn Aristotli kien jingħata qima kważi ta’ alla. Madanakollu, l-Iskolastiċi kienu mifruqa f’żewġ kampijiet opposti għal xulxin: filwaqt li l-parti l-kbira kienet taqra lil Aristotli mill-għajnejn ta’ Tumas ta’ Akwinu, l-oħrajn kienu jaqrawh mill-għajnejn ta’ Ġwanni Duns Scotus. Tal-ewwel kienu jissejħu ‘Tomisti’ u l-oħrajn ‘Skotisti’. Ilkoll, kemm ta’ naħa u kemm ta’ oħra, dawn l-akkademiċi u intellettwali kienu jipproduċu għadd bla qies ta’ kummentarji, jew ta’ Aristotli nnifsu jew tal-imgħallem rispettiv tagħhom. Il-kreattività kollha tagħhom kienu jesprimuha strettament fi ħdan il-limiti tal-iskola tagħhom tal-ħsieb, u dan rażżan kważi għal kollox kull ħsieb ġdid jew ażżardat.
+Matul il-parti tas-seklu 18 ta’ dan iż-żmien tal-Kavallieri ta’ San Ġwann, ix-xjenza u l-metodu xjentifiku bdew jagħmlu passi qawwija ’l quddiem lil hinn mit-trunċieri tal-Iskolastiċi. Ġeneralment, din il-linja ta’ ħsieb ma kinetx tiġi meħudha mill-ekkleżjastiċi, li fuqhom il-kontroll kien aktar qawwi, iżda minn lajċi professjonali, speċjalment tobba. Iżda dawn ftit li xejn kellhom xi influwenza qawwija fuq l-istudenti fi ħdan l-istituzzjonijiet akkademiċi, li kienu għal kollox taħt idejn il-membri tal-ordnijiet reliġjużi.
+
+
+=== Iż-Żmien ta’ bejn iż-żewġ Saltniet (1798–1813) ===
+Lejn tmiem iż-żmien tal-Kavallieri ta’ San Ġwann f’Malta, ideat li kienu splussivi għall-ħabta tar-Rivoluzzjoni Franċiża tal-1789 bdew jaqbdu ġmielhom fost ambjenti intellettwali li kienu ddejqu bl-Iskolastiċiżmu u riedu arja intellettwali kemxejn ġdida. Dawn ġew fl-aqwa tagħhom madwar l-1798, meta Napuljun keċċa l-Kavallieri ta’ San Ġwann. Minkejja dan, dawn l-ideat kienu diġà qegħdin iduru fost l-intellettwali sa minn għaxar snin qabel Napuljun. Tabilħaqq, kienu ideat influwenzati ħafna mill-filosofiji Illuministi, speċjalment fi Franza.
+
+
+=== Iż-Żmien Kolonjali Britanniku (1813–1964) ===
+F’dan iż-żmien, l-iskejjel għolja komplew ix-xogħol li kienu jagħmlu bħal fi żmien il-Kavallieri ta’ San Ġwann. Għal darba oħra, l-Iskolastiċiżmu kien fuq quddiem u b’saħħtu daqs qabel. Iżda din id-darba, minkejja li ċ-ċirkustanzi tbiddlu ħafna fuq medda ta’ żewġ sekli ta’ ħakma Britannika, kien it-Tomiżmu biss li saltan waħdu. Bħal fis-snin ta’ qabel, il-biċċa l-kbira tal-filosfi f’dan iż-żmien kienu nies tal-Knisja, l-aktar membri tal-ordnijiet reliġjużi. Għal darba oħra, minħabba ċ-ċensura u l-kontroll li kien hemm fuqhom, bil-kemm qatt azzardaw jipproponu xejn filosofikament oriġinali jew immaġinattiv. Eċċezzjoni sorprendenti għal dan kollu kien Manwel Dimech, li għex u ħadem fil-bidu tas-seklu 20. Mhux biss ma kien iħaddan ebda għamla ta’ Skolastiċiżmu, iżda saħansitra kien filosfu innovattiv u oriġinali, kif ukoll riformatur soċjali.
+
+
+=== Iż-Żmien ta’ wara l-Indipendenza (1964–) ===
+Sa żmien l-Indipendenza ta’ Malta l-Iskolastiċiżmu kien naqas mill-iskejjel għolja u għoddu xxejjen għal kollox mill-ambjenti intellettwali. Ftit li xejn baqa’ min jistudja u jieħu bis-serjetà d-duttrini tiegħu għajr f’dawk l-imkejjen iżolati reliġjużi Kattoliċi. Mill-bqija, baqa’ jeżisti biss b’mod indirett fil-katekiżmu li t-tfal kollha kienu jiġu mgħallma bi tħejjija għas-sagramenti.
+
+Il-bqija tal-filosfi oħrajn li ħallew warajhom l-istudju formali tal-Iskolastiċiżmu saru aktar avventurużi fil-ħidmiet intellettwali tagħhom. Huma bdew jistħarrġu oqsma li, sa żmien il-Britanniċi (u wisq aktar fi żmien il-Kavallieri ta’ San Ġwanni), ma setgħux jidħlu fihom. F’termini tal-iżvilupp ta’ kif il-filosofija ħadet xejra aktar miftuħa f’Malta, jispikka Peter Serracino Inglott, speċjalment minn tmiem is-snin 60 lil hawn.
+F’dan iż-żmien, kien hemm ukoll għadd ta’ filosfi Maltin li għexu u ħadmu barra minn Malta, f’artijiet fejn marru joqogħdu ħafna emigranti. Il-biċċa l-kbira minn dawn il-filosfi, filwaqt li żammew kuntatt limitat ħafna ma’ Malta, kellhom mod ieħor ta’ kif jaħsbu u ta’ kif jagħmlu l-filosofija.
+
+
+== Il-Katedra tal-Filosofija fl-Università ta’ Malta ==
+Din li ġejja hi lista tal-professuri li żammew il-Katedra tal-Filosofija fl-Università ta’ Malta, l-ogħla istituzzjoni akkademika filosofika ġewwa l-gżejjer Maltin. Id-dati jirreferu għaż-żmien li fih żammew l-uffiċċju tagħhom. Din il-katedra tal-filosofija ġiet imwaqqfa fl-1771 mill-Granmastru tal-Ordni ta’ San Ġwann, Manwel Pinto da Fonseca, meta biddel il-Collegium Melitense (Kulleġġ Malti) tal-Ġiżwiti fl-Università ta’ Malta.
+
+
+== Għarfien akbar ==
+
+
+=== Riċerka ===
+Bejn wieħed u l-ieħor f’dawn l-aħħar għoxrin sena, beda jsir sforz imġedded sabiex jiġi magħruf aħjar u mogħti attenzjoni aktar xierqa s-sehem tal-filosofija fil-gżejjer Maltin. Din il-ħtieġa kibret għal żewġ raġunijiet ewlenin. L-ewwel, għax il-Maltin infushom, l-aktar minħabba n-nuqqas ta’ riċerka meħtieġa, ma kinux qegħdin jirrikonoxxu, wisq anqas japprezzaw, it-tradizzjoni filosofika lokali. It-tieni, għax kull attività li kienet qiegħda titwettaq fil-qasam filosofiku―kemm jekk bit-tagħlim, kemm jekk bil-kitba u kemm jekk f’sempliċi diskussjonijiet―kienet qed issir bħallikieku l-filosofija f’Malta kellha, l-aktar l-aktar, preżent mingħajr imgħoddi.
+I r-riċerka fl-arkivji ħareġ mill-għeluq u d-dlam ismijiet, manuskritti u personalitajiet li qajla kienu magħrufa qabel. Fuq il-bażi ta’ dan ix-xogħol, ġew ippubblikati kotba ta’ gwida (1995; 2001; 2009), u saru korsijiet speċjalizzati fuq is-suġġett fl-Università ta’ Malta (1996; 2012; 2013) u f’istituzzjonijiet għolja oħra ta’ tagħlim. Ġiet ukoll organizzata l-ewwel konferenza dwar il-ħidma filosofika fil-gżejjer Maltin (1996).
+
+
+=== Apprezzament ===
+
+Sa mis-seklu 16, il-filosofija tat sehem xierqa lill-ħajja akkademika u, xi kultant, intellettwali u kulturali tal-intelliġensja Maltija. F’ħafna każijiet, dan is-sehem kien bħala għodda għall-mexxejja ċivili u ekkleżjastiċi ħalli jikkonservaw u jipperpetwaw id-duttrini ortodossi u uffiċjali tagħhom. F’każijiet oħrajn, dan is-sehem offra mogħdijiet alternattivi u immaġinattivi ta’ ħsieb. Iżda minkejja t-tradizzjoni relattivament twila tagħha, Malta qatt ma kellha xi filosofija partikulari marbuta speċifikament ma’ isimha. Għalkemm ġieli kienu innovattivi u kreattivi, fil-biċċa l-kbira tagħhom il-filosfi Maltin dejjem ħadmu b’ideat importati minn barra u qajla―ħlief f’każijiet tassew rari (bħal dak ta’ Manwel Dimech)―għamlu xi skoperti ġodda fil-qasam filosofiku. Minkejja l-filosofija ta’ ħafna minnhom m’affettwatx il-ħajja soċjali u politika tal-Maltin, xi wħud mill-filosfi Maltin kellhom relazzjonijiet qawwija mal-ġrajjiet kurrenti ta’ żmienhom, u xi minn daqqiet saħansitra anki stimulaw il-bidla soċjali. Mal-medda tas-snin, il-filosofi Maltin ma żammewx ma tradizzjonijiet filosofika waħda. Il-biċċa l-kbira tagħhom kienet tal-iskola Aristoteliko-Tomista. Iżda xi minn daqqiet, xejriet filosofiċi oħra tfaċċaw fil-wiċċ, speċjalment mill-aħħar kwart tas-seklu 20 ’il quddiem. Dawn ix-xejriet stħarrġu oqsma fl-umaniżmu, l-empiriċiżmu, il-pragmatiżmu, l-eżistenzjaliżmu, l-analiżi lingwistika, il-post-moderniżmu u oħrajn. Ħlief għal każijiet uniċi, aktar milli rari, it-teiżmu kien element kostanti tul it-tradizzjoni filosofika kollha tal-gżejjer Maltin.
+Matul l-aħħar tletin sena, il-filosofija f’Malta ħadet xejra għal kollox differenti milli kellha qabel. Peter Serracino Inglott taha nifs straordinarju ġdid billi wessgħalha x-xefaq tagħha, żewqilha l-interessi li kellha, u għenha tizhar fl-oqsma soċjali, politiċi u artistiċi. Dan l-istil ġdid ta’ kif issir il-filosofija ħajret bosta akkademiċi u intellettwali oħra sabiex jieħdu l-istess mogħdija u jdakkru l-ħsieb b’avventuri ġodda.
+
+
+== Xi Filosfi Maltin ==
+Din li ġejja hija lista ta’ xi wħud mill-aqwa filosfi Maltin matul iż-żmien, u l-aktar rappreżentattivi tat-tradizzjoni filosofika Maltija. Il-kontribuzzjonijiet filosofiċi li taw xi wħud minn ta’ dawn il-filosfi għad għandhom sal-lum siwi xieraq. Oħrajn huma aktar magħrufa għall-profondità tagħhom daqskemm oħrajn għall-oriġinalità u l-kreattività li kellhom.
+
+Seklu 15
+
+Pietru Caxaro (1485–1450)
+Seklu 17
+
+Massimiljan Balzan (1637–1711)
+Ġwann Mattew Rispoli (1582–1639)
+Seklu 18
+
+Kustanz Vella (1687–1759)
+Ġann Kustanz Parnis (1695–1735)
+Ġużeppi Demarco (1723–1789)
+Salvatur Bernard (1724–1806)
+Ġann Nikol Muscat (1735-m. 1800)
+Seklu 19
+
+Mikiel Anton Vassalli (1764–1829)
+Ġilormu Inglott (1776–1835)
+Nikola Zammit (1815–1899 )
+Seklu 20
+
+Manwel Dimech (1860–1921)
+Anastasju Cuschieri (1872–1962)
+Anġlu Pirotta (1894–1956)
+Nazzarenu Camilleri (1906–1973)
+John Micallef (1923–2003)
+Edward De Bono (t. 1933)
+Peter Serracino Inglott (1936–2012)
+Kenneth Wain (t. 1943)
+Joe Friggieri (t. 1946)
+Oliver Friggieri (t. 1947)
+Sandra Dingli (t. 1952)
+Mario Vella (t. 1953)
+John Peter Portelli (t. 1954)
+Emmanuel Agius (t. 1954)
+Anthony Abela (1954–2006)
+Michael Zammit (t. 1954)
+Joseph Giordmaina (t. 1963)
+John Baldacchino (t. 1964)
+Mark Montebello (t. 1964)
+Clive Zammit (t. 1964)
+Mark Sultana (t. 1973)
+
+
+== Referenzi ==
+
+
+== Għejjun ewlenin ==
+J. Friggieri, ‘Philosophy today’, The Malta Year Book 1977, ed. by H.A. Clews, De La Salle Brothers Publications, Malta 1977, pp. 465–470.
+P. Serracino Inglott and C. Mangion, 'Il-Filosofija f'Malta', Oqsma tal-Kultura Maltija (Areas of Maltese Culture), ed. by T. Cortis, Ministry of Education and the Interior, Malta 1991, pp. 263–271.
+M. Montebello, Il-Ktieb tal-Filosofija f’Malta, two volumes, PIN Publications, Malta 2001.
+J. Friggieri, ‘Letter from Malta’, The Philosophers’ Magazine, 55, 4th quarter, England 2011, pp. 48–51.
+M. Montebello, Malta's Philosophy & Philosophers, PIN Publications, Malta 2011.
+
+
+== Ħoloq esterni ==
+Aktar qari
+Dipartiment tal-Filosofija, Università ta’ Malta
+Filosofija - Junior College
+School of Practical Philosophy
+The Augustinian Institute
+Philosophy Sharing Foundation

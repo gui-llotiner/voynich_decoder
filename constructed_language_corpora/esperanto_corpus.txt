@@ -1,0 +1,996 @@
+Historio (greke ἱστορία [istoria], kun la signifo "enketo, scio akirita per enketo") estas la studo de la pasinteco, specife kiel ĝi rilatigas al homoj. La termino rilatas al la eltrovaĵo, kolektado, organizado, kaj prezentado de informoj pri pasintaj okazaĵoj. La esprimo inkludas kosman, geologian, kaj organisman historiojn, sed ofte estas senmarke implicita por signifi homan historion. Akademianoj kiuj verkas pri historio estas nomitaj historiistoj. La okazaĵoj okazantaj antaŭ ol skriba registro estas konsideritaj kiel prahistorio. La tutan verkaron pri historio aŭ pri iu specifa historia subjekto oni nomas historiografion.
+Historio ankaŭ povas rilati al la akademia fako kiu utiligas rakonton por ekzameni kaj analizi sekvencon de pasintaj okazaĵoj, kaj objektive determinas la modelojn de kialo kaj efiko kiuj determinas ilin. Historiistoj foje diskutas la naturon de historio kaj ĝian utilecon diskutante la studon de la fako kiel celo en si mem kaj kiel maniero disponigi "perspektivon" en la problemoj de la nuno.
+Rakontoj kutimaj por preciza kulturo, sed ne apogita sub eksteraj fontoj (kiaj ekzemple la rakontoj ĉirkaŭantaj la figuron de la Reĝo Arturo) estas kutime klasifikitaj kiel kultura heredo aŭ legendoj, ĉar ili ne apogas la "senpartian enketadon" postulitan de la fako historio. Herodoto, greka historiisto de la 5-a jarcento a. K. estas konsiderita ene de la okcidenta tradicio kiel la "patro de historio", kaj, kune kun sia samtempulo Tucidido, helpis formi la fundamentojn por la moderna studado de homa historio. Ilia laboro daŭre estas legita hodiaŭ kaj la dislimo inter la kultur-fokusita Herodoto kaj la arme-fokusita Tucidido restas punkto de disputo aŭ aliro en moderna historia verkado. En la orienta tradicio, ŝtata kroniko nome Analoj de Printempo kaj Aŭtuno estis konata kiel kompilita tiom frue kion ĉirkaŭ la 722 a.K. kvankam nur tekstoj de la 2-a jarcento a.K. pluvivis.
+Antikvaj influoj helpis generi variajn interpretojn pri la naturo de historio kiuj evoluis dum la jarcentoj kaj daŭre ŝanĝas hodiaŭ. La moderna studado de historio estas vasta, kaj inkludas la studon de specifaj regionoj kaj la studo de certaj temaj elementoj de historia enketado. Ofte historio estas instruita kiel parto de primara kaj sekundara edukado, kaj la akademia studo de historio estas grava disciplino en universitataj studoj.
+
+
+== Etimologio ==
+
+La greka vorto ἱστορία (hístōr) signifas "enketo", "kono per enketo", aŭ "juĝo". En tiu senco Aristotelo uzis la vorton en sia verko Historio de Animaloj nome Περὶ Τὰ Ζῷα Ἱστορίαι (Perì Tà Zôa Ηistoríai. La pravorto ἵστωρ estas atestita frue en Homeraj himnoj, Heraklito, la ĵuro de atenanaj efeboj, kaj en Beotiaj surskribaĵoj (en jura senco, ĉu "juĝo" aŭ "atesto", aŭ simile).
+La vorto eniris en angla lingvo jam en 1390 kun la signifo de "rakonto de eventoj". En Meza angla lingvo, la signifo estis "okazaĵo" ĝenerale. La limigo al "registro de pasintaj eventoj" aperis fine de la 15a jarcento. Ankoraŭ en la greka senco Francis Bacon uzis la terminon fine de la 16a jarcento, kiam li verkis pri "Natura historio". Por li, historio estis "la kono de objectoj difinitaj de la spaco kaj de la tempo", nome tia kono havigita de memoro (dum scienco estis havigita de racio, kaj poezio de fantazio).
+En multaj lingvoj kiaj la modernaj germana, franca, kaj plej ĝermanaj kaj latinidaj lingvoj, kiuj estas ege sintezaj, la sama vorto estas ankoraŭ uzata kaj por "historio" kaj por "rakonto".
+La adjekto en angla historical estas registrita el 1661, kaj historic el 1669.
+Historian (nome historiisto) en la senco de "enketisto pri historio" estis registrita el 1531. En ĉiuj lingvoj de Eŭropo, la nomo "historio" estas ankoraŭ uzita por signifi kaj "kio okazis ĉe homoj", kaj "la faka studo de la okazaro", el kiuj tiu lasta senco foje estas distingita per majusklo, "Historio", aŭ per la vorto historiografio.
+
+
+== Terminaraj problemoj ==
+Simile kiel en naciaj lingvoj, ankaŭ en Esperanto la vorto "historio" uzata rilate al malsamaj aferoj
+
+pasinteco, tio kio laŭ nuna scio vere okazis aŭ estis: la historio de Varsovio, la historio de UEA
+la tuta okupiĝado pri pasinteco: mi studis historion, historio instruas al ni multon
+verko k.s. kiu temas pri pasinteco: Historio de SAT, Historio de la lingvo Esperanto
+Al tiu vorta tereno apartenas ankaŭ:
+
+historiisto, persono kiu (fake, profesie) okupiĝas pri historio aŭ studis la fakon: Theodor Mommsen estis germana historiisto
+historiografio, la verkado/verkaro pri historio: la historiografio pri la dua mondmilito, la angla historiografio de la 20-a jarcento, bona historiografio atentas la fontojn
+historioscienco, la faknivela okupiĝado pri historio: historioscienco kaj sociologio estas malamikaj fratoj, la antikvaj grekoj faris historiografion, sed ankoraŭ ne historiosciencon
+Krome, en pluraj lingvoj kaj ankaŭ Esperanto oni foje uzas la saman vorton aŭ vortradikon kiel historio en la senco "rakonto".
+
+
+== Difinoprovoj ==
+Pri historio ekzistas kaj en filozofio kaj en historiscienco serio da ĝeneralaj difinoprovoj, kiel ekzemple tiuj ĉi:
+
+Wilhelm von Humboldt: "La celo de historio povas esti nur la realigo de la ideoj reprezentotaj de la homaro."
+Johann Gustav Droysen: "Tio, kio okazas en ĝi ĉiutage, estas farita aŭ dezirita de neniu komprenkapablulo kiel historio. Nur aparta maniero rigardu denove okazintaĵon igas aferon historio"
+Georg Wilhelm Friedrich Hegel: Historio estas "progreso konscie de libero" - "la disfaldo de la Dia naturo en aparta, difinita elemento."
+Karl Jaspers: "Ni ja parolas pri historio de naturo kaj historio de la homo. Ambaŭ kune estas ne retroirebla procedo de tempo. Sed ambaŭ malsamas pri senco kaj eco. La historio de naturo ne konscias pri si mem. Ĝi estas nura okazintaĵo, kiu ne scias pri si, sed pri kiu scias nur la homo. Konscio kaj intenco ne estas faktoro de tiu okazintaĵo. Temas do pri tento de nia penso, alkutimita al naturkategorioj, rigardi historion laŭ analogioj de naturokazintaĵoj."
+Golo Mann: "Ĉiam historio havas du komponantojn: tio, kio okazis, kaj tiu, kiu vidas la okazintaĵon de sia loko en la tempo kaj provas kompreni ĝin. Ne nur novaj fakaj konoj korektas la malnovajn; la konanto mem ŝanĝiĝas. La pasinteco vivas; ĝi fluktuas en la lumo de novaj spertoj kaj demandoj."
+Pri la tasko de historiografio : Leopold von Ranke: "Oni donis al la historio la taskon rektigi la pasintecon, instrui la kunvivuloj uzi ontajn jarojn; tiel altajn taskojn ne volas eskapi la nuna provo: ĝi volas nur esprimi, kiel fakte estis."
+Ekzistas multaj aliaj difinoj. Ili montras, ke ekzistas problemo difini ĝenerale kaj senescepte historion. Ĉiuj supraj difinoj montras ian ecan, sed ĉiuj havas ian subjektivan, de tiu kiu verkis ĝin.
+Krome sekvas al la demando pri la difino de historio, tiu pri la taskoj de historiografio. Tre rapide evidentiĝas, ke historiografio dependas ankaŭ de politiko kaj tiel de politikaj interesoj. Tre videblas tio rilate al nacia historio. Ĉar tiu ŝanĝiĝis, ŝanĝiĝas kaj ŝanĝiĝos, ŝanĝas same la politika kadro rilate al historiografio.
+Tiel estiĝas la problemo de la historia vero.
+Ne ekzistas historia vero, sed nur interpretado de fontoj el diversaj perspektivoj (ejo, tempo, intereso, (mal)amiko, ...). En la jaro 5.000 verŝajne ekzistos alia bildo de historio, kiel nuntempe.
+
+
+== Historio kiel scienco ==
+
+Ene de la populara divido inter sciencoj kaj beletroj aŭ homaj sciencoj, oni tendencas klasigi la historion inter la homaj fakoj kun aliaj sociaj sciencoj (ankaŭ nomitaj homaj sciencoj), aŭ eĉ oni konsideras ĝin kiel ponto inter ambaŭ kampoj, ĉar aligas la metodologion de tiuj ĉi al tiuj. La ambigueco de tiu divido de la homa sciaro kaj la pridemando pri ties taŭgeco kondukis al debato pri la lokigo de historio.
+Ne ĉiuj historiistoj akceptas la identigon de la historio kun unu el la sociaj sciencoj, konsiderante ĝin nur malpliigon en siaj metodoj kaj celoj, kompareblaj al tiuj de arto se bazitaj sur la imagopovo (sinteno adoptita pli malpli grandkvante fare de historiistoj kiaj Hugh Trevor-Roper, John Lukacs, Donald Creighton, Gertrude Himmelfarb aŭ Gerhard Ritter). La partianoj de ĝia scienca karaktero estas plejparte historiistoj de la dua duono de la 20a jarcento kaj de la komenco de la 21a jarcento (inklude, inter multaj kiuj klarigis siajn metodologiajn postulojn, kelkajn kiel Fernand Braudel, E. H. Carr, Fritz Fischer, Emmanuel Le Roy Ladurie, Hans-Ulrich Wehler, Bruce Trigger, Marc Bloch, Karl Dietrich Bracher, Peter Gay, Robert Fogel, Lucien Febvre, Lawrence Stone, E. P. Thompson, Eric Hobsbawm, Carlo Cipolla, Jaume Vicens Vives, Manuel Tuñón de Lara kaj Julio Caro Baroja). Granda parto de tiuj, historiis ekde multfaka perspektivo (Braudel kombinis historion kun geografio, Bracher kun politika scienco, Fogel kun ekonomio, Gay kun psikologio, Trigger kun arkeologio), dum la ceteraj menciitaj kombinis siavice historion kun la menciitaj fakoj kaj kun aliaj, kiel la sociologio kaj la antropologio. Tamen ili ne sukcesis adopti komunan pozicion pri la metodologiaj postuloj de la aspiro de la historio al la scienca seriozeco. Aliflanke, la historiistoj malpli pretaj konsideri scienca sian agadon ankaŭ ne defendas striktan relativismon kiu malebligu totale la sciaron de la historio kaj ties transmitadon, kaj fakte ili ĝenerale akceptas kaj submetiĝas al la mekanismoj kaj instituciaj, kaj akademiaj aŭ de scienca praktiko ekzistantaj en la studado historia kompareblaj al tiuj de aliaj sciencoj (etiko de la esplorado, scienca publikaĵo, kolega reviziado, scienca interkonsento ktp.).
+La utiligo kiun faras la historio de aliaj fakoj kiel instrumentoj por atingi, procezi kaj interpreti datumojn el la pasinteco ebligas la ekziston de helpaj historiaj sciencoj de metodologioj tre diferencaj, kies subigo aŭ autonomeco dependas de la celoj kiujn tiuj mem postulas.
+
+
+== Historio kiel akademia fako ==
+
+La registro de analoj kaj kronikoj estis en multaj civilizacioj metio ligita al institucia publika posteno, kontrolita de la ŝtato. Sima Qian (ofte nomita patro de la Historio, en la ĉina kulturo) inaŭguris en tiu civilizacio la oficialajn historiajn registrojn burokratigitajn (2-a jarcento a.K.). La kritiko de la islama fakulo Ibn-Ĥaldun (Mukadimaho aŭ Enkonduko al la Universala Historio, 1377) kontraŭ la tradicia maniero fari historion ne okazigis tujajn konsekvencojn, sed poste oni konsideris tion antaŭaĵo de la plinovigo de la metodologio de la historio kaj de la filozofio de la historio kio ne startis antaŭ la 19a jarcento, frukto de la evoluo de la historiografio en Okcidenta Eŭropo. Dume, la oficialaj kronikistoj kaj de Kastilio kaj de Ameriko preparis la grundon en la Klerismo de Hispanio de la 18a jarcento por la fondo de la Real Academia de la Historia; institucioj similaj ekzistis en aliaj landoj.
+La instruado de la historio en la deviga lernado estis unu de la bazoj por la nacikreado ekde la 19a jarcento, procezo samtempa al la plimultigo de la katedroj de historio en la universitatoj (dekomence en la fakultatoj de homaj sciencoj, kaj poste, en fakultatoj ĉu propraj ĉu de Geografio kaj Historio — nome fakoj kias scienca kaj metodologia proksimeco estas trajto de la universitata tradicio kaj franca kaj hispana —) kaj en la kreado de multaj tipoj de publikaj institucioj kaj privataj asocioj (kluboj prihistoriaj aŭ historiaj societoj, tre ofte mezepokistaj, reage al la historiismo propra de la romantisma sento, entuziasma por la serĉado de elementoj de nacia identeco); same kiel en publikaĵoj dediĉitaj al la historio.
+En la meza instruado de la plej parto de la landoj, la studobjektoj estis dezajnitaj kiel esenca parto de la instruplano. Speciale la instruado de historio en la francaj lycées ekde 1830 akiris laŭ la tempo socian prestiĝon nekompareblan kun la similaj areoj en aliaj eduksistemoj kaj kio estis ĉefa trajto de la elitismo de la laika respublika lernejo ĝis fino de la 20-a jarcento.
+Al tiu procezo de instituciigo, sekvis la specialigo kaj subdivido de la fako en diferencaj tempoperiodoj (de dubinda aplikeblo ekster la okcidenta civilizo: antikva, mezepoka, moderna, nuntempa historioj — tiuj du lastaj, kutimaj en la franca aŭ hispana historiografioj, ne estas kutime subdividitaj en la anglalingva historiografio: modern era—), en spacaj fakoj (nacia historio, regiona, loka, kontinenta — de Afriko, de Azio, de Ameriko, de Eŭropo, de Oceanio—), en temaj fakoj (politika historio, milita, institucia, soci-ekonomika, de la sociaj movadoj kaj de la politikaj movadoj, de la civilizacioj, de la virinoj, de la ĉiutaga vivo, de la pensmanieroj, de la ideoj, de la kulturoj), en fakaj historioj ligitaj al aliaj fakoj (arthistorio, historio de la muziko, natura historio, de religioj, de juro, de la scienco, de medicino, de ekonomio, de la politika scienco, de la politikaj doktrinoj, de la teknologio), aŭ centrita en ajna tipo de partikulara afero (historio de elektro, de demokratio, de la eklezio, de la sindikatoj, de la formoj, ktp). Antaŭ la atomigo de la studkampo, oni realigis ankaŭ diversajn proponojn kiuj konsideras la neceson superigi tiujn subdividojn per la serĉado de holisma perspektivo (historio de la civilizacioj, totala aŭ universala historio) aŭ mala fokuso (mikrohistorio); sen forgesi la novan akademian kaj interfakan kampon de la Granda Historio kiel "la klopodo kompreni unuigite, la Historion de la Kosmo aŭ Universo, la Tero, la Vivo kaj la Homaro", kovrante la historion ekde la Praeksplodo ĝis la Historio de la aktuala mondo. Ĝi esploras la tempojn de longdaŭro uzante plurfakan fokuson bazite sur la kombino de diversaj fakoj de la fizikaj kaj homaj sciencoj kiuj studas la pasintecon, nome la Historiaj Sciencoj, kaj esploras ankaŭ la homan ekzistadon en la kunteksto de pli ampleksa panoramo, kiu en rilato al la estanteco aludas al tempo kaj al la kronologio, kio estas instruata kaj en universitatoj kaj diversnivelaj lernejoj.
+
+
+== Historio kiel skribado ==
+
+La identigo de la koncepto de historio kun la skriba rakonto de la pasinteco okazigas, unuflanke, konfuzon kun la termino historiografio (ĉar historio estas samtempe la studobjekto, la scienco kiu studas ĝin kaj la dokumenton rezultitan el tiu studo); kaj aliflanke pravigas la uzadon de la termino prahistorio por la periodo antaŭa al la apero de la skribo, rezervante la nomon historio por la posta periodo.
+Laŭ tiu limiga uzado, la plej parto de la homaro restas for de la historio, ne tiom ĉar ĝi ne aliras persone al legado kaj skribado (la analfabeteco estis la komuna kondiĉo de la plej majoritato de la loĝantaro, eĉ por la dominantaj klasoj, ĝis la presarto), sed ĉar la montraĵoj de la historia diskurso estis ĉiam malmultaj, kaj tutaj grupoj restis nevidebligitaj (la malaltaj klasoj, la virinoj, la disidentoj kiuj ne povas aliri al la skriba registrado), pro kio estis celo de priokupado fare de kelkaj historiistoj la rekonstruado de la rigardo de la venkitoj kaj la historio el malsupre.
+Same okazas ĉe granda nombro de popoloj kaj kulturoj (tiuj konsiderataj kiel primitivaj kulturoj, en terminaro jam eksmoda de la klasika antropologio) kiuj ne havas historion. La temo idealigas ilin konsiderante, ke ili estas feliĉaj popoloj. Ili eniras en la historion kiam oni okazas kontakto, plej ofte detrua (alkulturigo), kun civilizacioj (kompleksaj socioj, kun skribado). Eĉ tiam ili ne estas propre celo de la historio sed de la protohistorio (nome historio farita el la skribitaj fontoj produktitaj de tiuj kiuj ĝenerale estas iliaj koloniigaj popoloj konmtraste al la indiĝenaj popoloj). Tamen, sendepende de tio kion la historiistoj kaj la antropologoj ideologie havas tendencon etnocentrisman (eŭropcentrisman, ĉinocentrisman aŭ indiĝenisman) aŭ, male, multkulturisman aŭ kultur-relativisman, ekzistas la eblo atingi aŭ rekonstrui fidindan rakonton de la okazaĵoj kiuj tuŝas homan grupon uzante aliajn metodologiojn: arkeologiajn fontojn aŭ parola historio. Grandparte, tiu diferenco estas artefarita, kaj ne necese plinoviga: Herodoto mem devis uzi tiajn dokumentajn fontojn kiam redaktas tion kion oni konsideras la unua Historio, aŭ almenaŭ stampas la terminon, en la Grekio de la 5-a jarcento a.n.e. por ke la tempo ne forigu la memoron de la agado de la homoj kaj ke la grandaj iniciatoj, ĉu de grekoj, ĉu de barbaroj, ne falu en forgeso; sciigas ankaŭ pri la konflikto kiu metis tiujn du popolojn en la lulto. Tiel ekas lia verko titolita Ἱστορίαι (nome históriai, laŭvorte «esploradoj», latinigita Historiae —«Historioj», en pluralo—), ŝlosila por la historia scienco, kaj kiu foje estas nomita La naŭ libroj de historio. La menciita lukto estas la Grek-persaj militoj kaj la menciitaj barbaroj estas la persoj.
+
+
+== Fakoj de historio ==
+
+Oni povas dividi la fakon laŭ diversaj vidpunktoj:
+
+Laŭ epokoj kaj tempoj:
+antikvo, mezepoko, ŝtonepoko, Moderna epoko
+renesanco, epoko de la revolucioj k.t.p.
+Laŭ regionoj de la mondo, landoj, parto de landoj, kulturoj k.s.
+Laŭ "sektoroj" aŭ temoj:
+Politika historio
+Socia historio
+Historio de ideologioj kaj pensmanieroj
+Kultura historio
+Historio de sciencoj, tekniko k.t.p.
+Kelkajn historiojn oni ĉefe priumas en aliaj sciencoj, ekzemple lingvan historion en lingvistiko. Fakte ĉiu scienco povas havi historian dimension: la historio de medicino, la historio de juro, la historio de arto k.t.p. Tiel ebliĝas kaj necesas multe da kunlaboro inter historioscienco kaj aliaj sciencoj.
+
+
+== Celoj kaj pravigo de la historio ==
+
+Oni ne konfuzu la supozitajn teleologiajn celojn de la homo en la historio kun la celoj de la historio mem, tio estas, la epistemologia pravigo de la propra historio kiel memoro de la homaro. Se la historio estas socia kaj homa scienco, ĝi ne povas prifajfi el la tialo kial ĝi zorgas pri la studo de la sociaj procezoj: klarigi la faktojn kaj okazaĵojn de la pasinteco, ĉu pro la sciaro mem, ĉu ĉar tiuj helpas onin kompreni la estantecon: Cicerono renomis la historion kiel vivinstruisto, kaj simile Cervantes, nomis ĝin patrino de la vero. Benedetto Croce notis la fortan implikon de la pasinteco en la estanteco per sia esprimo ĉia historio estas nuntempa historio. La histori, studante la faktojn kaj procezojn de la homa pasinteco, estas utila instrumento por la kompreno de la estanteco kaj la planigo de ebloj por la futuro. Salustio diris, ke inter la diversaj okupoj kiujn oni plenumas per la ingenio, la memoro de la okazoj de la pasinteco okupas elstaran lokon pro sia granda utileco. Topiko tre disvastigita (atribuita inter aliaj al Jorge Santayana) avertas, ke la popoloj kiuj ne konas sian historion estas kondamnitaj ripeti ĝin, kvankam alia topiko (atribuita al Karl Marx) indikas siavice ke kiam oni ripetas ĝin oni faras tion unu fojon kiel tragedio kaj duan fojon kiel farso.
+La historio havas gravan prokekcion al la futuro pro sia transforma kapablo kiel instrumento de socia ŝanĝo; kaj al la profesiuloj kiuj regas ĝin, nome la historiistoj, aplikeblas tio kion Marx diris pri la filozofoj (ĝis nun ili zorgis pri la interpretado de la mondo sed nun temas pri transformi ĝin). Tamen, el alia perspektivo oni klopodas neinteresitan esploradon por la objektiveco en la historia scienco. Kvankam ekkoni la faktojn tiaj kiaj ili estis, kiel intencis Leopold Ranke, estas maleble; tamen ja estas imperativo de la historia esplorado alproksimiĝi maksimume al tiu celo, kaj fari tion per perspektivo tia ke ĝi lokigu la okazojn (faktojn) en ties kuntekston, tiel ke la fakta sciaro aldoniĝu al la kompreno de tio kio reale okazis; kaj kvankam estas neevitebla ke la ĉiutipaj interesflankoj de la scienca esplorado misformu la manieron en kiu tia kompreno okazas, almenaŭ oni estu konsciaj pri kiuj povas esti ili kaj pri laŭ kiu grado ili agadas.
+
+
+== Divido de la historia tempo ==
+
+Ne estas universala interkonsento pri la periodigo de la historio, kvankam ja akademia interkonsento pri la periodoj de la historio de la okcidenta civilizo, bazita sur la terminoj stampitaj dekomence de Kristoforo Celario (Antikva, Meza kaj Moderna epokoj), kiuj konsideris la klasikan mondon grekromian kaj ties Renesancon kiel la determinantaj faktoj por estigi la dividon; kaj aktuale tiu interkonsento estas de ĝenerala aplikado. La akuzo de eŭropcentrismo kiun foje oni faras kontraŭ tia periodiigo ne malhelpas, ke ĝi estas la plej uzita en akademiaj medioj, ĉar estas tiu kiu plej bone respondas precize al la disvolvigo de la historiaj procezoj kiuj okazigis la nuntempan mondon.
+Pri la divido de la prahistoria tempo en Ŝtonepoko kaj Metalepoko, ĝi estis proponita en 1836 de la dana arkeologo Christian Jürgensen Thomsen.
+La teknologia evoluo indikas du grandajn mejloŝtonojn en la pasinteco de la homaro: nome la neolitika revolucio kaj la industria revolucio, kio ebligas la konsideron de tri grandaj periodoj: nome tiu karakterizita per la ekskluziveco de socioj de ĉasistoj-kolektistoj, tiu antaŭindustria kaj tiu industria (foje oni uzas la adjekton postindustria por la periodo de la plej ĵusa historio).
+La problemo de ajna periodigo estas koherigi ĝin en terminoj de sinkroneco kaj diakroneco, tio estas: ke estu valida kaj por la transiro de la tempo en ununura loko, kaj por tio kio okazas samtempe en diferencaj spacaj medioj. Plenumi ambaŭ postulojn iĝas malfacile kiam la fenomenoj kiuj markas la komencon de periodo en preciza loko (speciale en Proksima Oriento, Centrazio aŭ Ĉinio) malfrue estis disvastigitaj aŭ aperas endogene en aliaj lokoj, kiuj siavice povas esti pli malpli proksimaj kaj konektitaj (kiel Okcidenta Eŭropo aŭ Subsahara Afriko), aŭ pli malpli malproksimaj kaj malkonektitaj (kiel Ameriko aŭ Oceanio). Por respondi al tio ĉio, la modeloj de periodiigo inkludas intermezajn terminojn kaj periodojn de koincido (apudmetado de diferencaj karakteroj) aŭ transiro (iompostioma apero de la novaĵoj kaj miksaj karakteroj inter la periodo kiu ekas kaj la periodo kiu finas). La didaktiko de la historio serĉas helpon ofte en diferencaj tipoj de grafika reprezentado de la sukcedo de faktoj kaj procezoj en la tempo kaj en la spaco.
+
+
+=== Prahistorio ===
+
+Prahistorio. Ekde la apero de la homo (diferencigo de diversaj specioj de la genro Homo, subtribo hominina, superfamilio Hominoidea, ordo de la primatoj), de necerta datado, antaŭ pli ol du milionoj de jaroj; ĝis la apero de la skribado, ĉirkaŭ la 4-a jarmilo a.n.e.. Oni konsideras ĝin akademia kampo aŭ fako tre forte ligita al la arkeologio.
+Paleolitiko (etimologie Antikva Ŝtonepoko, pro la ĉizita ŝtono). La faktoj plej ŝlosilaj estis tiuj ligitaj al la homa evoluo, en fizika aspekto, kaj al la primitiva kultura evoluo (uzado de instrumentoj kaj de fajro kaj disvolvigo de diversaj tipoj de primitivaj kunlaborado kaj socia konduto; elstare pro la parolkapablo). La sociaj grupoj ne superis la grandon de hordo, kun loĝdenseco pli malalta ol unu loĝanto por kvadrata kilometro. La ekonomio estis limigita al preda rilato kun la medio (ĉasado, fiŝkaptado kaj kolektado), kio ne malhelpis fortan efikon (unua humanigo de la natura pejzaĝo kaj formortoj okazigitaj per la premo de la homa agado sur la ekosistemoj kien ĝi estis enkondukita).
+Frua Paleolitiko. Unuaj klopodoj de ŝtonĉizado de instrumentoj (Olduvaja aŭ maniero 1a kaj Aŝela aŭ maniero 2a), asociaj al fosiliaj restaĵoj de homedoj: Australopithecus, Homo habilis kaj Homo ergaster (Sudorienta Afriko), Homo erectus (etenda tra la tuta Malnova Kontinento); Homo antecessor kaj Homo heidelbergensis (specifaj de Eŭropo —Arkeologia kuŝejo de Atapuerca—).
+Meza Paleolitiko. Ligita al ŝanĝoj en la materiala kulturo (Musterio aŭ maniero 3a) kaj en la specioj de homedoj (Neandertaloj en Eŭropo, arkaika Homo sapiens en Afriko —Homoj de Kibiŝ en Etiopio—), ekde antaŭ 130 000 jaroj ĝis antaŭ 35 000 jaroj proksimume.
+Malfrua Paleolitiko. Ligita al la materiala kulturo asocia al la moderna Homo sapiens: nome maniero 4a (Aŭrignacio, Gravetio, Solutreo, Magdalenio —en Eŭropo—, Clovis kaj Monte Verde —en Ameriko, kie por la unua fojo aperas homedoj—); ekde antaŭ 35 000 jaroj ĝis antaŭ 10 000 jaroj proksimume. Jam ne estas ŝlosilaj ŝanĝoj por la paleoantropologio en la fosilia registro; la variaĵoj inter diferencaj grupoj estas multe pli subtilaj: nome tiuj studitaj tradicie de la fizika antropologio konataj kiel homaj rasoj, kaj kiu la moderna populacigenetiko studas per novaj metodologioj (molekula genetiko). Kun la paleo-lingviko ĝi klopodas rekonstrui la manierojn kaj itinerojn laŭ kiuj okazis la primitivaj migradoj.
+Mezolitiko/Epipaleolitiko/Protoneolitiko. Periodo de transiro, ligita al la ŝanĝoj kiuj estis okazigitaj pro la fino de la lasta glaciepoko. Ekde la 10-a jarmilo a.n.e. ĝis la 8-a jarmilo a.n.e., proksimume. En la zonoj en kiuj ĝi estis transiro al la neolitiko estas nomita mezolitiko, dum en la cetero, en kiuj ĝi estis nur unu fazo de pluigo de la paleolitiko, estas nomita epipaleolitiko.
+Neolitiko (etimologie «Nova Ŝtonepoko», pro la polurita ŝtono: maniero 5a). De la 8-a jarmilo a.n.e. ĝis la 4-a jarmilo a.n.e. proksimume. Ties eko en ĉiu zono estas ligita al la disvolvigo de la nomita Neolitika Revolucio: anstataŭigo de la predekonomio (ĉasado, fiŝkaptado kaj kolektado) per la produktekonomio (agrikulturo kaj brutobredado), kio intensigis eksterordinare la loĝdensecon (de limigita kresko —antikva demografia reĝimo—) kaj la efiko sur la medio. Apero de la ceramiko, anstataŭigo de nomadismo per malnomadismo (stabilaj setlejoj aŭ domaroj). Ĝi okazis el la 8-a jarmilo a.n.e. en la fekunda duonluno de la Proksima Oriento, kaj estis disvastigita al la nordo de Afriko kaj Eŭropo (en Hispanio ekzemple ekde la 6-a jarmilo a.n.e.) kaj Azio. La apero de la agrikulturo kaj la brutobredado okazis endogene en aliaj mondoregionoj (certe en Ameriko, ne tiom certe en aliaj zonoj).
+Metalepoko. Ekde la 4-a jarmilo a.n.e. (aŭ eĉ poste, depende de la zono), kiu kvankam estas epoko jam historia en la Antikva Proksima Oriento, estas ankoraŭ prahistoria en la plej parto de la mondo. Teknikaj plinovigoj de iompostioma disvastigo (metalurgio, rado, plugilo, velo). Kelkaj domaroj estis enmurigitaj kaj pligrandiĝas ĝis iĝi urboj. La ekonomio kaj la socio iĝis pli kaj pli kompleksaj (plusoj, komerco longdistanca, specialigo de la laboro, socia tavoliĝo kun elito reganta karakterizita per la montrado de riĉo kaj povo en la formo de armiloj kaj funebraj monumentoj). La transiro al la historia epoko okazos kiam oni kompletigos la formadon de la kompleksaj socioj (civilizacioj) kun instituciigitaj ŝtato kaj religio, kiuj siavice produktos la skribadon.
+Ĥalkolitiko aŭ Epoko de Kupro (3-a jarmilo a.n.e. proksimume, en Okcidenta Eŭropo).
+Bronzepoko (2-a jarmilo a.n.e. proksimume, en Okcidenta Eŭropo).
+Ferepoko (1-a jarmilo a.n.e. proksimume, en Okcidenta Eŭropo, hasta la romanigo).
+
+
+=== Historio ===
+
+Historio. Disvolvigo de la skribado kiel konsekvenco de la apero de la unuaj ŝtatoj. 4-a jarmilo a.n.e. en Sumero.
+Protohistorio. Periodo de koincido: la civilizacioj kiuj disvolvigas la skribadon lasas skriban atestadon ne nur pri si mem, sed ankaŭ de aliaj popoloj kiuj ankoraŭ ne disvolvigis la skribadon. Kutime la koloniigaj popoloj estas tiuj kiuj lasas historiajn atestilojn de sia rilato kun la indiĝenaj popoloj (por ekzemplo, de la antaŭromiaj popoloj).
+Antikva Epoko
+Naskiĝo de la civilizacio en la Antikva Proksima Oriento (foje nomita Frua Antikveco). Unuaj ŝtatoj (temploj, urboŝtatoj, ĉeriveraj imperioj) en Mezopotamio (Sumero, Akado, Babilono, Asirio), Antikva Egipto, Levantenio (Fenicio, Antikva Israelo) kaj la cetero de la Orienta Mediteraneo (civilizacioj de Anatolio —hititoj—, kaj de la Egea maro —minoa kaj mikena—); kun malmulta rilato kun tiuj kernoj en Hindio (Induso-civilizacio), Ĉinio; kaj endogene en la Antaŭkolumba Ameriko kaj en kelkaj kulturoj de Subsahara Afriko.
+Klasika Antikveco: Inter la 8-a jarcento a.n.e. kaj la 2-a jarcento n.e.. De valido limigita al la graka kaj romia civilizacioj, karakterizitaj per la klasika kulturo (termino ege ambigua, kiu pri sia spaca kaj tempa signifo povas estis konsiderata ampleksigita al la tuta Proksima Oriento pro la helenisma epoko posta al la Imperio de Aleksandro la Granda kaj al lo Okcidenta Mediteraneo pro la helenigita Romia Imperio; aŭ limigita al la klasika periodo de la greka arto —5-a jarcento a.n.e. kaj 4-a jarcento a.n.e.—; aŭ eĉ pli strikte limigita al la Perikla jarcento —nome la Ateno de mezo de la 5-a jarcento a.n.e.—), kaj fruaj konceptoj de libereco, demokratio kaj civitaneco kiuj estis bazitaj paradokse sur la submetado de aliaj popoloj kaj sur la utiligo intensiva de la sklava laborforto. Ambaŭ civilizacioj kalkulis siajn epokojn ekde datoj de la 8-a jarcento a.n.e. (la unua olimpiko aŭ la fondo de Romo, respektive). Samtempe oni disvolvigis la etendon kaj povegon de la Persa Imperio, kiu okupis intermezan areon kaj kontaktigis la mediteraneajn civilizaciojn kun la aziaj civilizacioj, speciale tiu de Hindio, dum la civilizacioj de Fora Oriento, kiel la ĉina, disvolviĝis praktike sendepende, kaj tiuj de Ameriko en totala senkonekto.
+Malfrua Antikveco: De valido limigita al Okcidento, estas periodo de transiro, ekde la krizo de la 3-a jarcento ĝis Karolo la Granda aŭ la alveno de Islamo al Eŭropo (8-a jarcento), kiam la Romia Imperio eniris en dekadenco kaj suferis la efikon de la ĝermanaj invadoj; novaj religioj monoteismaj (nome kristanismo kaj islamo) enpoviĝas kiel dominantaj religioj kaj la sklavisma produktmaniero estis anstataŭita per la feŭdisma produktmaniero. En Oriento survivis la Bizanca Imperio rehelenigita.
+
+Mezepoko: De valideco limigita al Okcidento, ekde la Falo de la Romia Imperio (5-a jarcento) ĝis la falo de la Orienta Romia Imperio (15-a jarcento). En periodo tiom longa okazis dinamikoj tre kompleksaj, kiuj tute ne rilatas kun la topikoj de izoligo, senmovismo kaj malhelismo per kiuj oni difinis ĝin ekde la perspektivo de la moderneco, kiu minusvalorigi ĝin kiel parentezo de malprogreso kaj diskontinueco inter mitigita antikva epoko kaj ties renaskiĝo en la moderna epoko.
+Alta Mezepoko: 5-a jarcento ĝis la 10-a jarcento. Nome malhela epoko pro la malabundo de skribiaj fontoj, pro la retroiro de la urba vivo kaj pro la malkomponigo de la politika povo kiu estas karaktero de la feŭdismo. La Eklezio, ĉefe pere de la monaĥismo, iĝis la nura kontinueco de la intelektula tradicio. La nobelaro kaj la klerikaro, plej ofte ligitaj familie, estas la senjoroj kiuj plenumas la politikan, socian kaj ekonomian povojn super la kamparanoj submetitaj al la servuteco. Kasteloj kaj monaĥejoj hegemoniis en pejzaĝo de arbaroj, kampoj kaj domaretoj preskaŭ nekomunikitaj inter si.
+Malfrua Mezepoko: De la 11-a jarcento ĝis la 15-a jarcento. Foje oni limigas ĝin al la 14-a jarcento kaj al la 15-a jarcento, kiel krizo de la Mezepoko aŭ krizo de la 14-a jarcento; kaj tiel oni nomas la periodon de la 11-a jarcento al 13-a jarcento kiel Meza mezepoko. Oni produktis urban revolucion kaj pliigon de la komerca kaj artmetia agadoj fare de startinta burĝaro, kaj samtempe oni plifortigis la povon de la feŭdismaj monarkioj. La tiam nomitaj "universalaj povoj" (nome Papeco kaj Imperio) kontraŭstaris kaj kriziĝis. La Krucmilitoj montris la kapablon de eŭropa atendo al oriento de la Mediteraneo, dum en Al-Andalus (islama Hispanio) pliiĝis la forto de la kristanaj regnoj de la nordo de Iberio. La mezepoka universitato relaboris la antikvan sciaron pere de la skolastikismo (nome revolucio de la 12-a jarcento). En la finaj jarcentoj oni formis la trajtojn kiuj karakterizos la tutan periodon de la Antikva Reĝimo: nome ekonomio en transiro de la feŭdismo al kapitalismo, tavolsistema socio kaj aŭtoritatema monarkio en transiro al la absoluta monarkio.
+
+Moderna Epoko: De mezo aŭ fino de la 15-a jarcento ĝis mezo aŭ fino de la 18-a jarcento. (Por angleparolantoj, Early Modern Times, tio estas, «Unua Moderna Epoko» aŭ «Frua Moderna Epoko»). Estas konsideritaj mejloŝtonoj kiuj markas ties ekon la presmaŝino, la konkero de Konstantinopolo fare de la turkoj aŭ la tiel nomita malkovro de Ameriko; kiel fino, oni kon sideras okazojn kiel la Franca Revolucio, la Sendependeco de Usono aŭ la Industria Revolucio. Tiu estas por la unua fojo, periodo de valideco preskaŭ tutmonda, ĉar por la plej parto de la mondo (kun la escepto nur parta de Ĉinio kaj Japanio —kiuj post unuaj kontaktoj decidis fermiĝi al la ekstera influo pli malpli— aŭ de tre apartaj lokoj de Ameriko, Afriko kaj Oceanio —koloniigitaj en la 19a jarcento—), tio supozis la trudon de la okcidenta civilizacio kaj de la nomita monda ekonomio. Komenciĝis la epoko de malkovroj kaj la ekspansio de la hispana imperio kaj de la portugala imperio, dum la mondo de la ideoj eksperimentis la plinovigojn de la Renesanco, la Reformacio kaj la Scienca Revolucio; kontraŭstarigitaj de la Kontraŭreformacio kaj la Baroko. Dum en Francio de Ludoviko la 14-a dominis la absolutismo, en aliaj partoj de nordokcidenta Eŭropo dominis la unuaj burĝaj revolucioj kiuj defiis la Antikvan Reĝimon (nederlanda revolucio, angla revolucio) kaj en la sudo kaj oriento de la kontinento okazis procezo de refeŭdigo. La akso de la civilizacio moviĝis el la Mediteranea regiono al la Atlantika Oceano. La krizo de la 17-a jarcento kaj la Vestfalia Pac-Traktato rekonstruis novan eŭropan ekvilibron kiu malebligis la hegemoniojn ĉu hispanan ĉu francan, kiu restis dum la 18-a jarcento, karakterizita intelektule per la Klerismo. Laŭlonge de la tuta periodo plifirmiĝis la modernaj konceptoj de nacio kaj ŝtato.
+
+Nuntempa Epoko. Ekde mezo aŭ fino de la 18-a jarcento ĝis la nuntempo. (Por angleparolantoj Later Modern Times, tio estas, «Dua Moderna Epoko» aŭ «Malfrua Moderna Epoko»). Dekomenca Epoko de revolucioj (industria revolucio, burĝa revolucio kaj liberala revolucio) finigis la epokon de la Antikva Reĝimo kaj malfermis la vojon en la dua duono de la 19-a jarcento al la venko de kapitalismo kiu etendiĝis per la imperiismo al la tuta mondo, kaj estis samtempe kontraŭata de la laborista movado. La Napoleonaj militoj malfermis la vojon al periodo de brita hegemonio dum la Viktoriana epoko. La komenco de la demografia transiro (unue en Anglio, tuj poste en la eŭropa kontinento kaj poste en la cetero de la mondo) produktis veran demografian eksplodon kiu radikale ŝanĝis la ekvilibron kaj socian kaj de la homo kun la naturo, ĉefe el la dua industria revolucio (paso de la epoko de la karbo kaj de la vapormaŝino al la epoko de la nafto kaj de la eksplodmotoro kaj la epoko de la elektro). La unua duono de la 20-a jarcento estis markita per du mondmilitoj kaj unu intermilita periodo en kiu la liberalaj demokratioj frontitaj al la krizo de 1929 estis defiitaj de la soveta kaj faŝista totalismoj. La dua duono de la 20a jarcento karakteriziĝis per la terurekvilibro inter la du superpotencoj (Usono kaj Sovetunio), kaj la malkoloniigo de la Tria Mondo, meze de mondoregionaj konfliktoj de granda violento (kiel la arab-israela) kaj akcelo de la teknologia plinovigaro (tria industria revolucio aŭ scienc-teknika revolucio). Ekde 1989, la falo de la Berlina muro kaj la malapero de la socialisma bloko kondukis al la aktuala mondo de la 21-a jarcento dominita de la tutmondiĝo kaj en ekonomio kaj en la politika, milita kaj ideologia aspektoj (milda povo) de la nura aktuala superpotenco, same kiel de ties aliancanoj (klasikaj potencoj —Eŭropa Unio, Japanio—), partneroj aŭ eblaj rivaloj (aperintaj potencoj —Ĉinio—) kaj opoziciantoj (minoraj potencoj, kiel kelkaj islamaj landoj, kaj movadoj foje rezultaj en terorismo —11-S—). BCSPN.
+
+
+== Institucioj ==
+
+Pri historio okupiĝas diversaj institucioj, je la plej alta nivelo (scienca) precipe fakultatoj aŭ seminarioj en universitatoj, sed ankaŭ aliaj institutoj, ekz. esplorinstitutoj.
+Ĉefe prezentas, sed ankaŭ esploras, historion la tre diversspecaj kaj diverstemaj muzeoj. Konservan taskon havas ankaŭ arkivoj. Cetere instruas pri historio ankaŭ la ordinaraj baz- kaj precipe mezlernejoj.
+
+
+== Historio de Esperanto ==
+Ankaŭ Esperanto kaj la Esperanto-movado havas sian historion. Vidu ankaŭ: Verkoj pri Esperanto-historio; Historio de Esperanto. Malsame ol rilate al la lingvo (Akademio de Esperanto) ne ekzistas simila institucio pri la historio de Esperanto.
+
+
+== En kulturo ==
+En helena mitologio, la muzo Klio personigas la historion. 
+Aferoj tiuj, kiuj vere reprezentas la kulturon de la historiaj personoj estas bondataj aferoj. Ĉi tiuj aferoj estas aŭtentikaj kaj donas sencon al nuntempaj personoj pri kiel la vivo/stilo estis dum la periodo.
+
+
+== Vidu ankaŭ ==
+Fino de historio
+Historia materiismo
+Historia reviziismo
+Historia romano
+Historiisto
+Historio de Esperanto
+Historio de la mondo
+Historiografio
+Parola historio
+Registrita historio
+Portalo:Historio
+Nuntempa epoko
+Prahistorio
+Metodo historia-kritika
+
+
+== Referencoj ==
+
+
+== Eksteraj ligiloj ==
+
+
+=== En Esperanto ===
+La bildlibro de la historio, Ideo: Émilie Beaumont, Teksto:Marie-Renée Pimont (franca originalo) kaj Jesper Lykke Jacobsen (esperanta traduko), Bildoj:Isabella Misso, Sophie Toussaint kaj Isabelle Rognoni. Groupe Fleurus, Paris, www.editionsfleurus.com ISBN 978-2 215-06225-7
+Historiografio de Esperanto de Tyron - vicprezidanto de TEJO, Retoso 2022, en Jutubo
+
+
+=== Alilingve ===
+"Templinioj de Historio"
+Historio؛ Mitologio Arkivigite je 2003-12-30 per la retarkivo Wayback Machine
+Historia Forumo Simaqian Studio Arkivigite je 2021-02-28 per la retarkivo Wayback Machine
+En tiu ĉi artikolo estas uzita traduko de teksto el vikipedia artikolo Historia hispane.
+
+==========
+
+Natura historio estas scienca esplorado de plantoj aŭ animaloj, kline pli al observado ol al eksperimentadaj metodoj de studo, kaj ampleksas pli da esploro kiu estas eldonita en revuoj pli ol en akademiaj revuoj. Grupita inter natursciencoj, Natura historio estas sistema studo de ĉiu kategorio de naturaj objektoj kaj organismoj. Temas pri tre larĝa difino en kampo plena je multaj striktaj fokusitaj fakoj, tiele dum moderna natura historio datiĝas historie el studoj el la antikva klasika mondo kaj poste el la mezepoka araba mondo tra la disaj sciencistoj de la eŭropa Renesanco kiuj laboris en preskaŭ izoleco, nuna kampagado funkcias pli kiel fakombrelo de multaj sciencoj kiuj kiel geobiologio havas fortan multfakan naturon kombinantan sciencistojn kaj sciencajn konarojn de multaj fakaj sciencoj.
+Kiu studas naturan historion estas konata per la neologisma termino naturalisto. Natura historio estas kategoriita inter naturaj sciencoj.
+
+
+== Vidu ankaŭ ==
+Naturfilozofio
+Naturscienco
+Naturalismo (filozofio)
+Naturo
+Flora Sinensis
+BBC Earth
+David Attenborough
+National Geographic
+National Geographic Society
+Listo de naturhistoriaj muzeoj
+
+
+== Notoj ==
+
+
+== Bibliografio ==
+Allen, David Elliston (1994), The Naturalist in Britain: a social history, Nov-Ĵerzejo: Princeton University Press, pp. 270, (ISBN 0-691-03632-2) 
+Kohler, Robert E. Landscapes and Labscapes: Exploring the Lab-Field Border in Biology, Ĉikago: University of Chicago Press, 2002.
+Mayr, Ernst. The Growth of Biological Thought: Diversity, Evolution, and Inheritance. Kembriĝo, Masaĉuseco: The Belknap Press of Harvard University Press, 1982.
+Rainger, Ronald; Keith R. Benson; and Jane Maienschein, editors. The American Development of Biology. Philadelphia: University of Pennsylvania Press, 1988.
+
+==========
+
+Historio de kristanismo povas esti komprenata principe per du manieroj: tamen kiel fako de historio, kiu dediĉas sin al historio de kristanaj eklezioj; sed kelkaj teologoj komprenas la t.n. eklezian historion kiel memstaran teologian disciplinon. La diferenco inter ambaŭ konceptoj konsistas en tio, ke dum historiisto konceptas la historion enkadre de metodologio al lia fako propra, teologo uzas metodikon propra al teologio - kaj ĉikaze li komprenos la eklezian historion kiel parto de la t.n historio de savo.
+Rilate al multaj historiaj cirkonstancoj, kiuj estas parto de la historio de eklezio mem, la temo de eklezia historio estas tre tikliĝema kaj tial estas do tre malfacile konservi harmonion dum interpretado de la temo kaj respekti leganton, kiu havos pri la historia demando malan opinion. Sendisputa paradokso de kristanismo estas fakto, ke lia idealo estas unueco kaj komunumo en la kredo, sed lia historio kreas grandparte sinsekvon de dividoj kaj diferencoj, skismoj, apartigo el la komunumo de eklezio kaj sciencoj, kiujn granda parto de eklezio ne akceptis (herezo). Ĉar tre influa trendo de nuntempa kristanismo estas klopodo je unueco (ekumenismo), tial ĉi tie suma historio de eklezio ne povas kapti ĉiun eklezie-historiajn temojn kun ĉiuj ties specifaĵoj kaj en ties tuta amplekso.
+
+
+== Primara eklezio ==
+
+Da historiaj fontoj al historio de primara eklezio estas tre malmulte. La plej malnovaj fontoj estas La Agoj de la Apostoloj, datitaj inter la jaroj 80 kaj 90, kiuj dediĉas sin al la unuaj flugoj post la morto de Jesuo Kristo kaj resurekto, folioj de apostolo Paŭlo, datitaj en la 50-aj kaj la 60-aj jaroj de la 1-a jarcento. Por la historio de eklezio havas signifon ankaŭ kvar kanonaj evangelioj, verkitaj inter la jaroj 40 kaj 90, en kiuj eblas trovi reagojn al tendencoj, kiuj oni malkovras en la eklezio en la paso de la 1-a jarcento.
+Kristanismo ne estis unusola religio, kiu subite en tiu ĉi erao aperus en la romia imperio. Estiĝas krom ĝi kvanto de misteraj kultoj kaj sinkretismaj sciencoj. Krom kristanismo apartenas inter tiel ĉi "sukcesaj" ismoj ankaŭ mitraismo kaj manikeismo. Kiel tre danĝera grupo kristanoj pli poste konsideros precipe manikeistojn.
+La Agoj de la Apostoloj kaj la dokumentoj de Paŭlo atestas pri kvanto de certaj tensioj aŭ konfliktoj, kiuj aperis en la unua jerusalema komunumo de kristanoj, sed kiuj ne daŭris longe kaj kutime ili reagis je praktikaj problemoj, al kiuj la primara eklezio alfrontis. La faroj ĉi tie indikas disputon inter "grekoj" (te. paganaj kristanoj) kaj "judoj" rilate al justa dividado subteno de vidvinoj, sed kiu estas solvita per elekto de sep viroj, kiuj devis dediĉi sin al la problemo kaj kiujn la eklezio konsideras kiel unuajn diakonojn.
+
+Krom ceteraj apostoloj (markitaj en Nova Testamento ankaŭ kiel "Dek du") estas principa personeco Paŭlo el Tarso. Tiu ĉi fervora judo ankoraŭ kiel Saŭlo (Saul) unue persekutis la kristanojn (li partoprenis ankaŭ ŝtonmortigon de sankta Stefano, la unua kristana martiro, sed survoje antaŭ Damasko post okazintaĵo, kiun la novtestamentaj dokumentoj plurfoje priskribas, li fariĝas mem kristano. Li poste dediĉas la reston de sia vivo al heroldado de kristana anonco al paganoj (tial li estas ankaŭ nomata apostolo de paganoj). Tiuj ĉi "paganoj" estis tamen tiuj, kiuj partoprenis en politeismaj kultoj, tamen tiuj, kiuj "timis de Dio", t.e. favorantoj de judeco, kiuj ne suferis cirkumcidon kaj ĉiujn regulojn de mosea torao kaj da kiuj en la romia imperio ne estis neglektebla nombro. Sed en la kristanismo tiel ĉi subite estiĝas grupoj, kiuj ĝis nun anoncas sin al la judeco kaj tiuj, kiuj havas kun ĝi kontakton multe pli malgranda. Per demando de tiuj ĉi diferencoj okupiĝis renkontiĝo en Jerusalemo ĉirkaŭ la jaro 49, iam nomata ankaŭ jerusalema koncilio. La rezulto de tiu ĉi "koncilio" estis evidenta malfermiĝo al la kristanismo rilate al nejudoj - la kristanismo ŝanĝiĝas el la grupo enkadre de la judeco en religio malfermita al ceteraj kulturoj.
+De komence oni perceptis la kristanan eklezion kiel ĝenerala, t.e. katolika, t.e. ne nur por judoj, sed por ĉiuj nacioj. Paŭlo instruis, ke la kredo estas preferata antaŭ la mosea torao. Tiuj, kiuj apartenis al johanaj komunumoj, ankaŭ havis obĵetojn kontraŭ judaj komunumoj,precipe post falo de Jerusalemo en la jaro 70. Ekzistas ĉi tie do evidenta streĉo inter paganoj-kristanoj kaj judoj-kristanoj, kiujn fine gvidos al disiro de la kristanismo kun la judeco. Enkadre de judo-kristanaj komunumoj poste estiĝas ebionitoj, grupo, kiu diference de la ceteraj kristanoj rifuzas la diecon de Jesuo kaj kiujn en la paso de la 2-a kaj la 3-a jarcento atakas sankta Ireneo kaj Origeno.
+
+
+== Eklezio ĝis la jaro 311 ==
+
+
+=== Interŝanĝo de la 1-a kaj la 2-a jarcento ===
+Historia fonto por periodo post la morto de apostoloj donas dokumentojn de Apostolaj Patroj. Tiuj kreas komencon de patristika literaturo. La dokumentojn de la Apostolaj Patroj kreas la Didaĥeo (Doktrino de dek du apostoloj), letero de sankta Klemento la 1-a al la korintanoj, dokumentoj de sankta Ignaco el Antioĥio, dokumento de Barnabaso kaj la Paŝtisto de Hermaso.
+Kristanaj komunumoj, nomataj "eklezioj" (ekklésiai) tiutempe gvidas episkopo (episkopos) kaj aŭ grupo de pli maljunaj pastroj (presbyteroi). Al tiu ĉi grupo en farado de ilia servo helpas diakonoj. La kredantoj kunvenas en domoj, ĝis nun tiuj ĉi loĝejoj estas neniel diferencigataj; la plej malnovan ateston de domo por diservo ni trovas nur en la 3-a jarcento (Dura Europos).
+
+
+=== Lukto kontraŭ unuaj herezoj ===
+
+La kristanismo, kies konfesio estis de komence fiksita sole ĉe la plej gravaj punktoj, devas en la paso de la 2-a jarcento solvi problemon, kiu kaŭzas kvanton de gnostikaj sektoj. Gnostikismo estas nocio, kiu ensumigas grandan kvanton de diversaj ismoj, nome ne nur kristanaj. Kunigas ĝin konvinko, ke ekzistas ekkono rilate al malbono kaj rimedoj de savo, kiu restis rezervita sole por kelkaj. Gnostikistoj konjektis, ke la mondo estis kreita de malbona dio kaj ke do ĉia materio estas malbona kaj estas necese eskapi al ĝi. Ili atingis tion per diversaj formoj de asketismo; elaĉeto ne bezonis devide celita al persono de Jesuo Kristo. Gnostikistoj proksimaj al la kristanismo kredis, ke dia Kristo estas sole pura spirito kaj lia enkarniĝo estas sole optika iluzio (docetismo). La elaĉeto estas rezervita sole al elektuloj kaj ĝi estas ligita al certa ekkono. Al la plej signifaj sektoj apartenis grupoj de Markiono kaj Valentino, kontraŭ kiuj la eklezio defendis sin. Plua signifa grupo kreis kristanoj en ĉirkaŭaĵo de profeto Montano, kiu kredis, ke li estas mediumo, tra kiu estas esprimanta sin sankta Spirito. Ankaŭ al tiuj fluoj defendas sin kristana dokumentoj de tiu ĉi periodo.
+Ekleziaj Patroj defendis sin al la menciitaj ismoj per montro al diversaj faktoj. Ili persistis, same kiel Ignaco el Antioĥio aŭ sankta Ireneo, pri rolo de episkopo, kiu estas kapo de lokaj eklezioj kaj kiu estas aligita al eklezio de apostoloj (apostola sukcedo kaj apostola tradicio). Iom post iom ankaŭ fiksiĝas Biblia kanono de sanktecaj kristanaj dokumentoj - la eklezio akceptas kaj dokumentojn devene judajn, en amplekso de Septuaginto, kaj dokumentojn novajn - precipe evangeliojn kaj paŭlajn dokumentojn. Male la eklezio proskribas la t.n. apokrifajn evangeliojn, dokumentojn kaj farojn, ekz. La evangelio de Tomaso. Iom post iom ankaŭ evoluas konfesio de kredo, do mallongaj formuladoj de la kredo, kiuj ebligis distingi sciencon de eklezio de scienco de heterodoksaj grupoj.
+
+
+=== Kristana literaturo de la unuaj jarcentoj ===
+
+Post la apostolaj Patroj venas grupo de verkistoj - apologetoj - kiuj provas defendi la kristanismon rilate al du grupoj - rilate al pagana socio kaj kulturo kaj kontraŭ judoj. Aŭtoro de la plej signifaj apologioj de la 2-a jarcento estas sendube sankta Justino Martiro, kiu verkis du apologiojn adresitaj al imperiestroj kaj Dialogo kun Trifono, fikcia dialogo kun la judeco rilate al tio, kio la kristanismo en la fakto estas kaj kion la ceteraj sole konjektas, ke ĝi estas. Similajn temojn disvolvas en pli postaj tempoj precipe Tertuliano, Eŭsebio de Cezareo kaj Laktancio. Preskaŭ ĉiuj konservitaj dokumentoj de la aŭtoroj enhavas menciojn pri heretikaj grupoj aŭ ili estas rekte verkitaj pro reago al ili.
+
+
+=== Religia politiko de romiaj imperiestroj ===
+
+Ĝis komenco de la 4-a jarcento alternis periodo de relativa trankvilo por kristanoj kaj periodo de persekutado. La plej grandaj persekutadoj poste enfalas en periodon de regado de Decio, Valeriano kaj Diokleciano. La eklezio en la paso de tiu ĉi periodo kreskis eĉ spite al perdo de signifaj personecoj, kiujn la eklezio adoris kiel martirojn. Tertuliano en sia Apologetiko trafe priskribas la situacion de eklezio per moto: "Sanguis martyrum semen christianorum est." - "Sango de martiroj estas semo de kristanoj".
+
+
+== Eklezio ekde la jaro 312 ĝis la jaro 604 ==
+
+Post tio, kiam en la jaro 312 venas al potenco Konstanteno la 1-a, li komencas diference de sia kunreganto Licinio rilate al la kristanismo konduti tolereme. Post venko super Licinio, Konstanteno malavaras la eklezion per siaj favoro kaj materiaj donacoj, li reguligas leĝaron (la kristanismo jam ne plu ne estas konsiderata kiel religio illicita, nepermesita religio, sed religio licita - religio permesita) kaj klopodas la kristanojn, tiutempe jam tre multnombra, enigi en strukturojn de la imperio. Ĉar estas por li grava la unueco de la eklezio, li intervenas ankaŭ en doktrinajn demandojn kaj en la jaro 325 li kunvokas ĝis Niceo la unuan ekumenan koncilion (la t.n. 1-a nicea koncilio). Konstanteno fondas ankaŭ novan ĉefurbon de la imperio, Konstantinopolon, la kristanan urbon, kiu devas anstataŭi Romon, la urbo tiutempe plejparte pagana. Malavantaĝigitaj estas ankaŭ paganaj institutoj, sed la imperiestro ne intervenas en la liberecon de kulto. Li mem fariĝas kristano nur mallongtempe antaŭ sia morto. Liaj sekvantoj, escepte de Juliano Apostato, subtenos la eklezion kaj agnoski la kristanismon. Dum regado de Graciano kaj Teodozio la 1-a (380 - 395) la kristanismo fariĝas fakte kaj jure ŝtata religio. Teodozio eĉ en la jaro 392 malpermesas je iniciato de milana episkopo Ambrozio ĉiun paganan kulton.
+
+
+=== La eklezio kaj institutoj ===
+
+Kvankam la episkopoj kreas tiutempe korpuson de episkopoj, enkadre de kiu ili estis starigitaj je la sama nivelo. Sed iom poast iom kelkaj episkopejoj akiras pli grandan prestiĝon kaj eblecon por influi ĝeneralajn aferojn. Tiu ĉi distingo havis kiel sia bazo administran apartigon de la romia imperio. En la plej malnova tempoj estis plej multe agnoskataj sidejoj de tri episkopoj - Romo, Antioĥio kaj Aleksandrio, en la paso de la 4-a jarcento tiun ĉi statuton de patriarkujo akiris ankaŭ Konstantinopolo kaj Jerusalemo. En Okcidento ne estis unueco de la romia episkopo dubigata, la romia eklezio estis konsiderata kiel tiu, kiun fondis apostoloj Petro kaj Paŭlo. Tiu ĉi devene honora unueco tiel en Okcidento senĉese pli plenumis rolon de jurisdikcia unueco. Koncilio de Kalcedono (451) aljuĝis tiun ĉi honoran unuecon ankaŭ al Konstantinopolo kvazaŭ al alia Romo; sed kontraŭ tio papo Leono la 1-a akre ekprotestis kaj la romia eklezio neniam akceptis tiun ĉi koncilan kanonon.
+Ekster la teritorio de romia imperio estiĝadis proporcie sendependaj naciaj eklezioj - en Armenio, Kartvelio kaj Persio - iliaj historioj miksiĝos nur sporade kun la historio de eklezio estiĝinta el kultura rondo de la romia imperio.
+Ĉiuj episkopoj estas parto de la eklezio, kiu jam ekde la 2-a jarcento markas sin mem kiel "katolika", t.e. ĝenerala, konfesianta la saman kredon. Firmigi tiun ĉi unuecon en la kredo estis servontaj koncilioj, t.e. renkontiĝoj de episkopoj, dum kiuj oni intertraktis kaj doktrinajn kaj disciplinajn demandojn. Ĝeneralajn, ekumenajn konciliojn, kunvokis en malnovepoko imperiestro, ekde mezepoko poste kunvokis ilin kutime romia episkopo, papo. Sep unuaj koncilioj estas komunaj kaj por katolika kaj por ortodoksa eklezioj kaj por ambaŭ eklezioj ili havas altan devligecon.
+
+
+=== Teologiaj kontraŭversioj ===
+
+La unuaj kristanismaj jarcentoj estas ankaŭ periodo de teologia profundigado. Kelkajn demandojn, ne tute klarajn, estis necese iom post iom solvi. Kutime oni ĉi tie hodiaŭ diskutas pri problemo, kiel la kristanismo, estiĝinta el ŝemida kulturo, povis akomodiĝi en kulturo helena, eĉ ne perdinte rilaton kun la primara kristana doktrino. Iom post iom en la teologiaj kontraŭversioj klariĝas "oficiala" vido de la eklezio je bazaj sciencaj demandoj - La plej sanktan Triunuon kaj esencon de la ekzistado de komunumeco de Dio en tri personoj, enkarniĝo de Kristo kaj lia esenco (dieco, homeco). Ne temis nur pri teoriaj demandoj, sed ĉiu el herezaj opinioj subminis teologian kaŭzigon de la savo de homo.
+
+
+==== Arianismo ====
+
+La unua kontraŭversio de la eklezio post ties leĝigo estis disputo, kiun elvokis samideanoj de aleksandria pastro Ario (latine Arius, 260 - 336), kiu iam ĉirkaŭ la jaro 318 komencis negoci diecon de Jesuo Kristo. Laŭ la arianismo Filo estis kreita (ne sole naskita en sia homa natureco) kaj li ne havas la saman esencon kiel Patro. Kvankam episkopoj, kunvokitaj de imperiestro Konstanteno en la 1-a nicea koncilio (325), kondamnis la arianismon kiel neunuiĝanta kun la kristanismo, la arianisma kontraŭversio daŭrigis kaj ankaŭ imperiestroj, ekz. Konstanteno la 2-a (337 - 361) subtenis la arianismon. Plua ekumena koncilio, la 1-a konstantinopola koncilio (381) definitive subrompis la influon de arianismo. Poste arianistoj restis pro merito de episkopo Ulfilo sole ĝermanaj barbaroj, kelkaj ĝis la jaro 700.
+
+
+==== Nestorianismo kaj monofizitismo ====
+
+Pluan disputon prezentis doktrino de Nestorio, kiu asertis, ke en Jesuo Kristo ekzistas dia kaj homa persono (persono kun dia natureco kaj persono kun homa natureco). Tiu ĉi doktrino havis gravan influon je soteriologio kaj teologio de komunio. La aserto, ke Jesuo ne mortis sur kruco kontraŭis kun aserto de apostolo Paŭlo, ke se Kristo ne resurektiĝis, vana estas kredo de kristanoj. Pro tiu ĉi doktrino kunvenis Efesa koncilio (431), kiu kondamnis ilin kaj proklamis Jesuon Kriston kiel unu persono.
+Kontraŭe al la nestorianismo malan opinion havis monofizitismo de Eŭtiĥo (greke Eutyches), laŭ kiu Jesuo Kristo havis sole ununuran, nome tute dian kaj ne homan naturecon. Malan opinion prezentas esprimoj de Kalcedona koncilio kaj la 2-a kostantinopola koncilio, kiuj protektas doktrinon pri du naturecoj en Kristo, nome naturecoj de dio kaj homo. El tiu tempo devenas unu el la plej malnovaj daŭraj apartigoj de la kristanismo, ĉar la unueco de la eklezio post Kalcedono ne estis renovigita - ties finojn ne agnoskas orientaj eklezioj.
+
+
+==== Okcidenta teologio kaj sankta Aŭgusteno ====
+
+Diference de orientaj teologiaj spekulacioj la kristanisma Okcidento okupiĝis precipe per demandoj praktikaj, kiuj rilatis al demando de homa libereco, volo kaj peko. Ĉirkaŭ la jaro 400 brita monaĥo Pelagio kun etiko, kiu tre koncentriĝas al homa volo. La problemo de tiu ĉi doktrino el la vidpunkto de eklezio estis, ke ĝi preskaŭ ne kalkulis kun dia pardono - savo poste estus kaŭzita prefere de homa faro kaj ĝi ĉesus esti donaco de Dio. Kontraŭ tiu ĉi doktrino ekkontraŭis kun sia doktrino Aŭgusteno, kiu bazis je unueco de pardono kaj li polemis kun pelagianismo tiel, ke lia doktrino mem pri absoluta predestino estis kaj retsas por la eklezio neakceptebla. Malgraŭ tio Aŭgusteno fariĝis eklezia Patro, kiu influis mezepokon eble plej multe.
+Al pluaj karakterizaj staturoj de la okcidenta teologio de tiu ĉi tempo apartenas sankta Ambrozio, milana episkopo, kiu infuis kelkajn politikajn decidojn de imperiestro Teodozio la 1-a kaj kiu pliriĉigis la okcidenta teologion per multaj elementoj de la orienta teologio , kaj sankta Hieronimo, la plej klera el la ekleziaj Patroj de la tuta erao, tradukisto de Biblio en la latinan lingvon. Vulgata de Hieronimo fariĝis teksto de Skribo, kiu kreis bazon por la tuta eklezia doktrino dum mezepoko. La okcidentaj Patroj influis parte agadon ankaŭ en la kristana Oriento, kiel ekzemple kiam papo Leono la 1-a influis decidon de Ĥalcedona koncilio per sia dokumento por subteni episkopon Flavianon. Grandan turnon signifis ankaŭ pontifiko de Gregorio la Granda, kiu komencis direkti la romian eklezion direkte al barbaraj nacioj, li elsendis sanktan Aŭgustenon el Canterbury je misio ĝis Britio konstruante interrilatojn kun franka imperio. La reformo de eklezio kaj monaĥejoj de Gregorio havis ankaŭ signifon por la tuta mezepoko, oni alskribas al li ankaŭ reformon de eklezia kantado, el kiu pli poste evoluis gregoria ĉanto.
+
+
+=== Asketismo kaj monaĥeco ===
+
+Tiutempe, kiam la nombro de kredantoj plinombriĝis, kreskis sopiro de kelkaj kristanoj vivi kiel eble plej multe laŭ idealoj de evangelio. Unue tiu ĉi movado montriĝas fine de la 3-a jarcento en Egiptio kaj ĝi estas kunigita kun staturo de Sankta Antonio, kiu decidiĝis forlasi sian posedaĵon kaj foriri en dezerton. Ĉirkaŭ tiuj ĉi ermitoj komencis amasiĝi pluaj ties lernantoj, kiuj ankaŭ vivis per ermita vivo. La unua komunumo de ermitoj, kiuj vivis komune, fondis sankta Paĥomio. Jam ĉi tie ni tiel povas vidi du ĉefajn aspektojn de monaĥeco - la vivo de ermitoj kaj la vivon komunan. Por orienta monaĥeco havas primaran signifon ordinoj, kiujn verkis sankta Basilo Granda, por okcidenta modelo de monaĥeco poste estas decida influo de sanktaj Casiodoro kaj Benedikto de Nursio. La monaĥejoj de Benedikto, gvidantaj sin per lia ordino kaj ĉefa principo de kuniĝo de preĝo kaj laboro (ora et labora), estas poste tipaj por la tuta eŭropa mezepoko. La sankta Benedikto estadas do rajte nomata patro de okcidenta monaĥeco kaj benediktaj monaĥejoj estas konsiderataj kiel portantoj de malnovepoka kulturo, kiun ili helpis konservi en la tempo, kiam la antikva mondo kiel tia estis disfalanta.
+
+
+=== Kristanismo ekster kultura rondo de la romia imperio ===
+La kristanismo ne limiĝis al regiono de Mediteraneo, ties spurojn eblas trovi precipe en regionoj de juda diasporo, t.e. en Mezopotamio.
+La kristanismo venis en Persion jam en la 2-a jarcento, sed tie ĝi kunpuŝiĝis kun zoroastrismo, tiea nacia religio. Sinodo de persa eklezio poste en la jaro 424 proklamis sendependecon de la eklezio en Persio je "granda eklezio" sur teritorio de la romia imperio. Fine de la 5-a jarcento la eklezio en Persio transiris al nestorianismo.
+La nestorianismo plu disvastiĝis tra silka vojo ĝis Ĉinio, kien ĝi venis ĉirkaŭ la jaro 635 dum regado de imperiestro Tĥan-cung, kiel priskribas unu steleo levigita en la jaro 731.
+
+
+== Frua mezepoko ==
+Dume historia evoluo estis en Oriento neniel principe interrompita - la plej signifa evento ĉi tie prezentas militoj de Bizanco kontraŭ persanoj kaj en la 1-a duono de la 7-a jarcento ŝajne nehaltigebla ekspando de islamo, en Okcidento la situacio aspektis multe pli drame. Invado de barbaroj, falo kaj pereo de okcidentromia imperio kaj ascendo de barbaraj reĝlandoj alportis principan ŝanĝon de la kultura klimato.
+Papo ĉi tie fariĝas aŭtoritato, kiu superas en la tempo de ĥaoso sole eklezian kadron, sed la loĝantaro turniĝas al li en la tempo de militaj ĥaosoj (kiel jam okaze de militiro de Atilo la Huno al Romo en la jaro 452, kiun haltigis intertraktado de Leono la 1-a).
+
+
+=== Irlando-skota kaj angla eklezioj kaj ties misioj ===
+
+En Irlando la kristanismo aperas jam antaŭ la jaro 400. Papo Celesteno la 1-a elsendas en la jaro 431 Paladion, la unuan irlandan episkopon. Sed kiel propra misiisto de Irlando estas konsiderata nur sankta Patriko (385 - 461), kiu ĉi tie komencas sian mision post la jaro 432. Sidejo de eklezia organizaĵo en Irlando estis en Arnagh; por la insulo estis tipa monaĥa karaktero de ĉi tiea eklezia vivo. Fondintoj de monaĥejoj (ekz. Finnian, Kolumbano Pli aĝa, Brendan, Kevin, Kolumbano Malpli aĝa) ĝojis pro granda estimo de la loĝantaro. Prospero de la monaĥa vivo estis tia, ke Irlando en la 6-a jarcento nomiĝis insula sanctorum, la insulo de sanktuloj, kaj ĉar tiuj ĉi monaĥejoj estis centrejoj de klereco, ankaŭ insula doctorum, la insulo de instruistoj. La monaĥa karaktero de la irlanda eklezio naskis ĝis nun nekonatajn elementojn de la kristana klerika vivo - la plej signifa loko ĉi tie apartenas al privata konfeso (ĝis nun ekzistis sole publika konfesio de pekoj).
+Irlandaj monaĥoj ne estis malproksimaj al la mondo, sed ili klopodis sekvi Kriston en pia vojaĝado, kies idealo estis: "por Kristo sen patrujo, kaj ja ĉie hejme". Survoje tra Eŭropo ili pilgrimis tra Galio, Italio kaj Ĝermanio ĝis Panonio. Tiu ĉi irlanda misio meritis pri estiĝo de multe damalnovepokaj eŭropaj monaĥejoj kaj pri kristianigo de barbaraj nacioj. Irlando-skota misio estis unua misia agado, kiu tuŝis ankaŭ la bohemian teritorion.
+En Anglio ekzistis kristanismo jam en la romia tempo, sed post pereo de romia organizaĵo ĝi malaperis de ĉi tie ankaŭ la kristanismo. Misioj ĝis Anglio okazis el du direktoj - el Irlando kaj el Romo. Papo Gregorio la Granda elsendis en la jaro 596 en Anglion sanktan Aŭgustenon el Canterbury kun 40 monaĥoj; Aŭgusteno en 597 baptis kentan reĝon Ethelberton kaj kun li laŭ fontoj pluajn 10 mil personojn. Post la kenta reĝlando la kristanismo komencis en la jaroj 624 - 633 enpenetri ankaŭ ĝis Wessex kaj Northumbrio, en la jaroj 680 - 690 akceptas la kristanismon ankaŭ Sussex. Anglaj monaĥejoj fariĝis lokoj de klerika kaj sciencista vivoj. Enigon de la ĝermana mondo en la rondon de kristanismo ĝuste priskribis angla monaĥo Bedo la Estiminda (672 -735) en sia fama verko Historia ecclesiastica gentis Anglorum (Eklezia historio de angla nacio). Ankaŭ la angla eklezio estis misie agada; la plej signifa anglosaksia misiisto estas Wilfried el Jorko, kiu predikis al frisoj. Sub lia gvidado komencis laboron eĉ Bonifaco, apostolo de Germanio.
+
+
+=== Kristanismo, Frankoj kaj Ĝermanoj ===
+
+Post la falo de Romo reĝo Teodoriko la Granda (489 - 523) provis kunigi ariajn ĝermanojn kontraŭ katolikaj romianoj kaj grekoj kaj krei unuigitan aria-ĝermanan imperion. La plano ne sukcesis pro rezisto de franka reĝo Klodvigo la 1-a, kiu en la jaro 496 akceptis en Remso bapton el la manoj de katolika episkopo Remigio. La eklezio klopodis subteni sian mision kontraŭ ĉi tiuj ĝermanoj kaj ankaŭ kontraŭ sekvantaj ĝermanaj ŝtatformacioj. Primaraj centrejoj de la misio estis malnovaj episkopejaj sidejoj (Tours, Kolonjo, Remso, Arles ktp.); inter karakterizaj personecoj apartenas precipe Marteno el Tours kaj Cesario el Arnes. Okazas provoj pri turnigo de unuopaj nacioj - burgundoj (Aviato el Vieno), frankoj (Remigio), alemanoj kaj durinkoj. Ĝermanaj ŝtatoj, kiuj transiris al ortodoksio, havis avantaĝon kontraŭ tiuj, kiuj pluekzistis ĉe arianismo, ĉar en ili estis multe pli bonaj interrilatoj inter la ĝermana kaj romana partoj de la loĝantaro. Nebonaj influon al situacio de eklezio en la franka imperio havis intervenoj de reĝo kaj nobelaro, kiel parolas pri tio konservitaj informoj de Gregorio el Tours.
+Signifan etapon prezentas kristanigo de germanaj landoj, kiu estas kunigata kun staturo de Bonifaco (672/675 - 754), anglosaksia monaĥo. Kiu kiel papa legato metis bazojn de germana eklezia organizaĵo kaj reformis ankaŭ la eklezon en la franka imperio, fine li estis en Frisko mortigita kun siaj 52 kunuloj.
+Sed Eŭropo tiutempe venas en premon de araba-islama ekspando kaj bizanca imperio havas sufiĉe da zorgoj kun defendo de la propra teritorio. En Eŭropo naskiĝas novaj ŝtatformacioj, sur teritorio de Italio precipe langobarda imperio, kaj por teritorio de Romo, en kiu papeco pludaŭris kiel unusola fakte funkcianta malnovepoka instituto, temis pri tempo de grandaj necertecoj kaj bataloj. Nova endanĝerigo de langobardoj devigis papon Stefanon la 2-a (741 - 752), por ke li petu helpon en la franka imperio ĉe Pipino (741 - 768). La papeco tiel komencis alkliniĝi al la franka imperio, al kies reĝoj ĝi ankaŭ donis certan aŭtoritatecon - kiel al Pipino, kiu estis de la sendito de papo krismita je reĝo, tiel pli poste al Karolo la Granda, kiam la papo je Kristnasko en la jaro 800 kronis lin en Romo je imperiestro. Pipino ankaŭ en la jaro 754 aljuĝis al la papoj konkeritajn teritoriojn en meza Italio, kiu fariĝis bazo de papa ŝtato, nomata patrimonium sancti Petri, heredaĵo de sankta Petro; el la sama tempo evidente devenas la t.n. konstantina donaco, falsaĵo legitimantan sendependecon de la papo je bizanca imperiestro. La eklezia ŝtato definitive estiĝas en la jaro 774; ĝi ekzistis ĝis la jaro 1870.
+Ĉefstaturo de la periodo estas Karolo la Granda (768 - 814), kiu konsideris sin mem kiel administranto de la kristanaro gvidita de Dio kaj el la eventoj surpriziga kronado de Karolo je imperiestro, pro kiu li estis neniel entuziasmiĝinta pro sia intertraktado kun Bizanco. Sed la ideo pri la imperio de Karolo restis inspira por kristana kulturo de la tuta eŭropa mezepoko. Post disfalo de tiu ĉi imperio kaj post pontifikecoj de Leono la 4-a (847 - 855) kaj Mikolao la 1-a (858 - 867) venas malhela jarcento de la okcidenta eklezio, kiam sur papa trono alternos sennombro de papoj, kiuj estis nenio ol marionetoj de ekleziaj regantoj de Romo. Orientado de la romia eklezio al la okcidenta reĝlando ankaŭ influis pluan fremdigadon de interrlatoj kaj malgrandigo de kultura interŝanĝo inter la kristanaj Oriento kaj Okcidento.
+
+
+=== Ikonoklasma krizo ===
+
+Inter la jaroj 726 kaj 730, evidente subinflue de islamo, komenciĝas en la bizanca imperio disputo pri to, ĉu eblas bildigi Jesuon Kriston kaj sanktulojn. Imperiestro Leono la 3-a akre prezentiĝas kontraŭ kristanaj bildigoj de ikonoj kaj okazas ilia neniigo kaj persekutado de tiuj, kiuj uzis la bildojn kaj adoris Dion pere de ili. Kontraŭ Leono la 3-a stariĝis kaj konstantinopola patriarko Germano la 1-a kaj papo Gregorio la 3-a, sed la malpermeson de Leono pri la bildoj plilongigis ankaŭ Konstanteno la 5-a, lia filo. La persekutado de ikonoduloj finas nur pro decido de regentino Ireno, reganta anstataŭ la neplenkreska Konstanteno la 6-a (780 - 797). La ikonoklasmon kondamnis nur en la jaro 789 la kunvokita 2-a nicea koncilio, kiu evidentiĝis la eklezian sciencon rilate al la bildoj kaj subtenis movadon de ikonhonorantoj.
+La dua periodo de la persekutado de la adorantoj de bildoj venas dum regado de Leono la 5-a (813 - 820), kiu daŭrigas ankaŭ dum regado de Mikaelo la 2-a. Regentino Teodorino, reganta anstataŭ Teofilo, filo de Mikaelo, denove permesis honoradon de ikonoj kaj ŝanĝis la decidojn de apartenantaj sinodoj. Ekde tiu tempo ankaŭ la orienta eklezio solenas la unuan dimanĉon de la Granda fasto kiel triumfon de ortodokseco.
+Ĉefa teologia oponanto de ikonoklasmistoj estis siria monaĥo Johano el Damasko, kiu klarigis, ke li ne adoras materion, sed "prefere la kreinton de materio". La ikonoduloj tiel konsideris, ke biblia malpermeso de la bildigado de Dio estis superita pro enkorpigo de Dio, per kiu alia persono de la nevidebla Dio fariĝis videbla materio. La bildo do ne aspektigas la nevideblan Dion, sed Dion en aspekto, en kiu li akceptis por si la korpon. Iliaj adorantoj ankaŭ konsideris la bildojn kiel parto de perbuŝe transdonata tradicio. Sed la tuta disputo ankaŭ karakterize rilatis al interrilato de la eklezio kaj la ŝtato, kiu en tiu ĉi aspekto estis en Bizanco tre aktuala - la kontraŭversio estis samtempe lukto de la eklezio je sendependeco en propraj aferoj kaj en demandoj de kredo.
+
+
+=== Komencoj de kristanismo ĉe slavoj ===
+
+En la 6-a jarcento enpenetras sur Balkanon slavaj triboj, je kio la eklezio reagas per iom post ioma klopodo rekristanigi tiun ĉi teritorion kaj disvolvi mision al pluaj nacioj. En la jaro 862 postulas grandmoravia princo Rostislav bizancan imperiestron, por ke li elsendu en lian regnon pastron. Patriarko Fotio sendas al Granda Moravio fratojn el Tesaloniko, Konstantenon, kiu pli poste akceptas nomon Cirilo, kaj Metodon. Konstanteno kun sia lingvistika talento kreas originalan slavan abocon, hlaholan, kaj tradukas en la malnovslavan la plej gravajn partojn de Skribo kaj tekstojn de liturgio, kiun ankaŭ la papo aprobas al ambaŭ fratoj. Sed post la morto de Metodo (885) iliaj lernantoj estas elpelitaj el Grandmoravia regno pro disputoj kun frankaj pastroj. Sed tiu ĉi disigo kreas eblecon por misio ĉe pluaj slavaj nacioj, Krom disvastigado de la kristanismo la cirilometoda misio signifon en tio, ke ĝi metis fundamentojn de kulturo kaj klereco sur la ĉeĥa teritorio.
+En la sama tempo okazas turniĝo de bulgaroj; en la jaro 866 lasas sin bapti bulgara ĥano Boriso (852 - 889), kiun sekvis iom post iom la tuta nacio. Bulgario longan tempon hezitis, ĉu ĝi aliĝu sub jurisdikcio de Konstantinopolo aŭ Romo, sed fine ĝi aliĝis al la kristana Oriento. Simile akceptas la kristanismon ankaŭ pluaj slavaj princlandoj, ekz. serboj; komune kun la kristanismo venas en tiujn ĉi ŝtatformaciojn ankaŭ bizanca kulturo.
+Plua signifa evento estas turniĝo de Rusio. Jam en duono de la 10-a jarcento al la kristanismo turniĝas princino Olga, fratino de kieva princo Igoro. En la jaro 989 princo Vladimiro la 1-a provas pli bone firmigi sian potencon, li akceptas en Konstantinopolo komune kun siaj servutuloj bapton kaj fermas geedzecon kun bizanca princino. Rusio fariĝas rekte dependa je konstantinopola patriarkejo, kiu nomas kievan metropoliton. Tiu ĉi kuniĝo helpis karakterize influi rusian kulturon per kulturo bizanca, ja kievaj ĉefepiskopoj dum pluaj kvar jarcentoj estos sole grekoj.
+En la paso de la 10-a jarcento akceptas la kristanismon okcidentaj slavoj, sed kiuj estos kunigitaj kun la okcidenta eklezio kaj ili estos subigitaj al Romo. Karakterizaj personecoj de tiu ĉi tempo estas sankta Venceslao kaj sankta Vojtěch en Bohemio, Mieszko la 1-a en Pollando kaj Stefano la 1-a en Hungario.
+
+
+== Kulmina mezepoko ==
+
+Pluaj esperebla periodo venas kun regado de Oto la 1-a (936 - 973), kiu enpremis al la okcidenta imperio novan aspekton, kiam laŭ lia koncepto la kristana ŝtato kaj la eklezio estus identaj. La eklezio en medio de imperio de Oto akiris denove liberecon, la 10-a jarcento fariĝas periodo de granda reformo kaj prospero de la eklezio, kiu daŭrigos ankaŭ en plua periodo.
+
+
+=== Movado el Cluny ===
+
+La plej signifa reforma monaĥa movado de mezepoko ekiris el Cluny, kies monaĥejo akiris tiutempe nevidatan liberecon en klerika sinjoro kaj ĝi fariĝis loko de severa konservado de benediktana ordino kaj asketismo. Por monaĥejoj el Cluny estis ankaŭ pro materiala kaj jurisdikcia sendependeco ebligita libereco de elektado de abato. Al Cluny iom post iom aliĝis pluaj monaĥejoj, fonditaj laŭ statuto el Cluny, en la 12-a jarcento apartenas al asocio el Cluny proksimume tri mil da monaĥejoj. La reformo el Cluny ankaŭ influis estiĝon de pluaj reformaj movadoj, kiuj klopodis pri interna pastra vivo. La unua monaĥejo fondita en Bohemio de sankta Vojtěch apartenis ankaŭ en tiun ĉi ligon, tial eblas diri, ke la movado el Cluny de komence signis la vivon de eklezio ankaŭ en teritorio de Bohemio.
+
+
+=== Rilato de la okcidenta kaj la orienta eklezioj kaj granda skismo ===
+
+Jam kelke da jarcentoj Oriento kaj Okcidento de ĉirkaŭ de Mediteraneo kulture kaj religie fremdiĝis. La primara kaŭzo de la skismo estis disputoj pri aŭtoritato de papo, kiu pretendis potencon super ceteraj kvar malnovepokaj patriarkujoj en Oriento, kvankam la orientaj patriarkoj ja konfesis al li la unuecon en la eklezio, sed kun jurisdikcio super la okcidenta romia patriarkujo. Krom diferencaj kutimoj de la eklezia vivo kaj liturgio estis al la orientaj kristanoj dorno en la okulo la okcidenta praktiko enmeti en Nicejan-konstatinopolan konfesion dogman precizigon en aspekto de vorto filioque (latine: ankaŭ [el] Filo), kiu ĉi tie devene ne estis enhavita. Sed karakteriza motivo estis ankaŭ motivoj lingvaj, ĉar ambaŭ duonoj de la eklezio jam ne komprenis al unuopaj nuancoj de greka, respektive latina lingvoj kaj pensado.
+Kiam konstantinopola patriarko Michael Kerullarios lasis en la jaro 1052 kiel venĝo por la klopodo de papo akiri sub sian jurisdikcion sudan Italion kaj fermi latinajn preĝejojn en Konstantinopolo, ekflamis polemiko pri diferencoj inter la orienta kaj la okcidenta eklezioj. Printempe en 1054 alveturis en Konstantinopolon pap senditaro frunte kun kardinalo Humberto el Silva Candida, kiu post tio, kiam la patriarko ne agnoskis kredindecon de la senditaro, metis sur altaro en templo Dia saĝeco papan buleon enhavanta ekskomunikon de la patriarko kaj forveturis reen ĝis Romo. Sinodo kunvokita en Konstantinopolon proklamis la papajn legatojn kiel ekskomunikitaj kaj ordonis la buleon solene bruligi.
+Ĝis nun formale unueca eklezia organizaĵo en la jaro 1054 apartiĝis en du partojn. La okcidenta eklezio (nomata ankaŭ romia, latina aŭ katolika) agnoskis kiel sian kapon papon, la orienta eklezio (ortodoksa) estis subigita al konstantinopola patriarko. Sed rilate al tiama agado estis eventoj en la jaro 1054 ĝenerale komprenataj sole kiel plua intertempa skismo. La profundigon de disputoj karakterize helpis krucmilitoj kaj precipe rabigo de Konstantinopolo fare de la 4-a Krucmilito. En la paso de la 2-a miljaro okazis pluraj provoj pri reunuiĝo de la eklezio (la 2-a lyona koncilio, florenta unio 1439), sed krom la orientaj katolikaj eklezioj ne okazis ŝovo en establo de eklezia komunumo.
+
+
+=== Gregorio la 7-a, batalo pri investituro kaj reforma movado ===
+
+Celo de reformo de papo Gregorio la 7-a estis liberigi la eklezion de intervenoj de klerika potenco, garantii al ĝi libertas ecclesiae, la eklezian liberecon. Gregorio la 7-a batalis kontraŭ maniero, per kiu la klerikaj regantoj fondis episkopejojn kaj abatejojn kaj kiel ili ekspluatis ilin - tio estis konsiderata kiel simonio. La movado de Gregorio la 7-a postulis liberecon de elekto de episkopoj kaj abatoj. Ekleziologiaj teorioj de la tuta reformo gvidis al opinio, ke same kiel la animo staras super la korpo, la eklezio staras super la ŝtato.
+En la unua fazo de la batalo Gregorio sukcesis realigi lian imagon pri rilato de la eklezio kaj la ŝtato, nome ĝis tiu mezuro, ke ekskomuniko de imperiestro Henriko la 4-a pro nerespektado de malpermeso de laika investituro; la imperiestro devis iri por absoluco al papo ĝis Canossa, per kio li simbole konfirmis, kiu montriĝis kiel pli forta. Gregorio la 7-a ja mortis fuĝante antaŭ Klemento la 3-a, kontraŭpapo de Henriko, sed la lukto daŭrigis ankaŭ post la morto de Gregorio.
+Kiel tute nereala montriĝis provo de Pasĥalis la 2-a kaj Henriko la 5-a (konkordato en Sutri, februaro de 1111) apartigi tute la eklezion de la ŝtato - stariĝis kontraŭ ĝi germanaj princoj kaj episkopoj. Fine estis atingita kompromiso, kiu estas konata kiel konkordato de Worms (1122), kiu determinis du investiturojn - la reĝo transdonis klerikulajn bienojn kaj rajtojn, la eklezio havis rajton por kanonika elekto. Plua kunpuŝiĝo de imperiestra kaj eklezia potenco okazas dum regado Frederiko la 1-a Barbaroso (1152 - 1190), kiu provis renovigi denove ideon de imperiestra monda potenco - tiu ĉi kunpuŝiĝo daŭris plenajn dudek jarojn.
+
+La rezulto de gregoria reformo estis plifortigi la papan primaton rilate al la interna vivo de la eklezio - ekde tiu ĉi tempo papoj plifortigas sian influon en la eklezio, la papo fariĝas revoka instituto kaj intervenas en funkciadon de unuopaj lokaj eklezioj. Politika tereno de la vivo estis desakraligita kaj pliprofundiĝis tiel diferenco inter klerikaro kaj laikoj.
+La kulmina mezepoko kaj precipe la 12-a jarcento estas periodo de grandega evoluo de kristana klerika vivo, kiu plejparte montriĝas en la estiĝo de kvanto de ordenoj kaj klerikaj movadoj. Al nove estiĝintaj ordenoj apartenas kamalduloj, fonditaj de sankta Romualdo (951 - 1027), kartuzianoj, fonditaj de sankta Bruno de Kolonjo (1030/1035 - 1101) kaj pluaj. Signifan ĉapitron kreas ankaŭ reformo de benediktana monaĥejo, kiam abato Roberto de Molesme fondas en la jaro 1098 kun pluaj monaĥoj reformitan monaĥejon en Citeaux kaj metas tiel komune kun pluaj abatoj de tiu ĉi abatejo (precipe kun Stefano Harding (1109 - 1133) kaj sankta Bernardo de Clairvaux) fundamentojn de cisterciana ordeno. La reformo ne rilatis sole al ordinanoj, sed ankaŭ al klerikaro - ĉi tie havas signifon movado de kanonikuloj, inter kiuj la plej signifan lokon havas kanonika komunumo fondita de Norberto el Xanten (1082 - 1134), el kiu estiĝis ordeno de premonstratoj. Movado de laikoj montriĝis precipe en du direktoj: la unua estis movado krucmilita, la alia movado de malriĉeco.
+
+
+=== Krucmilitoj ===
+
+Iom post ioman falon de la potenco de Bizanco kaŭzis, ke propraj lokoj de la naskiĝo de kristanismo estis konkeritaj post batalo de Matzikert en la jaro 1071 de selĝukaj turkoj. La konkero de Jerusalemo mem en 1078 kaj fakta malebligo de trairo de kristanaj pilgrimantoj al sanktaj lokoj komune kun peto de bizanca imperiestro Aleksio la 1-a donis senperan iniciaton al tio, por ke papo Urbano la 2-a elvoku en la jaro 1095 kristanojn al klopodo pri reakiro de Sankta Lando. La 1-a Krucmilito sukcesis konkeri Jerusalemon (1099) kaj fondi sur la konkeritaj teritorioj krucistajn ŝtatojn frunte kun jerusalema reĝlando.
+La krucmilita movado kondukis ankaŭ al estiĝo de kavaliraj ordenoj - johanitoj, templanoj kaj ordeno de germanaj kavaliroj - kies tasko estis krom plenumado de kutimaj ordinaj promesoj servi al elĉerpintaj kaj malsanaj pilgrimantoj en Sankta Lando.
+Pluaj krucmilitoj renkontiĝis kun alterna sukceso aŭ prefere malsukceso. La 4-a Krucmilito (1202 - 1204) grave damaĝigis interrilatojn inter la orientaj kaj la okcidentaj kristanoj, ĉar venecianoj sukcesis eluzi la krucmilitistojn al propraj celoj kaj tiuj ĉi en la jaro 1204 prirabis Konstantinopolon. Pluaj ekskursoj ankaŭ malsukcesis, la krucmilitistoj perdas en la jaro 1291 lastan fortikaĵon Akko kaj la krucmilitaj ŝtatoj pereas.
+La signifo de la krucmilitoj restas disputebla. Al pozitivaĵoj certe apartenas la ligita kultura interŝanĝo inter Oriento kaj Okcidento, kiu ebligis ankaŭ evoluon de universitatoj kaj skolastikismaj filozofioj kaj teologioj, sed la militoj tre rompis la interrilatojn inter la orienta kaj la okcidenta eklezioj kaj la militoj akompanis politikajn kaj armeajn skandalojn, same tiel sensenca perforto dum la konkerado de Jerusalemo kaj Konstantinopolo.
+
+
+=== Movado de malriĉeco, herezo kaj inkvizicio ===
+
+Jam reformoj de la antaŭaj jarcentoj postulis revenon al evangelia malriĉeco laŭ modelo de Kristo kaj liaj apostoloj; tiu ĉi fervoro kondukis al renovigita intereso pri legado de Skribo kaj ekkono de la vivo kaj la doktrino de Jesuo. El tiu ĉi movado de malriĉeco estiĝas ankaŭ movado de valdenanoj, sed kiu iom post iom radikaligis sian doktrinon fariĝante malamika al la eklezio. En Nederlando aperas beginoj, piulinoj dediĉantaj sin al preĝo kaj legado de Skribo kaj zorgo pri malsanuloj kaj malriĉuloj.
+Apud kristanisma bazo aperas ankaŭ eksterkristanaj elementoj en sinkretisma movado de kataroj, kiu estis dualisma-manikeisma kaj kiu stariĝis akre kontraŭ la eklezia kaj la klerika potencoj. Streĉo en interrilato al franca reĝlando gvidis la katarojn el ĉirkaŭaĵo de urbo Albi (de tie albigensismo) al sanga albigensisma milito (1209 - 1229), kies karaktero estis eklezia kaj politika. Ĉar precipe la kataroj subfosis bazojn de feŭda socio, la ŝtato kaj la eklezio komune agis kontraŭ ili. Post tio, kiam la albianoj murdis en 1208 papan legaton, kies tasko estis intertrakti kun ili, Inocento la 3-a elvokis al krucmilito kontraŭ la albianoj. La konflikto estis tre sanga kaj unusolan prosperon el la konflikto akiris Francio. Surbaze de tiuj ĉi spertoj ŝanĝiĝas inkvizicia procedo en eklezian procedon kaj komenciĝas aktiva elserĉado de kulpintoj. En la jaro 1253 Inocento la 4-a ebligas enkadre de tiu ĉi proceda rajto dum severaj reguloj uzi torturadon. Tiel komenciĝas tre malhela ĉapitro de la historio de eklezio, ĉar enkadre de la inkvizicio okazis kruelaĵoj.
+Sed pro la perfekta sekvado de Kristo en la malriĉeco inspiras sin ankaŭ sanktaj Francisko el Asizo (1181 - 1226) kaj Dominiko de Guzmán (proksimume 1170 - 1221), kiuj komence de la 13-a jarcento fondas unuan ordenojn de almozuloj, ordenon de franciskanoj kaj ordenon de dominikanoj. Ambaŭ ordenoj neatendite rapide disvastiĝis tra la tuta Eŭropo kaj influis karakterize la tutan atmosferon de mezepoko. La idealon de senkondiĉa malriĉeco akceptis ankaŭ pluaj ordenoj, aŭgustenanoj kaj karmelitanoj. El tiuj ĉi ordenoj de almozuloj devenis la plej signifaj teologoj de la kulmina mezepoko kaj iliaj misiistoj estis tre ŝatataj.
+
+
+=== Skolastikismo, teologio kaj universitato ===
+
+Kontraŭe al la frua mezepoko, kiu estis kontenta kun tradicio kaj evoluo de teologio de Skribo en spirito de patristiko, la 12-a kaj la 13-a jarcento alportis pli grandan diferencigon de teologia pensado kaj pripensado de tradiciaj ekkonoj. Centro de la scienca laboro transŝoviĝis el monaĥejoj en nove estiĝantajn universitatojn. Kiel patro de skolastikismo estas konsiderata sankta Anselmo de Canterbury († 1109), kiu klopodis racionale submeti la kredon (fides quaerens intellectum). La plej signifa teologo de la frua skolastikismo estis Petro Abélard (1072 - 1142), uzanta dialektike-kritikan metodon. Kamaldula monaĥo Gratiano († 1158) el Bologna tiutempe amasigas unuafoje disigitajn ekleziajn normojn en kolektaĵon Concordantia discordantium canonum konata kiel Decretum Gratiani, kiujn kreis en reguligita kaj plenigita aspekto bazon por katolika eklezio ĝis la jaro 1917, kiam estis anstataŭigita per Kodekso de kanonika rajto. Aŭtoro de plena dogma lernolibro estas pariza majstro kaj episkopo Petro Lombardo († 1160), kies kvar librojn de Sentencoj oni uzis kiel bazo de instruado de teologio dum la tuta mezepoko ĝis reformacio.
+La teologia evoluo atingas sian kulminon dum la 13-a jarcento. Tra rondvojo tra arabaj kaj judaj verkistoj Okcidento interkonatiĝas kun verko de Aristotelo, kies nocia lingvo estis uzita por precizigo de filozofia-teologia pensado de la kulmina skolastikismo, kies la plej signifaj reprezentantoj estis sanktaj Alberto la Granda († 1280), Tomaso de Akvino († 1274), Majstro Eckhart († 1328), Aleksandro de Hajleso († 1245), Bonaventuro el Bagnoreĝo († 1274) kaj beata Duns Skoto († 1308). Plej multe publike akceptata el tiuj ĉi aŭtoroj por la historio de teologio kaj la kristana pensado estis Tomaso de Akvino, kies Summa theologiae fariĝis bazo de teologia doktrino ĝis la 20-a jarcento.
+Centroj de kristanisma scienco fariĝas universitatoj. Majstroj de diversaj parizaj lernejoj fondas en interŝanĝo de la 12-a kaj la 13-a jarcento unuiĝon nomata universitas magistrorum, kiu estis baldaŭ agnoskita de la ŝtato kaj la eklezio kiel memstara korporacio, al kiu estis pruntedonita proporcie alta mezuro de sendependeco. En la sama tempo estiĝas ĝis la jaro 1225 universitato ankaŭ en Bologna, Montpellier, Padovo, Napoli, Oxford, Cambridge, Valencio kaj Salamanca; ceteraj eŭropaj universitatoj komencos estiĝi nur ekde duono de la 14-a jarcento (en Prago en 1348). La universitatoj akceptis studentojn de ĉie kaj iliaj gradoj estis ĝenerale agnoskataj. Ĉiuj studentoj vizitadis unue fakultaton artistan kaj poste ili povis elekti studadon en fakaj fakultatoj: teologia, jurista aŭ kuracista.
+
+
+=== Eklezio en ĉeĥaj landoj ===
+
+
+== Malfrua mezepoko ==
+
+
+=== Avignona militkapto kaj granda okcidenta skismo ===
+
+
+=== Koncilio de Konstanco kaj konciliarismo ===
+
+
+=== Husmovado ===
+
+Husmovado (en literaturo referita al la fenomeno ankaŭ kiel husanaj militoj, husana revolucio, en pli malnova literaturo ankaŭ husana revoluci movado) prezentas reforman movadon en katolika eklezio, kiu derivas sian devenon el doktrino de Majstro Jan Hus kaj postulas ampleksan reformon de la eklezio.
+
+
+=== Papeco kaj renesanco ===
+
+
+=== Falo de Konstantinopolo ===
+
+
+== Novepoko ==
+Plua skismo en Okcidento okazis en la paso de la 16-a jarcento, kiam establiĝis protestantismaj eklezioj pro agado de reformatoroj Martin Luther, Zvinglo, Kalvino kaj pluaj. Dialogo precipe kun luteranaj eklezioj kaj anglikanisma komunumo daŭras kaj en antaŭ nelonga tempo ĝi venis al eldono de komunaj vidpunktoj al kelkaj disputeblaj demandoj.
+
+
+=== Protestantisma reformacio ===
+
+
+==== Reformacio en Germanio kaj ties progreso ====
+
+
+==== Reformacio en Svislando ====
+
+
+==== Anglikanisma reformacio ====
+
+La komenco de reformacio en Anglio estas kunigita kun malkomplezo de papo Klemento la 7-a nuligi geedzecon de reĝo Henriko la 8-a kun Katerino de Aragono. La angla reĝo reagis per atako kontraŭ la klerika potenco de papo kaj sekve li postulis ĉe anglaj pastroj agnoskon de sia persono kiel kapo de la angla eklezio. En 1534 estis definitive per leĝo malpermesita rajto de revoko al Romo kaj fakte tiel finiĝas influo de la romia eklezio pri la agado en Anglio. La apartigo de la eklezio de Romo ebligis al Henriko ankaŭ akiri ampleksajn posedaĵojn de la eklezio, precipe post eldono de leĝo pri disorganizo de monaĥejoj (1536 - 1540).
+En Anglio tuj de komence okazas certa ikonoklasmo, nuligo de pilgrimoj kaj pilgrimaj lokoj, limigo de festotagoj de sanktuloj. En liturgio okazis sole malgrandaj ŝanĝoj. Ĉar la ŝanĝo de la karaktero de eklezio en Anglio okazas en atmosfero de protestantisma reformacio, okazas ankaŭ ŝanĝoj en ĝi. Granda ŝanĝo de liturgio en protestantisma senco kaj ties transŝovo okazas dum regado de Eduardo la 6-a (1547 - 1553), filo de Henriko. Post Eduardo la 6-a surtroniĝis katolika reĝino Maria la 1-a (1553 - 1558). Ŝi rifuzis la ŝanĝojn faritaj de Henriko kaj Eduardo kaj reenpraktikigis la unuecon kun Romo. Rilate al kruda maniero, per kiu ŝi klopodis pri la rekatoligo de la lando, la historio donis al ŝi kromnomon Maria la Sanga. Post la morto de Maria surtroniĝis ŝia duonfratino Elizabeto la 1-a (1558 - 1603), kiu akre kontraŭstaris al aŭtoritato de la papo en Anglio kaj denove ŝi provis memstarigi la eklezion en Anglio. Dum angla revolucio (1649 - 1660) ŝanĝis la reganta puritanoj ĝisnunan episkopan strukturon de la eklezio en presbiterianan, sed ili konservis dum tio principon de ŝtata kontrolo super la eklezio. Post surtroniĝo de Karlo la 2-a en la jaro 1660 okazas restaŭrigo de la episkopaj strukturoj en la eklezio.
+En la 18-a jarcento kiel la rezulto de la reformacio de eklezio de John Wesley naskiĝas metodisma eklezio. En la 1-a duono de la 19-a jarcento prosperas enkadre de la anglikanisma eklezio la t.n. Movado de Oxford, kiu akiras grandan influon kaj komune kun ĝi estas plifortigitaj katolikaj tendencoj enkadre de la eklezio (la plej signifa reprezentanto de la movado estis John Henry Newman, kiu pli poste fariĝas katoliko).
+
+
+==== Reformacio en ĉeĥaj landoj ====
+
+
+=== Katolika reformacio ===
+
+
+=== Sorĉistinaj procesoj ===
+
+
+=== Mondaj misioj ===
+
+
+=== Eklezio post batalo sur Blanka Monto ===
+
+
+=== Baroko kaj klerismo ===
+
+La koncilio de Trento enmetis eksplicite la katolikan reformacian klopodon en la manojn de papo, kio plifortigis la papecon kiel tian kaj venas epoko de pli granda eklezia centraligo. Roma kurio intervenas pli ol kiam alie en funkciadon de unuopaj diocezoj. Je tiuj ĉi centraligaj tendencoj reagas interne de la eklezio diversaj opoziciaj movadoj, precipe en Francio: galikanismo, kiu klopodis pri pli granda sendependeco de la franca eklezio, ŝtata absolutismo, intervenanta en la ekleziajn aferojn, jansenismo, kiu unuflanke akrigis aŭgustenan doktrinon pri heredaj pekoj kaj pardono, kaj febronianismo, defendanta rajtojn de episkopoj kaj provanta limigi la intervenadon de Romo en proprajn aferojn.
+La ŝtata aŭtoritato super la eklezio trovas sian kulminon en Aŭstrio, kie Jozefo la 2-a (1780 - 1790) faris enkadre de la eklezio el la ŝtata potenco propravolajn reformojn, kiujn markis la eklezion en liaj landoj ĝis nuntempo. Enkadre de jozefinismo estis grandparte nuligitaj monaĥejoj kaj ekleziaj institutoj. Tiun ĉi lian klopodon intervenis papo Paŭlo la 6-a (1775 - 1799), kiu persone alveturis Vienon; sed senrezulte.
+Kun la veno de klerismo fine estas venanta en la katolikaj kaj protestantismaj teritorioj fino de ĉasoj je sorĉistinoj, procesoj kontraŭ herezuloj, diskriminacio de alikredantoj kaj el juĝejaj esploradoj estas malaperanta torturado. Kelkaj francaj kleristoj evoluigis ideon de natura religio - kulton de La plej supera Estaĵo - kiun ili realigis kontraŭ la kristanismo. La eklezioj devas alkutimiĝi al klerismaj pretendoj kaj tiel okazas pluaj ekleziaj reformacioj.
+
+
+== Moderna epoko ==
+
+
+=== Franca revolucio kaj sekularigo ===
+
+
+=== Katolika eklezio kaj socia demando ===
+
+
+=== Katolika eklezio kaj scienco ===
+
+
+=== La unua vatikana koncilio ===
+En 1869-1870 okazis en Romo la Unua Vatikana Koncilio, kunvokita de Papo Pio la 9-a.
+
+
+=== Eklezia ŝtato ===
+En 1870 finiĝis la ŝtato ĉirkaŭ kiun regis la Papo (Eklezia Ŝtato aŭ Papa Ŝtato). 
+
+En 1929 ekaperis nova ŝtato regita de la Papo, multe pli malgranda: Vatikanurbo. 
+
+
+=== Rilato de eklezio kaj ŝtato kaj Kulturkampf ===
+
+
+=== Modernista krizo ===
+
+
+=== Aŭstria katolikeco ===
+
+
+=== Eklezio post la Unua Mondmilito ===
+
+
+=== Ĉeĥoslovaka eklezio ===
+
+
+=== Nekatolikaj movadoj de la 20-a jarcento ===
+En la 50-aj jaroj de la 20-a jarcento okazas ŝtorma evoluo de evangelikaj eklezioj en Ameriko. Tiuj prezentas sin per laŭvorta prezento de Skribo, iam markita kiel fundamentalismo.
+Alia karakteriza movado de la 20-a jarcento estas pentekostalismo. Tiu estiĝas komence de la 20-a jarcento el metodismaj rondoj. En la unua duono de la jarcento ĝi kreas memstarajn ekleziojn, sed en la dua duono ĝi enpenetras en establintaj eklezioj, inkluzive de eklezioj luteraj, anglikana kaj katolika (karisma movado). La movado karakterizas sin per granda emfazo je agado de Sankta Spirito kaj je uzado de liaj apartaj donacoj, la t.n. karismoj.
+
+
+=== 2-a koncilio de Vatikano ===
+La papo Johano la 23-a kunvokis la Duan Vatikanan Koncilion, kiu daŭris de 1963 al 1965 kaj finiĝis sub Paŭlo la 6-a.
+
+
+=== Ekumenismo kaj rilatoj de kristanaj eklezioj ===
+
+
+== Rilataj temoj ==
+Eklezio
+Kristanismo
+Apero de kristanismo
+
+
+=== Literaturo ===
+FRANZEN, August. Malé církevní dějiny. Praha: Zvon, 1995. ISBN 80-7113-119-9.
+
+==========
+
+
+== Antikvo ==
+Ĵomon-epoko
+Jajoi-epoko (3-a jarcento a.K. - 3-a jarcento)
+Kofun-epoko (malfrua 3-a jarcento/frua 4-a jarcento - frua 7-a jarcento/komenca 8-a jarcento)
+Asuka-epoko (fina 6-a jarcento - 710)
+Nara-epoko (710 - 794)
+Heian-epoko (794 - 1185)
+
+
+== Mezepoko ==
+Kamakura-epoko (1185 - 1333)
+Kemmu-restarigado (1333-1336)
+Muromaĉi-epoko (1336 - 1573)
+Nanboku-ĉo-epoko (1336 - 1392)
+Sengoku-epoko (1392 - 1573)
+Azuĉi-momojama-epoko (1573 - 1600)
+Edo-epoko (1600 - 1868)
+
+
+== Nuntempo ==
+Meiji-restarigado (1868 - 1912)
+Taiŝio (1912 - 1926)
+Ŝoŭa (1926 - 1989)
+Heisei (1989 - 2019)
+Reiwa (2019 - ...)
+Post 1868 Japanio malkovris la mondo kaj konstatis, ke estas koloniantoj kaj koloniitoj. La registaro decidis esti kolonianto kaj komencis invadi vastajn teritoriojn en orienta Azio. Japanaj militkrimoj de la Imperio de Japanio okazis en multaj Azi-Pacifikaj landoj dum la periodo de japana imperiismo, ĉefe dum la Dua Ĉina-Japana Milito kaj la Dua Mondmilito. Tiuj okazaĵoj estis priskribita foje kiel Azia Holokaŭsto. Kelkaj militkrimoj estis fifaritaj de militistoj el la Imperio de Japanio fine de la 19a jarcento, kvankam plej okazis dum la unua parto de la Ŝoŭa-erao, nomo havigita por la regado de la imperiestro Hirohito, ĝis la kapitulaco de la Imperio de Japanio en 1945. Tiu parto de la japana Historio estas detale priskribita en libro Historio por malfermi estontecon.
+La kapitulaco de Japanio okazis post la faligo de la atombomboj sur Hiroŝimon la 6-an de aŭgusto 1945 kaj sur Nagasakon la 9-an de aŭgusto 1945. La lastaj malvenkoj de la Japana Imperio estis la Soveta invado de Manĉurio kaj la Sovet–Japana Milito.
+La Okupacio de Japanio fare de Aliancanoj fine de la Dua Mondmilito estis estrita de la Generalo Douglas MacArthur, nome Supera Komandanto de la Aliancaj Armeoj, kun subteno de la Brita Komunumo. Malkiel ĉe la Okupacio de Germanio, Sovetunio ne estis rajtigita influi super Japanio. Tiu eksterlanda ĉeesto markis la nuran fojon en la historio de Japanio kiam ĝi estis okupaciita de eksterlanda potenco. La lando iĝis parlamenta demokratio kiu kongruis kun la prioritatoj de la 1930-aj jaroj en la tiam nova politiko "New Deal" de Roosevelt. Tiu okupacio, kun kodonomo Operaco Nigra Listo, finis per la San-Francisko Pactraktato, subskribita la 8an de septembro, 1951, kaj valida el la 28a de aprilo, 1952, post kio la suvereneco de Japanio – kun la escepto, ĝis 1972, de la Rjukjua Insularo – estis tute restaŭrita.
+
+Heisei (1989 - )
+
+
+== Epoktabelo ==
+Kutime nun akceptita tabelo de epokoj de la japana historio:
+
+
+== Referencoj ==
+
+
+== Vidu ankaŭ ==
+
+Listo de imperiestroj de Japanio
+Listo de ŝogunoj
+Lingvaj limigoj en japana poŝta servo dum la Dua Mondmilito
+
+
+== Eksteraj ligiloj ==
+http://www.japantoday.ru/japanaz/index.shtml
+http://www.hukam.net/essay.php?id=156
+http://www.metmuseum.org/toah/splash.htm
+Historio de la naciisma ideologio en Japanio
+
+==========
+
+La historio de Esperanto okupiĝas pri diversaj aspektoj de la lingvo kaj movado Esperanto.
+
+
+== Esperanto-historiografio ==
+
+Estas malfacile precize difini, kio estas la historio de Esperanto. Historio de unuopa lando povas koncentriĝi je tiu lando, kaj historio de unuopa asocio je tiu asocio. La historio de Esperanto havas plurajn aspektojn:
+
+la lingva historio, do la estiĝo kaj evoluo de la lingvo mem;
+la homoj kiuj parolas Esperanton, tio estas la lingva komunumo;
+la Esperanto-movado kun la strebado subteni la lingvon kaj akceptigi ĝin;
+la organizaĵoj;
+la kulturaj produktoj de la lingvo-komunumo.
+Utilaj verkoj por la studanto kaj esploranto estas Enciklopedio de Esperanto kaj Esperanto en Perspektivo. La superrigardaj verkoj, kiuj ne estas superrigardetoj, restas maloftaj. Precipe mankas vera lernolibro pri Esperanto-historio.
+
+
+== Historia superrigardo ==
+
+
+=== La unuaj strukturoj ("rusa" kaj "franca" periodoj) 1887-1903 ===
+
+La unua varbilo por la nova lingvo estis la "unua libro" el julio 1887, kiun Ludoviko Lazaro Zamenhof (Lazarj/Lejzer Markoviĉ Zamenhof) publikigis en Varsovio (tiutempe situanta en Rusia imperio). Temis fakte nur pri 40-paĝa broŝuro. Tiun kaj aliajn varbilojn Zamenhof dissendis, kaj li metis anoncojn en gazetojn.
+Por interligi la novajn esperantistojn, li eldonis Adresaron de la personoj kiuj ellernis la lingvon. La unua el 1889 enhavis jam mil homojn, kvankam tio ne nepre signifas ke ĉiu (bone) parolis Esperanton. Tamen la modesta nombro montras ke Zamenhof ne nur simple publikigis sian projekton kaj atendis la finan venkon, sed investis multe da mono kaj tempo. La Adresaroj poste fariĝis jarlibroj.
+Fine de 1888 la volapukista klubo de Nurenbergo (Germanio) transiris al Esperanto. Kun nurenberganoj Zamenhof eldonis la revuon La Esperantisto. Ĝi fariĝis la plej grava interligilo por la anoj de la nova lingvo, kaj nun estas grava fonto por tiu epoko. Rusia imperio entenis la plej grandan nombron da parolantoj, pro tio, oni nomas unuan periodon de Esperanto-movado "rusa periodo". Danke al mondonacoj eblis daŭrigi la projekton, sed en 1895 la rusa cenzuro por mallonga tempo malpermesis envenigi la revuon al Rusio. La taskon provizi gazeton al la movado transprenis junaj svedoj en Upsalo: Lingvo Internacia.
+Krom la nurenberga klubo, kiu tamen jam en 1894 forlasis la movadon, ekzistis kelkaj unuopaj kluboj, ekzemple en Moskvo, Sankt-Peterburgo kaj Schalke (nun parto de Gelsenkirchen). Ĝenerale, la kreskado de la movado estis malrapida.
+En 1898 la franca esperantisto Louis de Beaufront fondis franclingvan societon (kiu en 1903 nomis sin fakte franca). Ĝi havis ankaŭ membrojn en nefranclingvaj landoj, sed ĝia organo L'espérantiste estis preskaŭ nur en la franca. Al la propagandisto de Beaufront oni aljuĝas ankaŭ la varbadon de intelektuloj, ekzemple Théophile Cart, Carlo Bourlet kaj Hippolyte Sebert. Tiu estis la "franca periodo".
+
+
+=== Fondista epoko de Esperanto (aŭ: "internacia periodo") 1903-1914 ===
+
+De proks. 1903 ĝis la unua mondmilito fondiĝis multaj landaj asocioj, ekzemple en 1903 la svisa, en 1906 la germana kaj en 1910 la usona.
+En tiu ĉi periodo komenciĝis ankaŭ la vico de la Universalaj Kongresoj. La unua grandeta internacia renkontiĝo de esperantistoj okazis en 1904 en la franca urbo Calais kaj la brita Dover. La unua Universala Kongreso de Esperanto okazis en 1905 en Bulonjo-ĉe-maro ĉe la nordfranca marbordo.
+Dum tiu kongreso oni akceptis interalie Lingvan Komitaton kaj la Fundamenton de Esperanto, por servi al la stabileco kaj evoluo de la lingvo.
+Universala Esperanto-Asocio fondiĝis en 1908. Malgraŭ la komenca intenco, ĝi ne sukcesis tiri ĉiun Esperanto-agadon sub sian ombrelon. Dume la naciaj societoj provis memstare fondi federacion, sed la Internacia Unuiĝo de Esperantistaj Societoj (1913) ne vere ekvivis, pro la unua mondmilito.
+Certa rompo en tiu epoko, kiu vidis precipe progreson de Esperanto, estis la Ido-krizo de 1907/1908 kaj la sekvaj jaroj. Tamen la nombro de esperantistoj, kiuj transiris al tiu nova lingva projekto, restis tre limigita.
+Dum la unua mondmilito ne eblis multe agadi, krom ke diverslandaj esperantistoj uzis Esperanton por la militpropagando, donacis ruĝkrucan ambulancon aŭ instruis Esperanton al militkaptitoj aŭ aliaj internigitoj.
+
+
+=== Organizaj disputoj kaj la kolonja solvo 1920-1933/34 ===
+
+Post la milito oni provis atingi akordon inter UEA kaj la naciaj societoj serve al komunaj celoj de la movado. Oni volis internacian lobiadon por la lingvo, propagandon kaj instruadon en landoj sen propra movado, atentigon pri radio-elsendaĵoj en Esperanto ktp., kaj por tio oni bezonis strukturon kaj financadon.
+Kvankam jam ekzistis ideoj pri "komuna solvo", kun integrigo de la naciaj societoj en UEAn, kun komuna Komitato, provizore venkis organizo kun disaj organoj. En 1922 UEA kaj la naciaj societoj interkonsentis kunlabori laŭ la kontrakto de Helsinki. En tiu Helsinko-sistemo, UEA unuflanke kaj la naciaj societoj aliflanke komune elektis kaj financis Internacian Centran Komitaton. Tiu ICK poste havis oficejon kaj direktoron (Robert Kreuz).
+Pro malkontentoj pri la helsinka organizo la naciaj societoj serĉis novan solvon. Ili minacis fondi novan internacian asocion, tiel ke UEA devis konsenti al kompromiso. En la UK de Kolonjo en 1933 oni subskribis interkonsenton, laŭ kiu la naciaj societoj aliĝas al UEA, pagas por siaj aligitaj membroj, kaj sendas anojn en la Komitaton. La Interkonsento de Kolonjo estas la bazo ankaŭ por la nuntempa UEA, kun kelkaj intertempaj modifoj.
+
+
+=== Malpermesoj kaj Dua mondmilito ===
+
+Jam antaŭe ekzistis malhelpoj al la laborista Esperanto-movado. Dum la 1930aj jaroj okazis, en Germanio kaj Portugalio, ke ankaŭ neŭtralaj Esperanto-asocioj suferis malpermeson. Ankaŭ en Sovetunio esperantistoj ne plu povis havi organizan strukturon. La Dua mondmilito estis plia bato por la movado, precipe dum 1940-1944. Ankaŭ en la neŭtralaj aŭ nemilitantaj landoj la milito havis sekvojn, ekz. per rekrutigo de junaj viroj.
+
+
+=== Esperanto en la Malvarma Milito 1945-1989 ===
+Nur dum mallonga fazo post la milito, en orienta Eŭropo la esperantistoj rajtis reorganizi la landajn movadojn. Jam en 1949, kiam la komunismaj diktaturoj estis firme establitaj, multaj el tiuj landaj movadoj devis ĉesi labori. Nur post la morto de Stalin en 1953 la situacio fariĝis pli bona, sed en unuopaj landoj refondiĝo de landa asocio estis permesita nur post multaj jaroj. Daŭris sufiĉe longe ĝis tiuj landaj asocioj povis aliĝi al UEA, ekz. la soveta nur en 1989.
+uzo de Esperanto en Tajvano dum regado de Ĉiang Kai-ŝek estis ankaŭ tabua pro ĝia asociigo kun komunismo.
+Post la reveno de la orienteŭropaj asocioj (ĉ. aŭ post 1955) la movado havis siajn apogojn kaj la okcidente kaj oriente. Oni penis laŭeble kunlabori kaj havi rilatojn malgraŭ problemoj en komunismaj diktaturoj. Okazis ekzemple, ke Universalaj Kongresoj kelkfoje estis aranĝataj en komunismaj landoj. La unua kazo estis en Zagrebo, Jugoslavio, en 1953. La unua UK aranĝita en lando de la sovetia bloko estis tiu de Varsovio en 1959. Poste proks. ĉiun kvaran fojon UK estis en orienteŭropa lando.
+Dum tiu ĉi periodo plifortiĝis Esperanto ankaŭ en Ĉinio kaj ankaŭ en la suda duono de la tero. Tio vidiĝis en la 1970aj jaroj ekzemple en la aliĝo de pluraj sudamerikaj landaj asocioj al UEA. En 1981 okazis la unua UK en la suda terduono, nome en Brasília.
+Teknika evoluo favoris Esperanto-muzikon, ĉar produktado de sondiskoj iĝis malpli multekosta. En la 1970aj jaroj ekaperis la kompaktkasedo (sonkasedo), kaj en la 1980aj jaroj la kompaktdisko (lumdisko).
+
+
+=== Esperanto post la falo de la Berlina muro (1989-) ===
+
+La orienteŭropa eksigo de komunismo en la komenco de la 1990-aj jaroj signifis novan epokon por la orienteŭropaj Esperanto-asocioj. La disfalo de burokrataj socialistaj reĝimoj en Sovetunio kaj la orienta Eǔropo forprenis per unu bato signifajn materiajn rimedojn, kiel subvenciitajn propraĵojn kaj eldonaĵojn, salajratajn funkciulojn kaj instruistojn. Esperantistaj organizaĵoj estis dekumitaj kaj kluboj fermitaj. Aliflanke, oni liberiĝis el oficialaj propagandaj politikoj.
+La interreto ekstaris kiel komunikilo por la ĝenerala publiko, kio profitigis la internacian Esperanto-komunumon. Konsidera parto de la Esperantaj komunikado kaj publikigado okazis nun nur interrete. En 2007 la Pola Radio havis sian lastan aeran elsendon kaj estis transigita al la interreto.
+
+
+=== Kreskanta uzado de Esperanto ekde la 60-aj jaroj ===
+Diversaj nombroj indikas kreskantan uzadon de Esperanto dum la pasintaj jardekoj.
+La hungara censo kalkulis 942 Esperanto-parolantojn en 1941, 2 083 en 1990, 4 575 en 2001 kaj 8 397 in 2011. Por 985 el tiuj ĉi lastaj Esperanto estis familia aŭ gepatra lingvo.
+Dum la sesdekaj jaroj la jarlibro de UEA listigis 58 (1961), 67 (1962) kaj 83 (1965) nomojn de Esperanto-denaskuloj. En 1996 estis proks. 350 kazoj de familioj kun denaskaj Esperanto-parolantoj; kun mezume du infanoj en ĉiu familio oni povas supozi, ke estis sepcento da denaskulaj infanoj tiutempe.
+Estas nun Esperanto-asocioj en dudeko da afrikaj landoj; preskaŭ ĉiuj el tiuj fondiĝis post 1960. La nombro de afrikaj adresoj en la jarlibro "Pasporta Servo" kreskis de 18 en 1988/89 al 59 en 2005.
+
+Eldoniĝis kvar muzikalbumoj en Esperanto en la sesdekaj jaroj, 17 en la sepdekaj, 58 en la okdekaj, 75 en la naŭdekaj kaj pli ol cent en la unua jardeko de la nova jarmilo. Estas rete disponeblaj nun pli ol 3000 kantoj en Esperanto.
+La nombro de partoprenantoj en Esperanto-renkontiĝoj de almenaŭ unu semajno en Germanio kreskis de proks. 100 en la fruaj sepdekaj jaroj al proks. 800 en 2008.
+La Esperanto-Vikipedio enhavas nun pli ol 215 000 artikolojn (junio 2015); aldoniĝas proks. 1000 novaj artikoloj ĉiumonate. Tiuj nombroj similas al la slovaka (proks. 205 000), bulgara (proks. 203 000) kaj dana (proks. 200 000; junio 2015) versioj de la vikipedio. Antaŭ la apero de la vikipedio en 2001 ne ekzistis Enciklopedio en Esperanto pri ĝeneralaj temoj; Enciklopedio de Esperanto (pri Esperanto-temoj) eldoniĝis en 1934 kaj ekde tiam ne estis redaktita.
+Inter 1906 kaj 1971 aperis ĉ. 28 disertacioj pri Esperanto kaj interlingvistiko, do proksimume unu ĉiun duan aŭ trian jaron. Tiu nombro forte grandiĝis: Inter 1975 kaj 1987 entute aperis 95 disertacioj, do ekde 1975 ĉiujare mezume pli ol 7.
+
+
+== Datoj el la Esperanto-historio (kronologio) ==
+Datoj unuflanke gravaj por la Esperanto-parolantoj, aliflanke por transdono al eksteruloj, ĵurnalistoj k. s. La listo enhavu prefere datojn el ĉiuj kampoj de la Esperanto-aplikado kaj historio. Grasaj datoj por agnosko/subteno/uzado flanke de eksteraj/plurlingvaj instancoj kaj entreprenoj. (Ordigo laŭ tempo; jaro antaŭ specifa dato).
+Por pliaj detaloj pri specifaj jaroj vidu la Kategorio:Esperanto laŭ jaroj
+
+
+=== Elektitaj okazaĵoj de ĉiu jaro ===
+(Inversa kronologio)
+
+
+==== 2020aj Jaroj ====
+2025
+Junio: Ekzistas nun almenaŭ 11 senkostaj babilrobotoj, kiuj scias komuniki en Esperanto - parte eĉ voĉe.
+Plu vidu ĉe 2025 en Esperantujo
+2024
+3a gis 10a de aŭgusto: 109a Universala Kongreso en Aruŝo, Tanzanio, la unua UK en Afriko.
+Februaro: La kantisto Sandro Machado partoprenis per esperantlingva kanto en la antaŭselektado de kontribuo de San Marino por la Eŭrovizia Kantokonkurso 2024 ("Una Voce per San Marino"). Li atingis partoprenon en duonfinalo kaj en espero-rondo (kvina duonfinalo). Tio estas la unua partopreno de esperantlingva kanto en la Eŭrovizia Kantokonkurso.
+Plu vidu ĉe 2024 en Esperantujo
+2023
+12-a de junio: Unua UN-kunveno kun prelegoj en Esperanto kaj samtempa interpretado en Esperanto; okazis tri prelegoj en Esperanto. Estis la "Tema Renkontiĝo pri Multlingvismo tra la UN-sistemo". "Esperanto estis unuafoje uzata oficiale en konferenco de UN."
+En la hungaria parlamento tri deputitoj el entute 200 informas, ke ili parolas Esperanton; entute estas kvin, kiuj trapasis la B2-ekzamenon pri Esperanto. Per tio la lingvokono pri Esperanto atingis lokon sep en la hungaria parlamento; antaŭ Esperanto troviĝas la lingvoj angla (127), germana (69), rusa (23), franca (14), hispana (7) kaj itala (7). 
+Plu vidu ĉe 2023 en esperantujo
+2022
+Decembro: En la internacia kantokonkurso Eurovision of Minorities Languages (Eŭrovizio de minoritataj lingvoj) gajnis Kjara per kanto en Esperanto, "Mozaiko".
+30a de novembro: La entrepreno OpenAI lanĉas la babilroboton ChatGPT, kiu scias legi kaj respondi ankaŭ en Esperanto. (Bedaŭrinde multaj informoj de ChatGPT estas malĝustaj.)
+Julio/Aŭgusto: La teatraĵo 1910 premieris dum la UK.
+Julio/Aŭgusto: La unua muzikalo en Esperanto June kaj kune premieris dum la IJK.
+15-a de majo: La Katolika Eklezio kanonizas la nederlandan Esperanto-parolanton, pastron kaj profesoron pri filozofio Titus Brandsma ; per tio li iĝis la unua sanktulo, kiu parolas Esperanton.
+Majo: La unua Esperanto klubo de Antarkto estis fondita en la Polusa stacio Amundsen-Scott. 
+Plu vidu ĉe 2022 en esperantujo
+2021
+Tutmonda Esperantista Junulara Organizo (TEJO) ricevis konsultan statuson ĉe la Ekonomia kaj Socia Konsilio de Unuiĝintaj Nacioj. Ĝi per tio estas jam la tria Esperanto-organizo kun tiu statuso, post UEA (1998) kaj Esperanto-Radikala Asocio (2017).
+18a de julio: La Esperanto-vikipedio atingas 300.000 artikolojn.
+Aprilo/majo: Unesko faris (mallongan) enketon pri edukado, kiu aperis en Esperanto aldone al proks. 16 aliaj lingvoj. Partoprenis ĝis la 3-a de majo al la Esperanto-lingva versio de la enketo 5 686 personoj, laŭ informo de la respondeculo ĉe Unesko pri la enketo “Futuroj de Edukado”, S-ino S. Magalage.
+proks. 16a de marto: La Monda Organizaĵo pri Sano enretigis retkurson pri kovimo en Esperanto.
+Plu vidu ĉe 2021 en esperantujo
+2020
+15a de julio: Aperas la kvara Esperanto-kurso ĉe Duolingo, nun en la franca. 
+Junio: La Asista Ĝenerala Sekretario de Unuiĝintaj Nacioj (UN), Fabrizio Hochschild, sendas filman salutmesaĝon al la Monda Festivalo de Esperanto 2020 (reta anstataŭaĵo de UK), kiun li komencas per kelkaj vortoj en Esperanto.
+
+
+==== 2010aj Jaroj ====
+2019
+Julio: La sveda ministrino pri kulturo kaj demokratio, Amanda Lind, salutas la Universalan Kongreson en Lahti per unuminuta filma mesaĝo plene en flua Esperanto. (Ŝi lernis kaj praktikis Esperanton dum kelka tempo de sia vivo.)
+Februaro: De la respubliko Kroatio Esperanto estas rekonita kiel nemateria kultura heredaĵo.
+2018
+18-a de septembro: La Esperanto-Vikipedio atingas 250.000 artikolojn. Ĝi per tio estas simile granda kiel la versioj en la dana, kroata kaj slovaka.
+La Zaozhuang-a Universitato en la Shandong-provinco establis Esperanto-studojn por bakalaŭro.
+29-a de julio: La Ĝenerala Direktorino de Unesko, Audrey Azoulay, sendas gratulmesaĝon al la Universala Kongreso de Esperanto en Lisbono, en kiu ŝi interalie mencias ke "Unesko subtenas la instruadon de Esperanto ekde multaj jaroj"
+14-a de majo: Duolingo aldonas trian Esperanto-kurson, en la portugala.
+2017
+3-a de junio: La EU-Komisionano Vytenis Andriukaitis esperantlingve parolas al la Kongreso de la Germana Esperanto Asocio en Freiburg.
+27-a de majo: La Duolingo-kurso atingas unu milionon da registritaj lernantoj, sume en la angla kaj hispana versioj; tage finas la kurson nun proks. 100 homoj (pli ol 30 000 jare).
+proks. majo: La Esperanto-Radikala Asocio (ERA) ekhavas konsultan statuson kun la Ekonomia kaj Socia Konsilio de Unuiĝintaj Nacioj (ECOSOC ĉe UN).
+proks. majo: La kvaronjara revuo de Unesko, Unesko-Kuriero, ekaperas en Esperanto.
+2016
+julio: La EU-Komisionano Vytenis Andriukaitis partoprenas la 101-an Universalan Kongreson de Esperanto en Nitra.
+2015:
+Enketo montras, ke estas pli ol sesdek lingvolernaj retejoj, kiuj ofertas lingvolernilojn por Esperanto; temas pri lingvokursoj, vortaroj, tradukiloj, gramatika kontrolo, vortkartaroj, lingvoludoj ktp. El la lingvolerniloj, kiuj senkoste ofertas almenaŭ 25 lingvojn, proks. 90 % ofertas ion por Esperanto.
+28-a de majo: Esperanto-kurso en la angla lingvo ekfunkcias (en beta-versio) ĉe Duolingo. Post unu monato la kurso havas jam pli ol 35 000 enskribitajn (ek)lernantojn, post tri monatoj 100 000 (ek)lernantojn, post ses monatoj 200 000; tage aldoniĝas mil pliaj kaj finas la kurson (ĉiuj ekzercoj) proks. 30 lernantoj (do proks. 10 000 en unu jaro).
+2014
+31-a de oktobro: Esperanto enmetita en la polan liston de nemateriaj kulturaj heredaĵoj.
+13-a de aŭgusto: 200.000 artikoloj en la Esperanto-Vikipedio. Laŭ la artikolnombro Esperanto havis tiam lokon 33, iom antaŭ la slovaka, dana kaj litova versioj.
+31-a de julio: Esperanta teamo de futbalo unuan fojon partoprenas oficialan futbalmatĉon de la NF-Ligo (Ne-FIFA-Ligo) kontraŭ la teamo de la argentinarmena komunumo en Bonaero, Argentino, kadre de la 99-a Universala Kongreso de Esperanto.
+5-a de aprilo: Ekfunkcias Interreta Esperanto-Televido "ETV" en Sidnejo, Aŭstralio.
+17-a de januaro: La tradukita frazokolekto Tatoeba atingas 300.000 frazojn en Esperanto (dua loko post la angla, tiam proks. 402.000 frazoj, antaŭ la germana, 249.000).
+2013
+16-a de novembro: La Internacia Esperanto-Muzeo en Zaozhuang, orienta Ĉinio, estas inaŭgurita.
+2012
+22-a de februaro: Google Translate aldonas Esperanton (kiel 64-an lingvon).
+2011
+1-a de julio: Lanĉo de la retradio Muzaiko; ĝi elsendas 24 horojn tage (bloko de tri horoj ripetiĝas okfoje).
+La hungara censo kalkulas 8.397 Esperanto-parolantojn en Hungario (duobliĝo ekde 2001, kvarobliĝo ekde 1990). Kompare kun aliaj lernitaj lingvoj (ne gepatraj) Esperanto okupas nun lokon 14.
+La litova censo kalkulas 604 Esperanto-parolantojn en Litovio; Esperanto okupas lokon 22 (sen gestolingvo). Laŭ la censo loĝis entute 3 043 429 homoj en la lando; do estis 198 Esperanto-parolantoj inter miliono da loĝantoj.
+2010
+decembro: WikiTrans, la maŝine tradukita esperantolingva versio de la angla Vikipedio disponeblas kun ĉ. 4 milionoj da artikoloj.
+
+
+==== 2000aj Jaroj ====
+2009
+15-a de decembro: La serĉilo Google ornamas sian emblemon per la Esperanto-flago honore al la 150-a naskiĝtago de L. L. Zamenhof.
+2-a de oktobro: La brazila Senato akceptas proponon inkluzivigi Esperanton en la libervolan instruadon en lernejoj (necesas ankoraŭ akcepto en la Ĉambro de Deputitoj).
+somero: Per la aliĝo de la Mongola Esperanto-Societo UEA havas 70  Landajn Asociojn. En 1955 estis nur 22 landaj asocioj
+19-a de januaro: La entrepreno Transparent Language (lingvo-lernaj komputilaj programoj) komencas blogon en la angla pri Esperanto.
+2008
+jarfine: Komenco de ekzamenado de Esperanto-scio laŭ la Komuna eŭropa referenckadro.
+oktobro: Unua versio de Mozilla Firefox oficiale en Esperanto
+2006/2008: La reta serĉilo Google enmetas Esperanton kiel serĉlingvon (dezirata lingvo de la serĉata paĝo).
+2006
+12-a de julio: La urbo Herzberg am Harz (Germanio) laŭ la decido de la urba konsilantaro oficiale eknomiĝas "die Esperanto-Stadt" ("la Esperanto-urbo").
+2005
+Tria eldono de Plena Ilustrita Vortaro de Esperanto; proks. 15.000 radikoj, pli ol 200.000 vortoj
+2004
+29-a de januaro: La Lingvoscienca Instituto de la Hungara Scienca Akademio deklaras, ke Esperanto estas "viva lingvo".
+2003
+5-a de decembro: 10.000 artikoloj en Vikipedio
+2003
+januaro: Aperas en la reto Ĝangalo, esperantlingva retportalo. Ĝi publikigas ĉiutagajn mondajn novaĵojn kaj Esperanto-novaĵojn, kaj disponigas plurajn servojn: blogaron, babilejon kaj aliajn. (Malaperis ĝis majo 2008.)
+2002
+21-a de decembro: Publikiĝas lernu.net, retejo por Esperanto-lernado en kvardeko da lingvoj kun pluraj kursoj diversnivelaj kaj forumo.
+septembro: Kontrakto inter Le Monde diplomatique kaj ties Esperanta redaktejo pri ĉiumonata aperigo de almenaŭ parto de la gazeto.
+Dua eldono de Plena Ilustrita Vortaro de Esperanto. Ĝi ampleksas 16.780 kapvortojn kaj 46.890 leksikajn unuojn.
+2001
+29-a de septembro: La Ĉina Interreta Informa Centro komencas preskaŭ ĉiutage (ne semajnfine) publikigi novaĵojn pri Ĉinio en Esperanto.
+Iam antaŭ 2001, 12-a de septembro: Google aldonas Esperanton kiel uzeblan lingvon de sia reta serĉejo.
+2000
+Gregory Grefenstette kaj Julien Nioche publikigas studon, laŭ kiu en la interreto troviĝas proks. 26.795.000 vortoj en Esperanto (tio egalas al 300 libroj kun po 300 paĝoj de po 300 vortoj). Esperanto okupas lokon 27 inter la esploritaj latinliteraj lingvoj kaj havas similan kvanton da teksto en la reto kiel la eŭska, latva aŭ litova lingvoj.
+Registrado de Esperanto kiel elektebla lingvo por studentoj de hungaraj altlernejoj kaj universitatoj (por ricevi diplomon studento devas pruvi lingvoscion per ŝtate rekonita lingvo-ekzameno).
+
+
+==== 1990aj jaroj ====
+1999: William Auld estis kiel unua Esperanto-aŭtoro proponita por la Nobel-premio pri literaturo.
+1999: William kaj Cathy Schulze heredigas proks. tri milionojn da usonaj dolaroj al Esperantic Studies Foundation (ESF); per la interezoj eblas subteni interalie esploradon pri Esperanto kaj la kreon kaj funkciadon de retejoj kiel edukado.net kaj lernu.net.
+1998: UEA akceptiĝas plian fojon kiel neregistara organizaĵo kun speciala konsulta statuso ĉe la Ekonomia kaj Socia Konsilio de Unuiĝintaj Nacioj; unua akcepto okazis jam en 1981, en 1998 UN reviziis la liston.
+1997: Estis fondita la katedro interlingvistiko kaj Esperanto kiel speciala katedro de la Fakultato de Humanistiko de la Universitato de Amsterdamo.
+1997: Kadre de la Lingvistika Instituto (Fakultato pri Moderna Filologio) de la Universitato Adam Mickiewicz, Poznano, fondiĝas la postdiplomaj Interlingvistikaj Studoj. La unua grupo ekstudis en 1998, poste ĉiun trian jaron la sekva.
+1996: Estas prezentita la Manifesto de Prago kadre de la 81-a Universala Kongreso de Esperanto en Prago, Ĉeĥio.
+1996: Laŭ studo de Renato Corsetti ekzistas proks. 350 familioj kie la infanoj kreskas kiel denaskaj Esperanto-parolantoj.
+1993, 10-a de oktobro: La PEN-Mondkongreso akceptas la Esperantan PEN-Centron.
+1990, 8-a de novembro: La vatikana "Kongregacio por la dia kulto kaj disciplino de la sakramentoj" aprobas la mestekstojn en Esperanto. Tiel Esperanto definitive fariĝas liturgia lingvo en la katolika eklezio.
+
+
+==== 1980aj Jaroj ====
+1987: Centjariĝo de Esperanto.
+1987: Unuafoje dek Esperanto-muzikalbumoj en unu jaro (konstante tiom ekde 1998)
+1985: Unesko en sia dua rezolucio pri Esperanto "invitas la Ŝtatojn-Membrojn (...) instigi al la enkonduko de studprogramo pri la lingvo-problemo kaj pri Esperanto en siaj lernejoj kaj siaj institucioj de supera edukado".
+1982: Ekde tiu jaro "lokaj kluboj de esperantistoj" en Rumanio estis (denove) "likviditaj". Ankoraŭ en 1986 "nenia organizita agado por Esperanto, inkluzive la okazigon de kursoj, estas permesita en Rumanio".
+1981: La Komitato de UN pri Neregistaraj Organizaĵoj donis al la asocio UEA oficialajn konsultajn rilatojn kun UN; ekde tiam ĝi troviĝas sur la koncerna listo de la Ekonomia kaj Socia Konsilio de UN. Ĝis tiu jaro UEA havis nerektajn rilatojn al UN, pro la rilatoj kun Unesko ekde 1954.
+1980, sept./okt.: La Monda Konferenco de Turismo en Manilo, kunvokita de la Monda Organizaĵo pri Turismo, "substrekas" (por la komunikado inter vizitantoj, lokuloj kaj turismaj kunlaborantoj) "la gravecon de la scipovo de lingvoj, speciale de la lingvoj kun universala celo kiel Esperanto".
+1980, 31-a de julio: Aperas la Manifesto de Raŭmo kadre de la 36-a IJK en Raŭmo, Finnlando.
+1980, 15-a de januaro: Unua numero de Monato, monata revuo pri politiko, kulturo, scienco kaj moderna vivo.
+
+
+=== Antaŭ 1980 ===
+( Kutima kronologia ordo)
+
+1859, 15-a de decembro: naskiĝo de L. L. Zamenhof en Bjalistoko, tiutempe la urbo situis en Rusia imperio.
+1878, 17-a de decembro: inaŭguro de la unua versio de Esperanto, Lingwe Uniwersala
+1887, 26-a de julio: "naskiĝo" de Esperanto (publikigo de la Unua Libro de Esperanto: permeso de la Rusia cenzuro disvastigi la presitajn ekzemplerojn).
+1887: Per la aperigo de tri poemoj inter la ses ekzemplaj tekstoj en Esperanto Zamenhof klare montras, ke li celas survojigi kulturan lingvon.
+1888: La unua libro en Esperanto aperas, la t. n. "Dua Libro" de Esperanto.
+1889: Apero de la unua Esperanta revuo La Esperantisto en Nurenbergo. Fondiĝo de unuaj Esperanto-kluboj.
+1890-aj jaroj: Apero de tradukoj el la monda literaturo kiel Hamleto de V. Ŝekspiro (1894)
+1904, 2-a de junio: Naskiĝas la unua, poste flue parolanta denaska esperantisto, Emilia Gastón el Hispanio.
+1905, junio: Fondiĝo de la revuo revuo Esperanto
+1905: Unua Universala Kongreso de Esperanto
+1907: Aperas la unua originala romano en Esperanto, „Kastelo de Prelongo“ (Henri Vallienne)
+1908: Fondiĝo de Universala Esperanto-Asocio (UEA)
+1917, 14-a de aprilo: morto de L. L. Zamenhof
+1920: Komenco de kabaredoj en Esperanto; multa uzado de vortludoj (fondiĝo de la kabaredo "Verda Kato", kiun gvidis Raymond Schwartz
+1921: Fondiĝo de Sennacieca Asocio Tutmonda (SAT)
+1922, 21a de septembro: La Ligo de Nacioj akceptas en sia tria asembleo raporton pri 'Esperanto kiel internacia helplingvo'. La raporto mencias, ke Esperanto estas parolata en kongresoj kaj aliaj kunvenoj, en vojaĝoj, internaciaj oficejoj kaj teatro; ĝi konkludas, ke pro tio ĝi estas vivanta lingvo ("a living language"). Krome la raporto mencias la ekziston de proksimume 4000 publikaĵoj, tradukitaj kaj originalaj (ambaŭ p. 11).
+1924/25: Akcepto de Esperanto kiel "klara lingvo" (ne kodo) en telegrafado (en 1924 rekomendo de Ligo de Nacioj, en 1925 akcepto de Universala Telegrafa Unio)
+1933/35: Malpermeso de Esperanto-agado en Germanio
+1937: Komenco de persekutado de Esperanto-parolantoj en Soveta Unio
+1938: Unua Internacia Junulara Kongreso en Nederlando (IJK; tiam: "Internacia Junulara Kunveno"). Fondiĝo de Tutmonda Esperantista Junulara Organizo (TEJO; unue: TJO; cetere jam en la 1920-aj jaroj ekzistis "Tutmonda Esperanto-Junulara Asocio").
+1949, januaro: En la sovetie okupita parto de Germanio (poste: GDR) oni malpermesis asociojn kaj membrecojn en alilandaj organizaĵoj.
+1954, 8-a de decembro: Komenco de "konsultaj aranĝoj" inter Unesko kaj UEA; ekde 2012 tio nomiĝas "konsulta partnereco".
+1954, 10-a de decembro: Unua Unesko-rezolucio pri Esperanto (Montevideo)
+1957: Raporto pri enketo rilate la nombron de infanoj kreskantaj kun Esperanto kiel denaska lingvo: sume 154 en 19 landoj
+1959: Unua elsendo esperantlingva de Pola Radio
+1961: Laŭ la Jarlibro de UEA ekzistas almenaŭ 58 denaskuloj.
+1966: Fondiĝo de memstara Esperanto-fako en la budapeŝta Eötvös Lóránd Universitato (ELTE), kie oni povis studi esperantologion, kaj ricevi ŝtate rekonitan instruistan diplomon pri Esperanto. (Ekde 2006 ne plu estas universitata edukado pri esperantologio ĉe ELTE.) Gvidanto de la fako dum multaj jaroj estis prof-o István Szerdahelyi.
+1967: La Internacia Organizaĵo por Normigado (ISO) fiksas "eo" por Esperanto (kune kun la unuaj lingvokodoj).
+1970: Unua eldono de Plena Ilustrita Vortaro de Esperanto.
+1977, 2-a de januaro: Radio Vatikana komencas regule elsendi en Esperanto unufoje semajne.
+
+
+== Notoj kaj referencoj ==
+
+
+== Vidu ankaŭ ==
+Verkoj pri Esperanto-historio
+Iamaj Esperanto-Asocioj
+Historio de UEA
+Historio de la Esperanto-movado laŭ landoj kaj regionoj
+Landa Asocio
+Historio de Esperanto-muziko
+
+
+== Eksteraj ligiloj ==
+[14]
+[15] Arkivigite je 2008-10-29 per la retarkivo Wayback Machine
+[16] 
+Esperanto sen antaŭjuĝoj
+Historiografio de Esperanto de Tyron - vicprezidanto de TEJO, Retoso 2022, en Jutubo
+
+==========
+
+Kulturo (de la latina cultura, prilaboro, zorgo, kiu devenas de colere, loĝi, prizorgi, kultivi) estas vastasence ĉio, kion la homo mem kreis, kontraŭe al la naturo, ne kreata de li; ĝi ne rilatas nur al agrokulturo.
+En filozofio, la vorto kulturo indikas tion kio estas malsama al la naturo, tio estas, kio estas de la ordo de la akiritaj aferoj kaj ne denaskaj. Kulturo estis longe konsiderata kiel karakteriza trajto de homaro, kiu distingas ĝin de bestoj.
+En sociologio, kulturo estas difinita kiel "tio kio estas komuna al grupo de individuoj kaj kio ĝin interligas". Alimaniere, laŭ William Auld, Kulturo estas la sumo de ĉio kio diferencas unu homgrupo disde la ceteraj.
+En la kampo de kultursciencoj la koncepto kulturo povas esti konsiderata kiel aro de distingaj trajtoj, spiritaj kaj materiaj, intelektaj kaj emociaj, kiuj karakterizas iun socion aŭ socian grupon: simboloj, sintenoj, valoroj, atendoj kaj normoj de konduto. Krom artoj kaj literaturo, ĝi ampleksas vivostilojn, bazajn homajn rajtojn, tradiciojn kaj kredojn. Ĝi plugvidas al koheraj grupoj de homoj ĉu loĝantaj tute aŭ parte ene de ŝtataj teritorioj aŭ sen restado en ajna aparta teritorio.
+Ĝi konstituiĝas en malsamaj manieroj esti, pensi, agi kaj komuniki. La Konsilio de Eŭropo klarigis la koncepton kulturo jene:
+"La vorto "kulturo" estas asociita kun praktikoj, kredoj, valoroj, simboloj kaj tradicioj, kun apartaj vivmanieroj kaj kompreno de la mondo. Ies kultura identeco asimilas kaj la hereditajn trajtojn de malsamaj naciaj, etnaj kaj religiemaj grupoj kaj novajn elementojn akiritajn per interagado kun aliaj homoj el malsamaj fonoj aŭ en respondo al tutmondaj influoj kaj ŝanĝiĝantaj cirkonstancoj". 
+
+
+== Historio ==
+La signifo de kulturo ŝanĝiĝis en la daŭro de historio ree.
+
+Kulturo estas koncepto baze sur termino unuafoje uzite en grek-romia antikveco fare de la romia oratoro Cicerono: "cultura animi" (kultivado de la animo). Tiu ne-agrikultura uzo de la esprimo "kulturo" reaperis en moderna Eŭropo en la 17-a jarcento rilatanta al la plibonigo aŭ rafinado de individuoj, precipe tra eduko. Dum la 18-a kaj 19-a jarcentoj ĝi rilatis pli ofte al la komunaj referencpunktoj de ĉiuj homoj, kaj diskuto de la esprimo ofte estis ligita al naciaj aspiroj aŭ idealoj. Kelkaj sciencistoj kiel ekzemple Edward Tylor uzis la esprimon "kulturo" por rilati al universala homa kapablo.
+En la 20-a jarcento, "kulturo" aperis kiel centra koncepto en antropologio, ampleksante la vicon da homaj fenomenoj kiuj ne povas esti rekte atribuitaj al genetika heredo. Specife, la esprimo "kulturo" en usona antropologio havis du signifojn:
+
+la evoluinta homa kapablo klasifiki kaj reprezenti travivaĵojn per simboloj, kaj agi imagive kaj kreive; kaj
+la apartaj manieroj laŭ kiuj homoj, kiuj vivas alimaniere, klasifikis kaj reprezentis siajn travivaĵojn, kaj agis kreive.
+Hoebel priskribas kulturon kiel integran sistemon de erudiciaj kondutmodeloj kiuj estas karakterizaĵo de la membroj de socio kaj kiuj ne estas rezulto de biologia heredo.
+Distingoj estas nuntempe faritaj inter la fizikaj artefaktoj kreitaj fare de socio, ĝia tielnomita materia kulturo, kaj ĉio alia, nome la netuŝeblaĵoj kiaj ekzemple lingvo, kutimaro, ktp, tio estas la ĉefa referencito de la esprimo "kulturo".
+Aferoj tiuj, kiuj vere reprezentas la kulturon de la pasinteco estas bondataj aferoj. Ĉi tiuj aferoj estas aŭtentikaj kaj donas sencon al personoj pri kiel la vivo/stilo estis dum la periodo.
+
+
+== Etimologio kaj difinoj ==
+
+La vorto kulturo devenas de la latina termino cultura, jam uzita ekzemple de Cicerono en sia verko Tusculanae Disputationes, kiu mem devenas de la latina colere, prizorgi, kulturebligi, eduki. Ankaŭ la vortoj kolonio kaj kulto havas la saman devenon. Kulturo signifas en Esperanto, kiel ankaŭ en la germana ekzemple, kaj la prilaboron de la tero kaj la prizorgon de spiritaj aĵoj. La rilato al la tero troviĝas ĉefe en agrikulturo kaj agrokulturo. Jam Cicerono kiam parolis pri kulturo uzis la terminon en metafora senco rilate al la agrikultura signifo, sed alude al la kulturo de la animo komprenita teleologie kiel la plej alta ebla idealo por la homa disvolvigo. Etimologie la latina vorto colere devenas de la hindeŭropa radiko kuel-, tio estas turn(iĝ)i, tiel ke la devena signifo rilatis eble al lerte okupiĝi.
+Samuel Pufendorf plue aliris al tiu metaforo en moderna kunteksto, en signifo de io simila, sed jam ne plu akceptante, ke la filozofio estas la natura perfekto de la homo. Lia uzado, kaj tiu de multaj verkistoj post li, "referencas al ĉiuj vojoj en kiuj homaj estaĵoj superas sian originan barbarecon, kaj tra artefaro, ili iĝas komplete homaj."
+En 1986, filozofo Edward S. Casey verkis, "La vorto kulturo signifis 'loko plugita' en mezangla, kaj tiu sama vorto devenas el la Latina colere, 'loĝi, zorgi, plugi, adori' kaj cultus, 'kulto, speciale religia.' Esti kultura, havi kulturon, estas loĝigi lokon sufiĉe intense por kultivi ĝin — estis responsa pri ĝi, respondi al ĝi, atente zorgi ĝin."
+Per vortoj de antropologo E. B. Tylor, estas "tiu kompleksa tuto kiu inkludas sciaron, kredon, arton, moralon, juron, kutimaron kaj ajnajn aliajn kapablojn akiritajn de homoj kiel membro de socio." Alternative, en nuntempa variaĵo, "Kulturo estas difinita kiel socia afero kiu emfazas la praktikojn, diskursojn kaj materiajn esprimojn, kiuj, laŭlonge de la tempo, esprimas la kontinuecojn kaj diskontinuecojn de la socia signifo de la vivo farita komune.
+La Cambridge English Dictionary asertas, ke kulturo estas "la vivmaniero, speciale la ĝeneralaj kutimoj kaj kredoj, de partikulara grupo de personoj je partikulara tempo." La nomita "teorio de la administrado de la teroro" asertas, ke kulturo estas serio de agoj kaj mondokonceptoj kiu havigas al homoj bazon por percepti sin men kiel "indaj personoj ene de la mondo de signifoj" — kio levas ilin super la simplaj fizikaj aspektoj de la ekzistado, por nei la animalan malgravon kaj morton pri kio la Homo sapiens konscias ekde kiam ili akiris pli grandan cerbon.
+La vorto estas uzita en ĝenerala senco kiel evolukapablo kategoriigi kaj reprezenti spertojn pere de simboloj kaj agadi imagive kaj kreive. Tiu kapablo leviĝis kun la evoluo de la konduta moderneco ĉe homoj antaŭ 50 000 jaroj kaj ofte oni pensas, ke ĝi estas unika de homoj. Tamen, kelkaj aliaj specioj montris similajn, kvankam multe malpli komplikajn, kapablojn por socia lernado. Ĝi estas uzata ankaŭ por aludi al la kompleksaj retoj de praktikoj kaj akumulitaj sciaro kaj ideoj kiuj estas transpasigitaj tra socia interagado kaj ekzistas en specifaj homaj grupoj, aŭ plej ĝuste dirite kulturoj, uzante la pluralan formon.
+
+
+== Karakterizaj ecoj ==
+Kulturo estas dinamika (ĉiam ŝanĝanta sed en diversaj gradoj kaj rapidecoj depende de la sociaj cirkonstancoj) homa kreaĵo. Homoj kreadas kulturon. Tio estas kontraste al naturo, kiu estas perceptita kiel arbitra al homo.
+La kulturo estas komuna. Homoj de la sama socio kunhavas komunajn kondutojn kaj pensmanierojn per kulturo.
+Kulturo estas lernata. Dum homoj biologie heredas multajn fiziologiajn trajtojn kaj kondutismajn instinktojn, kulturo estas transdonita per socia heredo. Homo devas lerni la kulturon de aliaj homoj en la socio. En ĉi tiu kunteksto la sociologo Alfred Kruber difinis kulturon: "ĉiuj ne-fiziologiaj agadoj kaj produktoj de homo, kiuj ne estas refleksaj aŭ instinktaj."
+La kulturo estas dinamika. La dinamiko de kulturo devenas de la interagoj inter la individuo kaj socio kaj inter homoj kaj la ekosistemo en kiu ili vivas.
+La kulturo sin adaptiĝas. Kulturŝanĝoj en la procezo de socio kaj ĝiaj individuoj estas adaptiĝantaj al novaj sociaj kaj ekologiaj kondiĉoj.
+Pri la rilatoj inter unuopulo kaj socio: Kulturo influas la konduton de la homoj en la socio, sed ĝi ne tute regas ilin. Homoj emas sekvi la normojn kaj valorojn en socio sed povas devii de ili en diversaj situacioj. Kulturaj ŝablonoj direktas homajn emociojn, sentojn kaj agadoj, tamen lasas kontrolon al la individuon de liaj aŭ ŝiaj emocioj.
+Kulturo inkluzivas kaj eksplicitajn (konsciaj, agnoskitaj, subtenataj kaj eĉ celebritaj) elementojn kaj implicajn (subsurfacaj, kaŝitaj kaj eĉ neadataj) elementojn.
+
+
+== Kulturŝanĝo ==
+
+Kultura renovigo signifis ajnan ŝanĝon kiu estas nova kaj utila al grupo de homoj kaj esprimita en ilia konduto sed kiu ne ekzistas kiel fizika objekto. La homaro estas en tutmonda "akcela kultura ŝanĝperiodo", movata de la vastiĝo de internacia komerco, la amaskomunikiloj, kaj ĉefe, la eksplodo de la homa loĝantaro kaj la facileco de vojaĝoj kaj kontaktoj, inter aliaj faktoroj.
+Kulturoj estas interne trafitaj kaj de fortoj instigantaj ŝanĝojn kaj de fortoj rezistantaj ŝanĝon. Tiuj fortoj estas parencaj al kaj sociaj strukturoj kaj naturaj okazaĵoj, kaj estas engaĝitaj en la kontinuigo de kulturkonceptoj kaj praktikoj ene de nunaj strukturoj, kiuj mem estas submetataj al ŝanĝiĝo.
+Sociaj konfliktoj kaj la evoluo de teknologioj povas produkti ŝanĝojn ene de socio ŝanĝante socian dinamikon kaj reklamante novajn kulturajn modelojn, kaj spronante aŭ ebligante generan agon. Tiuj sociaj ŝanĝoj povas akompani ideologiajn ŝanĝojn kaj aliajn specojn de kultura ŝanĝo. Ekzemple, la usona feminisma movado implikis novajn praktikojn kiuj produktis ŝanĝon en seksaj rilatoj, ŝanĝante kaj seksajn kondutojn kaj ekonomiajn strukturojn. Ankaŭ mediaj cirkonstancoj povas eniri kiel faktoroj. Ekzemple, post kiam tropikaj arbaroj reduktiĝis ĉe la fino de la lasta glaciepoko, plantoj taŭgaj por malsovaĝigo estis haveblaj, kondukante al la invento de agrikulturo, kiu siavice kaŭzis multajn kulturajn inventojn kaj ŝanĝojn en socia dinamiko.
+
+Kulturoj estas ekstere trafitaj tra kontakto inter socioj, kiuj ankaŭ povas produkti - aŭ inhibicii - sociajn ŝanĝojn kaj ŝanĝojn en kulturaj praktikoj. Milito aŭ konkurado super resursoj povas kunpremi teknologian evoluon aŭ socian dinamikon. Plie, kulturkonceptoj povas transdoniĝi de unu socio al alia, tra disvastigo aŭ kulturigo. En disvastigo, la formo de io (kvankam ne nepre ties signifo) moviĝas de unu kulturo al alia. Ekzemple, hamburgeroj, rapidmanĝejo en Usono, ŝajnis ekzotaj kiam estis enkondukitaj iam en Ĉinion. "Stimuldisvastigo" (la dividado de ideoj) rilatas al elemento de unu kulturo kaŭzanta renovigon aŭ disvastigon en alia. "Rekta Prunto" aliflanke tendencas rilati al teknologia aŭ perceptebla disvastigo de unu kulturo la alia. Disvastigo de renovigaj teorioj prezentas science bazitan modelon de kial kaj kie individuoj kaj kulturoj enkondukas novajn ideojn, praktikojn, kaj produktojn.
+Senkulturigo havas malsamajn signifojn, sed en tiu kunteksto rilatas al anstataŭigo de la trajtoj de unu kulturo per tiuj de alia, normale pli potenca aŭ prestiĝa, kiel ekzemple kio okazis al certaj indianaj triboj kaj al multaj indiĝenaj popoloj ĉie sur la terglobo dum la procezo de koloniigo. Rilataj procezoj sur individua nivelo inkludas asimiladon (adopto de malsama kulturo de individua) kaj transkulturigo.
+Kultura alpropriĝo estas la transpreno aŭ la uzo de la elementoj de malpli superrega kulturo en nedezirinda kaj ofenda maniero laŭ ties membroj - tiel ke ĝia heredaĵo estas misuzata de homoj en privilegia pozicio. Ĉi tio diferencas de forpuŝita grupo, kiu adoptas ion de superrega kulturo en procezo de kultura asimilado.
+En kultura antropologio kaj kultura geografio, kultura disvastigo, kiel konceptigis ĝin Leo Frobenius en sia verko de 1897/98 nome Der westafrikanische Kulturkreis, estas la etendo de kulturaj aferoj — kiaj ideoj, stiloj, religioj, teknologioj, lingvoj ktp.— inter individuoj, ĉu ene de unu kulturo aŭ el unu kulturo al alia. Ĝi estas distinga el la difuzo de novaj aferoj ene de specifa kulturo. Ekzemploj de tia disvastigo estas la etendo de militĉaro kaj de ferfandado en antikveco, kaj la uzado de aŭtoj kaj de okcidentaj negoc-kompletoj en la 20a jarcento.
+
+
+== Modernaj pensaroj ==
+
+
+=== Germana Romantismo ===
+
+Immanuel Kant (1724–1804) formulatis individuisman difinon de "klerismo" simila al la koncepto de bildung: "Klerismo estas la apero de homo el sia mem-generita nematureco." Li argumentis, ke tiu nematureco venas ne el manko de kompreno, sed el manko de kuraĝo por pensi sendepende. Kontraŭ tiu intelekta malkuraĝo, Kant konsilis: Sapere Aude, "Kuraĝu scii!" Reage al Kant, germanaj fakuloj kiel Johann Gottfried Herder (1744–1803) argumentis, ke tiu homa kreivo, kiu necese adoptas neantaŭvideblajn kaj tre diversajn formojn, estas grava kiel homa racieco. Krome, Herder proponis kolektivan formon de Bildung: "Por Herder, Bildung estis la totalo de spertoj kiuj havigas koheran identecon, kaj sencon de komuna destino, por popolo."
+
+En 1795, la prusia lingvisto kaj filozofo Wilhelm von Humboldt (1767–1835) alvokis por antropologio kiu sintezigus la interesojn de Kant kaj Herder. Dum la Romantisma epoko, fakuloj en Germanio, speciale tiuj kiuj rilatas al naciismaj movadoj — kiel ĉe naciisma luktado por krei "Germanion" el diversaj princlandoj, kaj la naciismaj luktoj fare de etnaj minoritatoj kontraŭ la Aŭstri-Hungara Imperio — disvolvigis pli inkludan nocion de kulturo kiel "mondkoncepto" (Weltanschauung). Laŭ tiu skolo de pensaro, ĉiu etna grupo havas distingan mondkoncepton kiu estas nemezurebla kun la mondkonceptoj de aliaj grupoj. Kvankam pli inkluda ol pli fruaj mondkonceptoj, tiu alproksimiĝo al kulturo ankoraŭ ebligis distingojn inter "civilizitaj" kaj "primitivaj" aŭ "tribaj" kulturoj.
+En 1860, Adolf Bastian (1826–1905) argumentis por "la psika unueco de la homaro." Li proponis, ke scienca komparo de ĉiuj homaj socioj montrus, ke distingaj mondkonceptoj konsistas el la samaj bazaj elementoj. Laŭ Bastian, ĉiuj homaj socioj kunhavas serion de "elementaj ideoj" (Elementargedanken); diferencaj kulturoj, aŭ diferencaj "popolideoj" (Völkergedanken), estas lokaj modifoj de elementaj ideoj. Tiu konsidero pavimis la vojon por la moderna kompreno de kulturo. Franz Boas (1858–1942) estis trejnita en tiu tradicio, kaj li kunportis ĝin kiam li lasis Germanion por iri al Usono.
+
+
+=== Angla Romantismo ===
+
+En la 19-a jarcento, humanistoj kiel la angla poeto kaj eseisto Matthew Arnold (1822–1888) uzis la vorton "kulturo" por referenci al idealo de individua homa rafinado, el "la plej bona kiu estis pensita kaj dirita en la mondo." Tiu koncepto de kulturo estas ankaŭ komparebla al la germanlingva koncepto de bildung: "...kulturo kiel klopodo al nia totala perfekteco pere de rimedoj por atingi la konon pri ĉiuj aferoj kiuj plej interesas nin, la plej bona kiu estis pensita kaj dirita en la mondo."
+Praktike, kulturo referencis al elita idealo kaj estis asociata kun aktivecoj kiel arto, klasika muziko, kaj alta kuirarto. Ĉar tiuj formoj estis asociaj kun la urba vivo, "kulturo" estis identigita kun "civilizacio" (el lat. civitas, urbo). Alia faceto de la romantisma movado estis intereso en folkloro, kio kondukas al identigo de "kulturo" inter ne-elitoj. Tiu distingo estas ofte karakterizata inter alta kulturo, nome tiu de la reganta socia grupo, kaj malalta kulturo. Alivorte, la ideo de "kulturo" kiu estis disvolvigita en Eŭropo dum la 18a kaj komenco de la 19a jarcento respegulis malegalecojn ene de eŭropaj socioj.
+
+Matthew Arnold kontrastis la koncepton de "kulturo" kun anarkio; aliaj eŭropanoj, sekvante la filozofojn Thomas Hobbes kaj Jean-Jacques Rousseau, kontrastigis la terminon "kulturo" kun tiu de "la stato de naturo." Laŭ Hobbes kaj Rousseau, la indiĝenaj amerikanoj kiuj estis konkeritaj de eŭropanoj el la 16a jarcentoj antaŭen estis vivantaj en stato de naturo; tiu opozicio estis esprimita pere de la kontrasto inter "civilizitaj" kaj "necivilizitaj." Laŭ tiu pensmaniero, oni povus klasigi kelkajn landojn kaj naciojn kiel pli civilizitaj ol aliaj kaj kelkajn personojn kiel pli kulturigitaj ol aliaj. Tiu kontrasto kondukis al la teorio de Herbert Spencer pri socia darvinismo kaj al la teorio de Lewis Henry Morgan pri kultura evoluo. Ĝuste ĉar kelkaj kritikistoj estis argumentintaj, ke la distingo inter alta kaj malalta kulturoj estas esprimo de la konflikto inter eŭropaj elitoj kaj ne-elitoj, aliaj kritikistoj argumentis, ke la distingo inter civilizitaj kaj necivilizitaj personoj estas esprimo de la konflikto inter eŭropaj koloniaj povoj kaj iliaj koloniaj subuloj.
+Aliaj kritikistoj de la 19-a jarcento, sekvante al Rousseau, akceptis tiun diferencigon inter pli alta kaj pli malalta kulturoj, sed vidis la rafinon kaj sofistikon de alta kulturo kiel koruptaj kaj nenaturaj disvolvigoj kiuj malheligas kaj distordas la esencan naturon de la personoj. Tiuj kritikistoj konsideris la popolan muzikon (kiel produktita de "la popolo," t. e., ruraj, nekleraj, kamparanoj) por honeste esprimi naturan vivmanieron, dum la klasika muziko aspektis supraĵa kaj dekadenca. Egale, tiu konsidero ofte portretis indiĝenajn popolojn kiel "noblaj sovaĝuloj" kiuj vivas aŭtentajn kaj senmakulajn vivojn, nekomplike kaj nekoruptite pro la tre alte tavoligitaj kapitalismaj sistemoj de Okcidento.
+En 1870 la antropologo Edward Tylor (1832–1917) aplikis tiujn ideojn pri tre alta kontraŭ tre malalta kulturoj por proponi teorion de evoluo de religio. Laŭ tiu teorio, religio evoluas el pli politeismaj al pli monoteismaj formoj. En la procezo, li redifinis kulturon kiel diversa serio de aktivecoj karakteraj de ĉiuj homaj socioj. Tiu konsidero preparis la vojon por la moderna kompreno de religio.
+
+
+=== Kulturtipoj ===
+
+La transkultura socio estas socia koncepto respektive kulturo, en kiu ĉiuj partoprenas sendepende de la nacia kulturo, el kiu ili originas. Tiu socia koncepto estis publikigita en 1997 fare de la filozofo Wolfgang Welsch en lia samnoma eseo. La metoda aliro de Welsch estis akre kritikita pro metodikaj kialoj. Pri la temaro okupiĝis jam antaŭe la etnologoj Clyde Kluckhohn kaj Frank L. Strodtbeck.
+Alternativa kulturo estas tipo de kulturo kiu ekzistas ekster la bordoj de hegemonia aŭ popola kulturo, kutime pere de la agado de unu aŭ pliaj subkulturoj.
+Popola kulturo (aŭ eĉ populara kulturo) estas la tutaĵo de ideoj, perspektivoj, sintenoj, memeoj, bildoj kaj aliaj fenomenoj kiuj estas rigardataj kiel preferataj tra neformala interkonsento ene de la ĉeftendenco de iu preciza socio aŭ kulturo, ĉefe ene de la okcidenta kulturo de la komenco al mezo de la 20a jarcento kaj la posta pliiganta tutmondiĝa ĉeftendenco de la dua duono de la 20a kaj komenco de la 21a jarcento.
+Subkulturo estas kulturo kiu ekzistas kadre de alia, pli vasta kulturo, kaj kiun karakterizas nombro da apartaj stilaj trajtoj, konvinkoj k.s.
+
+La kontraŭkulturo estis dekomence kaj iel sinonimo de la hipia movado. Ĝi tamen enhavas ankaŭ la ĉemarĝenajn kulturajn movadojn. Kutime la kontraŭkulturo venas de protestemaj junuloj, sed ne nur. Tiu kulturo amplekse enhavas la diversajn artojn, la muzikon, la vestaron, la literaturon ktp; pro la ekonomia komforto la junularo povis kanti aŭ produkti verkojn, kiujn ili deziris. En la komenco de 1970-aj jaroj, oni vidis eksplodon de la protestemaj artoj. Granda parto de tiu kulturo estis absorbita de la kultura komerco kaj ekonomio.
+
+
+=== En politiko ===
+Kultura naciismo estas formo de naciismo, ĉe kiu la nacio estas difinata per kundividata kulturo. Ĝi estas meza pozicio inter etna naciismo kaj civita naciismo. Sekve, ĝi fokusas je nacia identeco muldita de kulturaj tradicioj, sed ne je la konceptoj de komuna praularo aŭ raso. Ĝi allasas la eblecon, ke alidevenaj individuoj povas membri en la nacio per la vojo de kultura asimilado.
+Kultura interrompo estas aktivista agado, kiu celas interrompi okcidentajn, tutmondajn kaj kompaniajn kulturajn produktadajn mekanismojn. Ĉi tiu agado kutime plenumiĝas per la ekspluatado, oni povus diri misuzo, de kulturaj produktadaj mekanismoj, ĉefe de la diversaj amaskomunikiloj.
+
+
+=== En psikologio ===
+Kultura psikologio estas la studo kiel la tendencoj kaj de psikologio kaj de la konduto estas enradikigitaj kaj enmetitaj tute ene de kulturo. La ĉefa postulo de la psikologio de kulturo estas ke la menso kaj la kulturo estas nesepareblaj kaj reciproke konstituantaj sin, kio signifas, ke la personoj estas milditaj per sia kulturo kaj ilia kulturo siavice estas same muldita fare de ili.
+
+
+== Citaĵoj ==
+Juan José Arreola iam diris: 
+Alia aŭtoro, kiu pripensis la temon estis la franca Vercors en La malnaturitaj bestoj; laŭ li "la homeco estas ribelo kontraŭ naturo."
+
+Z. Tišljar klarigas la kulturon tiel ĉi: 
+
+
+== Aliaj signifoj kaj uzadoj de la vorto ==
+Kulturo estas ankaŭ la prilaborado pri tero, por igi ĝin fruktodona. Prefereble laŭ NPIV, oni parolas pri kulturo, okaze de flegado pri vegetaĵo, besto aŭ homoj por favori kaj perfektigi ilian korpan evoluon (laŭ la signifo 1b de kulturo en ReVo, ekzemple: kulturo de legomoj, floroj; la fizika kulturo (gimnastiko). Do evitendas konfuzo kun kultivo.
+Kulturaj aĵoj estas ĉiuj transformoj de krudmaterialo, kiel en tekniko, arto, kuirado, vestaĵoj, sed ankaŭ juro, moralo, religio, ekonomio kaj sciencoj.
+
+Libertempa kulturo estas aro da ŝablonoj kiuj permesas (aŭ devigas) la individuon formuli manierojn por li mem administri sian liberan tempon.
+Organiza kulturo estas kromnomo pri la kondutismaj ŝablonoj uzataj en la organizo: severeco, kreemo, profesieco, korupto ktp.
+Veturada (aŭ ŝoforista) kulturo estas la kondutismaj ŝablonoj de ŝoforoj dum veturado: sovaĝa, zorgema, ĝentila kaj similaj.
+Konsumkulturo estas la konduto de modernaj homoj en butikumado, la uzo de la frazo estas kutime kritika kaj signifas butikumi en maniero dekroĉita de bazaj necesaĵoj kaj pro la sento ke la ago mem de aĉetado donas al la aĉetanto statuson, apartenon kaj eĉ memvaloron.
+Materia kulturo estas ombreltermino por ĉiuj materialaj objektoj produktitaj de homoj apartenantaj al socio, ekzemple teknologioj, konstruaĵoj (tendo, vilao kaj turo), iloj (mikroondilo, klimatizilo). Ĉi tiu estas la palpebla, praktika aspekto nomita la materia aspekto.
+Nemateria kulturo estas la koncepta, abstrakta aspekto. La abstrakta mondo de ideoj kreitaj de homoj kiuj apartenas al la socio, tio estas, la pensmaniero de la homoj en sia kulturo kaj la manieroj en kiuj ili akceptas la realigon de siaj ideoj, ekzemple Jogo.
+La atendanta kulturo ĉe vico kiel socia ordo kiu venas por establi justan kaj ĝustan ordon por ricevi servon aŭ produkton kies provizo estas limigita (t.e. ĝi ne povas esti disponigita al ĉiuj konsumantoj tuj post ricevo de ilia postulo). La atendokulturo en la atendovico traktas ĉiun homon kiel egalan en siaj rajtoj al ĉiuj aliaj, kaj la mezuro kiu determinas la ordon de aliro al la kasisto, estas la antaŭe determinita prioritato en alvenado al la atendovico.
+Kultura ikono estas persono aŭ objekto kiu estas tre rekonata fare de la membroj de kulturo aŭ subkulturo, kiel povas esti la reprezento de aspekto de ĝia identeco. Ĝenerale, ĉiu nacio havas proprajn kulturajn ikonojn aŭ naciajn simbolojn, kiuj povas varii amplekse. Ekzemple en Anglio ofte oni konsideras kulturaj ikonoj la Big Ben, Teo je kvina posttagmeze, ruĝa telefonbudo, duetaĝa aŭtobuso ktp. En Rusio ofte oni konsideras la pupajn Matrjoŝkojn.​
+
+
+== Laŭ landoj, regionoj aŭ lingvoj ==
+Kulturo de Afganio
+Kulturo de Armenujo
+Kulturo de Azerbajĝano
+Kulturo de Erlitou
+Kulturo de Grekujo
+Kulturo de Haitio
+Kulturo de Hindujo
+Kulturo de Hispanujo
+Kulturo de Honkongo
+Kulturo de Irako
+Kulturo de Panamo
+Kulturo de Pollando
+Esperanto-kulturo
+
+
+== Vidu ankaŭ ==
+
+
+== Referencoj ==
+
+
+== Bibliografio ==
+Groh, Arnold. 2019. Theories of Culture. London: Routledge. ISBN 978-1-138-66865-2.
+Terrence Deacon.  (1997) The Symbolic Species: The Co-evolution of Language and the Brain. New York and London: W. W. Norton.
+Walter Taylor.  (1948) A Study of Archeology. Memoir 69, American Anthropological Association. Carbondale IL: Southern Illinois University Press.
+Dell Hymes.  (1969) Reinventing Anthropology.
+James, Paul.  (2010) Globalization and Culture, Vol. 3: Global-Local Consumption. London: Sage Publications.
+Ralph L. Holloway Jr. (1969). “Culture: A Human domain”, Current Anthropology 10(4). 
+Michael Tomasello (1999). “The Human Adaptation for Culture”, Annual Review of Anthropology 28. 
+ (1941) “The relation of habitual thought and behavior to language”, Language, Culture, and Personality: Essays in Honor of Edward Sapir. 
+"Adolf Bastian". Today in Science History. 27 Jan 2009 Today in Science History
+"Adolf Bastian", Encyclopædia Britannica Online, 27 January 2009
+Ankerl, Guy.  [2000] (2000) Global communication without universal civilization, vol.1: Coexisting contemporary civilizations: Arabo-Muslim, Bharati, Chinese, and Western, INU societal research. Geneva: INU Press. ISBN 2-88155-004-5.
+Arnold, Matthew. 1869. Culture and Anarchy. Arkivigite je 2017-11-18 per la retarkivo Wayback Machine New York: Macmillan. Tria eldono, 1882, disponebla rete. Alirita: 2006-06-28.
+Bakhtin, M. M. (1981) The Dialogic Imagination: Four Essays. Ed. Michael Holquist. Trans. Caryl Press. ISBN 978-0-252-06445-6.
+Barzilai, Gad. 2003. Communities and Law: Politics and Cultures of Legal Identities University of Michigan Press. ISBN 0-472-11315-1
+Bourdieu, Pierre. 1977. Outline of a Theory of Practice. Cambridge University Press. ISBN 978-0-521-29164-4
+Cohen, Anthony P. 1985. The Symbolic Construction of Community. Routledge: New York,
+Dawkins, R. 1982. The Extended Phenotype: The Long Reach of the Gene. Paperback ed., 1999. Oxford Paperbacks. ISBN 978-0-19-288051-2
+Findley & Rothney. Twentieth-Century World (Houghton Mifflin, 1986)
+Geertz, Clifford. 1973. The Interpretation of Cultures: Selected Essays. New York. ISBN 978-0-465-09719-7.
+1957. "Ritual and Social Change: A Javanese Example", American Anthropologist, Vol. 59, No. 1. COI:10.1525/aa.1957.59.1.02a00040
+Goodall, J. 1986. The Chimpanzees of Gombe: Patterns of Behavior. Cambridge, MA: Belknap Press of Harvard University Press. ISBN 978-0-674-11649-8
+Hoult, T. F., ed. 1969. Dictionary of Modern Sociology. Totowa, New Jersey, United States: Littlefield, Adams & Co.
+Jary, D. and J. Jary. 1991. The HarperCollins Dictionary of Sociology. New York: HarperCollins. ISBN 0-06-271543-7
+Keiser, R. Lincoln 1969. The Vice Lords: Warriors of the Streets. Holt, Rinehart, and Winston. ISBN 978-0-03-080361-1.
+Kroeber, A. L. and C. Kluckhohn, 1952. Culture: A Critical Review of Concepts and Definitions. Cambridge, MA: Peabody Museum
+Kim, Uichol (2001). "Culture, science and indigenous psychologies: An integrated analysis." In D. Matsumoto (Ed.), Handbook of culture and psychology. Oxford: Oxford University Press
+McClenon, James. "Tylor, Edward B(urnett)". Encyclopedia of Religion and Society. Ed. William Swatos and Peter Kivisto. Walnut Creek: AltaMira, 1998. 528-29.
+Middleton, R. 1990. Studying Popular Music. Philadelphia: Open University Press. ISBN 978-0-335-15275-9.
+O'Neil, D. 2006. Cultural Anthropology Tutorials Arkivigite je 2004-12-04 per la retarkivo Wayback Machine, Behavioral Sciences Department, Palomar College, San Marco, California. Alirita: 2006-07-10.
+Reagan, Ronald. "Final Radio Address to the Nation" Arkivigite je 2016-01-30 per la retarkivo Wayback Machine, 14a de Januaro, 1989. Alirita la 3an de Junio, 2006.
+Reese, W.L. 1980. Dictionary of Philosophy and Religion: Eastern and Western Thought. New Jersey U.S., Sussex, U.K: Humanities Press.
+Tylor, E.B. 1974. Primitive culture: researches into the development of mythology, philosophy, religion, art, and custom. New York: Gordon Press. First published in 1871. ISBN 978-0-87968-091-6
+UNESCO. 2002. Universal Declaration on Cultural Diversity, publikigita dum la Internacia Tago de Gepatra Lingvo, nome 21an de Februaro, 2002. Alirita: 2006-06-23.
+White, L. 1949. The Science of Culture: A study of man and civilization. New York: Farrar, Straus and Giroŭ.
+Wilson, Edward O. (1998). Consilience: The Unity of Knowledge. Vintage: New York. ISBN 978-0-679-76867-8.
+Wolfram, Stephen. 2002 A New Kind of Science. Wolfram Media, Inc. ISBN 978-1-57955-008-0
+
+
+== Eksteraj ligiloj ==
+Cultura: International Journal of Philosophy of Culture and Axiology Arkivigite je 2013-06-04 per la retarkivo Wayback Machine

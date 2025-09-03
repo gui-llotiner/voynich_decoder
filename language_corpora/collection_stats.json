@@ -1,0 +1,170 @@
+{
+  "basque": {
+    "total_chars": 108322,
+    "sources": [
+      "Wikipedia (13 items)"
+    ],
+    "word_count": 13262,
+    "success": true
+  },
+  "turkish": {
+    "total_chars": 68116,
+    "sources": [
+      "Wikipedia (14 items)"
+    ],
+    "word_count": 9031,
+    "success": true
+  },
+  "finnish": {
+    "total_chars": 280850,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 30922,
+    "success": true
+  },
+  "hungarian": {
+    "total_chars": 120154,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 16568,
+    "success": true
+  },
+  "russian": {
+    "total_chars": 346303,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 47249,
+    "success": true
+  },
+  "polish": {
+    "total_chars": 315553,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 42694,
+    "success": true
+  },
+  "bulgarian": {
+    "total_chars": 45634,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 6842,
+    "success": true
+  },
+  "lithuanian": {
+    "total_chars": 25138,
+    "sources": [
+      "Wikipedia (13 items)"
+    ],
+    "word_count": 3357,
+    "success": true
+  },
+  "greek": {
+    "total_chars": 281808,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 42508,
+    "success": true
+  },
+  "albanian": {
+    "total_chars": 108360,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 17461,
+    "success": true
+  },
+  "romanian": {
+    "total_chars": 266048,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 40155,
+    "success": true
+  },
+  "french": {
+    "total_chars": 532714,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 81741,
+    "success": true
+  },
+  "spanish": {
+    "total_chars": 249136,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 39864,
+    "success": true
+  },
+  "german": {
+    "total_chars": 303992,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 40040,
+    "success": true
+  },
+  "english": {
+    "total_chars": 511545,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 78101,
+    "success": true
+  },
+  "irish": {
+    "total_chars": 47063,
+    "sources": [
+      "Wikipedia (11 items)"
+    ],
+    "word_count": 7170,
+    "success": true
+  },
+  "maltese": {
+    "total_chars": 92082,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 11912,
+    "success": true
+  },
+  "arabic": {
+    "total_chars": 360272,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 57965,
+    "success": true
+  },
+  "hebrew": {
+    "total_chars": 64860,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 10364,
+    "success": true
+  },
+  "latin": {
+    "total_chars": 48527,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 6200,
+    "success": true
+  },
+  "georgian": {
+    "total_chars": 33649,
+    "sources": [
+      "Wikipedia (15 items)"
+    ],
+    "word_count": 4391,
+    "success": true
+  }
+}
