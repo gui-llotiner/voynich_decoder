@@ -19,6 +19,8 @@ Where:
 - r is the rank of the word
 - ρ and α are parameters that define the shape of the distribution curve
 
+https://github.com/gui-llotiner/voynich_decoder/issues/1#issuecomment-3247744380
+
 By analyzing the word frequencies in the Voynich manuscript and fitting them to this law, we can see that the text follows the same statistical pattern found in other known human languages, despite being more "curved" than other languages that I tested. A close fit to the Zipf-Mandelbrot curve is a strong indicator that the text is not random and possesses a language-like structure.
 
 ### Shannon Entropy
