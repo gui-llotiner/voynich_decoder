@@ -1,9 +1,0 @@
-requests
-wikipedia
-numpy
-pandas
-matplotlib
-scipy
-seaborn
-nltk
-scipy
